@@ -1,0 +1,1006 @@
+PatientName,PatientEmail,PatientCardID,MedicalHistory,DentistName,DentistEmail,Specialization,LicenseID,ApptDate,ApptTime,ApptStatus,Diagnosis,EstimatedCost,HasXRay,XRayUploadDate
+Oleksandr Kovalenko,patient795@email.com,3640,None,Dr. Koval,doctor5@clinic.com,Surgeon,LIC-732,2025-11-09,09:00,Completed,Gingivitis,4938.49,No,
+Mariia Boiko,patient454@email.com,6688,Hypertension,Dr. Smith,doctor43@clinic.com,Therapist,LIC-941,2025-09-09,12:00,Completed,Gingivitis,4954.58,No,
+Ivan Melnyk,patient986@email.com,1019,Diabetes,Dr. Frank,doctor28@clinic.com,Therapist,LIC-778,2026-01-02,12:00,Cancelled,Braces Installation,5224.45,No,
+Oleksandr Kovalenko,patient690@email.com,4664,Penicillin allergy,Dr. Smith,doctor44@clinic.com,Periodontist,LIC-337,2025-11-20,14:00,Completed,Caries,5516.2,Yes,2025-11-20
+Viktor Shevchenko,patient41@email.com,9280,Hypertension,Dr. House,doctor14@clinic.com,Surgeon,LIC-197,2025-11-14,12:00,Completed,Teeth Cleaning,9439.51,No,
+Viktor Shevchenko,patient658@email.com,5287,Hypertension,Dr. Koval,doctor1@clinic.com,Periodontist,LIC-261,2025-11-22,13:00,Completed,Braces Installation,12608.61,No,
+Anna Tkachenko,patient450@email.com,5106,None,Dr. Smith,doctor12@clinic.com,Periodontist,LIC-341,2026-01-19,13:00,Cancelled,Teeth Cleaning,7765.94,No,
+Anna Tkachenko,patient235@email.com,7292,None,Dr. House,doctor23@clinic.com,Orthodontist,LIC-645,2025-10-20,16:00,Cancelled,Teeth Cleaning,13780.85,Yes,2025-10-20
+Viktor Shevchenko,patient980@email.com,6021,None,Dr. Koval,doctor11@clinic.com,Orthodontist,LIC-726,2025-09-14,17:00,Cancelled,Gingivitis,8727.72,No,
+Mariia Boiko,patient177@email.com,6007,Diabetes,Dr. Smith,doctor13@clinic.com,Surgeon,LIC-963,2025-09-15,16:00,Scheduled,Braces Installation,8738.82,No,
+Oleksandr Kovalenko,patient279@email.com,2300,Diabetes,Dr. Smith,doctor3@clinic.com,Orthodontist,LIC-813,2025-11-28,14:00,Scheduled,Teeth Cleaning,3959.65,No,
+Viktor Shevchenko,patient754@email.com,7528,Diabetes,Dr. Koval,doctor43@clinic.com,Periodontist,LIC-125,2025-11-21,13:00,Cancelled,Caries,13506.79,Yes,2025-11-21
+Yana Lysenko,patient525@email.com,9925,None,Dr. Smith,doctor24@clinic.com,Periodontist,LIC-572,2025-10-28,10:00,Scheduled,Healthy,3823.88,Yes,2025-10-28
+Mariia Boiko,patient314@email.com,5684,Hypertension,Dr. Frank,doctor16@clinic.com,Surgeon,LIC-284,2025-11-29,12:00,Cancelled,Caries,5290.48,No,
+Yana Lysenko,patient26@email.com,1437,Hypertension,Dr. Smith,doctor32@clinic.com,Orthodontist,LIC-933,2025-11-15,16:00,Cancelled,Pulpitis,13053.44,Yes,2025-11-15
+Yana Lysenko,patient19@email.com,6200,Diabetes,Dr. House,doctor37@clinic.com,Therapist,LIC-145,2025-11-27,16:00,Cancelled,Braces Installation,9421.4,No,
+Viktor Shevchenko,patient540@email.com,2647,Hypertension,Dr. Smith,doctor13@clinic.com,Therapist,LIC-139,2025-10-11,16:00,Completed,Gingivitis,10115.56,No,
+Ivan Melnyk,patient276@email.com,9224,None,Dr. House,doctor45@clinic.com,Periodontist,LIC-532,2025-09-25,15:00,Completed,Healthy,14019.67,No,
+Viktor Shevchenko,patient546@email.com,6389,None,Dr. Koval,doctor38@clinic.com,Orthodontist,LIC-677,2025-09-25,14:00,Completed,Caries,9285.65,Yes,2025-09-25
+Viktor Shevchenko,patient111@email.com,9295,Penicillin allergy,Dr. House,doctor9@clinic.com,Periodontist,LIC-270,2025-09-23,16:00,Cancelled,Gingivitis,11188.0,No,
+Anna Tkachenko,patient336@email.com,6312,Diabetes,Dr. Koval,doctor34@clinic.com,Surgeon,LIC-577,2025-10-07,17:00,Scheduled,Healthy,8646.74,Yes,2025-10-07
+Oleksandr Kovalenko,patient947@email.com,4989,None,Dr. Frank,doctor11@clinic.com,Orthodontist,LIC-879,2026-01-13,09:00,Scheduled,Healthy,12020.67,Yes,2026-01-13
+Ivan Melnyk,patient698@email.com,7521,Diabetes,Dr. Smith,doctor13@clinic.com,Orthodontist,LIC-825,2026-01-30,15:00,Cancelled,Caries,8262.13,No,
+Oleksandr Kovalenko,patient285@email.com,1200,None,Dr. Frank,doctor17@clinic.com,Periodontist,LIC-936,2025-09-29,09:00,Scheduled,Caries,6162.3,Yes,2025-09-29
+Viktor Shevchenko,patient933@email.com,2945,Diabetes,Dr. House,doctor36@clinic.com,Therapist,LIC-497,2025-11-30,13:00,Scheduled,Healthy,6219.9,Yes,2025-11-30
+Yana Lysenko,patient217@email.com,8295,Penicillin allergy,Dr. Smith,doctor19@clinic.com,Surgeon,LIC-962,2025-11-20,10:00,Scheduled,Healthy,812.44,No,
+Yana Lysenko,patient45@email.com,7093,None,Dr. Frank,doctor25@clinic.com,Periodontist,LIC-842,2025-10-19,09:00,Cancelled,Caries,7883.58,Yes,2025-10-19
+Anna Tkachenko,patient756@email.com,4601,Penicillin allergy,Dr. Koval,doctor50@clinic.com,Orthodontist,LIC-390,2025-11-27,15:00,Cancelled,Healthy,9264.91,No,
+Yana Lysenko,patient623@email.com,5792,Diabetes,Dr. Frank,doctor49@clinic.com,Surgeon,LIC-259,2025-12-22,17:00,Completed,Gingivitis,736.54,No,
+Mariia Boiko,patient405@email.com,2112,None,Dr. House,doctor34@clinic.com,Therapist,LIC-325,2026-01-07,11:00,Completed,Healthy,11104.81,Yes,2026-01-07
+Ivan Melnyk,patient20@email.com,7663,None,Dr. Koval,doctor20@clinic.com,Therapist,LIC-220,2026-01-09,16:00,Completed,Teeth Cleaning,7331.09,Yes,2026-01-09
+Ivan Melnyk,patient275@email.com,1198,None,Dr. Koval,doctor31@clinic.com,Surgeon,LIC-710,2026-02-12,16:00,Cancelled,Braces Installation,1020.81,Yes,2026-02-12
+Viktor Shevchenko,patient887@email.com,3061,None,Dr. Frank,doctor36@clinic.com,Orthodontist,LIC-582,2025-10-29,10:00,Completed,Teeth Cleaning,3044.62,No,
+Mariia Boiko,patient915@email.com,7081,None,Dr. Smith,doctor50@clinic.com,Surgeon,LIC-506,2025-11-27,17:00,Scheduled,Caries,13404.92,Yes,2025-11-27
+Anna Tkachenko,patient877@email.com,8828,Diabetes,Dr. House,doctor45@clinic.com,Surgeon,LIC-814,2026-01-18,16:00,Cancelled,Caries,9588.96,Yes,2026-01-18
+Yana Lysenko,patient72@email.com,8329,None,Dr. Smith,doctor15@clinic.com,Periodontist,LIC-342,2025-12-07,17:00,Scheduled,Braces Installation,11923.53,No,
+Yana Lysenko,patient951@email.com,9479,Diabetes,Dr. Koval,doctor40@clinic.com,Orthodontist,LIC-555,2025-12-25,11:00,Cancelled,Braces Installation,10422.02,No,
+Yana Lysenko,patient450@email.com,3548,Hypertension,Dr. Smith,doctor50@clinic.com,Therapist,LIC-847,2025-10-29,10:00,Cancelled,Healthy,10346.03,Yes,2025-10-29
+Yana Lysenko,patient239@email.com,8807,Diabetes,Dr. Smith,doctor16@clinic.com,Therapist,LIC-452,2026-03-03,12:00,Cancelled,Gingivitis,4530.41,Yes,2026-03-03
+Mariia Boiko,patient314@email.com,7192,Diabetes,Dr. House,doctor41@clinic.com,Orthodontist,LIC-314,2025-10-02,16:00,Scheduled,Pulpitis,9395.69,No,
+Yana Lysenko,patient590@email.com,1977,None,Dr. Koval,doctor12@clinic.com,Periodontist,LIC-780,2025-10-28,13:00,Completed,Caries,12242.32,No,
+Viktor Shevchenko,patient986@email.com,3831,Penicillin allergy,Dr. Smith,doctor14@clinic.com,Periodontist,LIC-141,2025-10-30,15:00,Scheduled,Teeth Cleaning,8482.77,Yes,2025-10-30
+Viktor Shevchenko,patient585@email.com,6536,Hypertension,Dr. Frank,doctor39@clinic.com,Orthodontist,LIC-512,2025-11-29,12:00,Completed,Braces Installation,4781.16,No,
+Oleksandr Kovalenko,patient59@email.com,9188,Penicillin allergy,Dr. Frank,doctor46@clinic.com,Therapist,LIC-296,2025-11-12,11:00,Scheduled,Teeth Cleaning,6597.21,No,
+Yana Lysenko,patient739@email.com,7057,Hypertension,Dr. Smith,doctor24@clinic.com,Periodontist,LIC-284,2025-12-30,12:00,Scheduled,Caries,10750.78,No,
+Ivan Melnyk,patient686@email.com,6382,None,Dr. House,doctor7@clinic.com,Therapist,LIC-489,2025-10-01,10:00,Completed,Caries,4148.95,No,
+Mariia Boiko,patient591@email.com,2271,Penicillin allergy,Dr. Koval,doctor15@clinic.com,Periodontist,LIC-968,2026-02-02,09:00,Scheduled,Pulpitis,12610.3,No,
+Mariia Boiko,patient535@email.com,9999,Penicillin allergy,Dr. Smith,doctor37@clinic.com,Therapist,LIC-922,2026-01-20,11:00,Scheduled,Braces Installation,3039.52,No,
+Viktor Shevchenko,patient996@email.com,1645,Diabetes,Dr. House,doctor16@clinic.com,Surgeon,LIC-319,2025-11-15,13:00,Completed,Braces Installation,2509.07,Yes,2025-11-15
+Yana Lysenko,patient750@email.com,9291,Hypertension,Dr. Frank,doctor4@clinic.com,Surgeon,LIC-146,2025-12-19,09:00,Completed,Braces Installation,1705.17,No,
+Ivan Melnyk,patient867@email.com,7184,None,Dr. Smith,doctor11@clinic.com,Therapist,LIC-897,2025-09-17,11:00,Completed,Braces Installation,7938.45,Yes,2025-09-17
+Yana Lysenko,patient556@email.com,5877,None,Dr. House,doctor15@clinic.com,Therapist,LIC-793,2025-11-15,09:00,Scheduled,Gingivitis,10616.69,No,
+Anna Tkachenko,patient325@email.com,2776,None,Dr. Smith,doctor36@clinic.com,Surgeon,LIC-701,2025-12-02,11:00,Completed,Gingivitis,4868.92,Yes,2025-12-02
+Viktor Shevchenko,patient251@email.com,2919,Diabetes,Dr. Koval,doctor33@clinic.com,Therapist,LIC-471,2026-01-16,10:00,Completed,Healthy,3510.15,No,
+Oleksandr Kovalenko,patient103@email.com,7065,None,Dr. Smith,doctor14@clinic.com,Surgeon,LIC-988,2026-01-12,13:00,Scheduled,Teeth Cleaning,7590.24,No,
+Viktor Shevchenko,patient721@email.com,6135,None,Dr. Frank,doctor40@clinic.com,Periodontist,LIC-564,2025-10-22,17:00,Cancelled,Teeth Cleaning,5640.25,Yes,2025-10-22
+Ivan Melnyk,patient759@email.com,4143,None,Dr. Smith,doctor21@clinic.com,Therapist,LIC-142,2025-11-05,16:00,Cancelled,Gingivitis,752.2,Yes,2025-11-05
+Ivan Melnyk,patient19@email.com,1972,Penicillin allergy,Dr. Smith,doctor20@clinic.com,Periodontist,LIC-873,2026-02-07,10:00,Completed,Gingivitis,6618.2,No,
+Anna Tkachenko,patient929@email.com,5821,None,Dr. House,doctor16@clinic.com,Orthodontist,LIC-215,2025-12-01,09:00,Scheduled,Gingivitis,11055.94,Yes,2025-12-01
+Oleksandr Kovalenko,patient476@email.com,3732,Penicillin allergy,Dr. Frank,doctor49@clinic.com,Periodontist,LIC-948,2025-12-30,10:00,Cancelled,Caries,9563.91,No,
+Oleksandr Kovalenko,patient919@email.com,9139,None,Dr. Koval,doctor6@clinic.com,Surgeon,LIC-403,2026-03-04,11:00,Scheduled,Teeth Cleaning,10624.81,No,
+Ivan Melnyk,patient284@email.com,9861,Hypertension,Dr. Koval,doctor48@clinic.com,Surgeon,LIC-881,2026-03-04,09:00,Cancelled,Braces Installation,1242.94,Yes,2026-03-04
+Ivan Melnyk,patient34@email.com,3903,None,Dr. Koval,doctor27@clinic.com,Orthodontist,LIC-550,2026-01-26,10:00,Completed,Healthy,4092.38,Yes,2026-01-26
+Mariia Boiko,patient672@email.com,4268,None,Dr. Smith,doctor7@clinic.com,Therapist,LIC-358,2025-09-19,15:00,Completed,Healthy,14958.97,Yes,2025-09-19
+Oleksandr Kovalenko,patient27@email.com,2901,Diabetes,Dr. Koval,doctor23@clinic.com,Therapist,LIC-822,2025-11-07,10:00,Cancelled,Gingivitis,5419.33,No,
+Anna Tkachenko,patient522@email.com,4832,None,Dr. Koval,doctor20@clinic.com,Surgeon,LIC-894,2025-10-28,15:00,Scheduled,Pulpitis,2700.44,Yes,2025-10-28
+Anna Tkachenko,patient33@email.com,8128,None,Dr. Frank,doctor26@clinic.com,Surgeon,LIC-321,2026-02-03,12:00,Cancelled,Teeth Cleaning,12174.41,Yes,2026-02-03
+Viktor Shevchenko,patient351@email.com,6778,Hypertension,Dr. Frank,doctor8@clinic.com,Therapist,LIC-994,2025-11-23,17:00,Cancelled,Teeth Cleaning,7067.62,Yes,2025-11-23
+Yana Lysenko,patient217@email.com,9893,Diabetes,Dr. House,doctor48@clinic.com,Periodontist,LIC-386,2026-03-04,10:00,Completed,Gingivitis,6174.74,Yes,2026-03-04
+Yana Lysenko,patient100@email.com,9902,None,Dr. Smith,doctor3@clinic.com,Surgeon,LIC-935,2025-11-11,16:00,Completed,Healthy,13946.16,No,
+Viktor Shevchenko,patient774@email.com,5992,Diabetes,Dr. Smith,doctor18@clinic.com,Orthodontist,LIC-388,2025-09-09,11:00,Cancelled,Braces Installation,12429.79,No,
+Oleksandr Kovalenko,patient863@email.com,4697,Penicillin allergy,Dr. Smith,doctor11@clinic.com,Surgeon,LIC-642,2025-10-19,16:00,Scheduled,Braces Installation,14767.33,No,
+Anna Tkachenko,patient117@email.com,9971,Diabetes,Dr. Koval,doctor33@clinic.com,Periodontist,LIC-671,2025-09-10,13:00,Scheduled,Caries,10103.57,No,
+Anna Tkachenko,patient90@email.com,6278,None,Dr. Smith,doctor16@clinic.com,Orthodontist,LIC-132,2025-12-26,10:00,Completed,Pulpitis,5266.4,No,
+Anna Tkachenko,patient136@email.com,1365,Diabetes,Dr. Smith,doctor27@clinic.com,Orthodontist,LIC-532,2025-10-04,15:00,Scheduled,Caries,12574.42,Yes,2025-10-04
+Ivan Melnyk,patient10@email.com,9519,Diabetes,Dr. Smith,doctor9@clinic.com,Surgeon,LIC-483,2026-02-09,16:00,Cancelled,Braces Installation,13420.75,No,
+Viktor Shevchenko,patient935@email.com,3033,Hypertension,Dr. Koval,doctor30@clinic.com,Surgeon,LIC-108,2026-03-02,16:00,Completed,Gingivitis,9635.29,No,
+Ivan Melnyk,patient181@email.com,1330,None,Dr. Koval,doctor20@clinic.com,Orthodontist,LIC-305,2025-11-05,13:00,Cancelled,Healthy,14600.97,No,
+Ivan Melnyk,patient144@email.com,8621,Penicillin allergy,Dr. Smith,doctor21@clinic.com,Orthodontist,LIC-920,2025-09-30,14:00,Completed,Braces Installation,13461.38,Yes,2025-09-30
+Ivan Melnyk,patient456@email.com,4622,Hypertension,Dr. House,doctor49@clinic.com,Therapist,LIC-845,2026-02-12,09:00,Completed,Healthy,2621.35,Yes,2026-02-12
+Oleksandr Kovalenko,patient817@email.com,2724,Penicillin allergy,Dr. Smith,doctor4@clinic.com,Therapist,LIC-213,2026-02-28,12:00,Cancelled,Pulpitis,9377.57,No,
+Yana Lysenko,patient276@email.com,5027,Diabetes,Dr. House,doctor22@clinic.com,Surgeon,LIC-116,2025-11-12,14:00,Scheduled,Gingivitis,13531.07,Yes,2025-11-12
+Anna Tkachenko,patient416@email.com,3295,Penicillin allergy,Dr. House,doctor37@clinic.com,Periodontist,LIC-491,2025-10-13,10:00,Completed,Gingivitis,8944.97,No,
+Viktor Shevchenko,patient961@email.com,1607,Hypertension,Dr. Frank,doctor42@clinic.com,Orthodontist,LIC-537,2025-10-13,11:00,Cancelled,Healthy,1417.46,Yes,2025-10-13
+Anna Tkachenko,patient51@email.com,2904,Penicillin allergy,Dr. Frank,doctor13@clinic.com,Surgeon,LIC-431,2025-10-06,14:00,Scheduled,Caries,14477.66,Yes,2025-10-06
+Oleksandr Kovalenko,patient431@email.com,1843,Penicillin allergy,Dr. Smith,doctor44@clinic.com,Therapist,LIC-430,2026-02-17,15:00,Completed,Caries,8080.97,Yes,2026-02-17
+Oleksandr Kovalenko,patient4@email.com,8490,None,Dr. Koval,doctor5@clinic.com,Periodontist,LIC-654,2025-09-08,12:00,Scheduled,Healthy,740.7,No,
+Viktor Shevchenko,patient69@email.com,5240,Penicillin allergy,Dr. Frank,doctor1@clinic.com,Periodontist,LIC-773,2025-09-07,09:00,Cancelled,Healthy,10351.01,No,
+Ivan Melnyk,patient636@email.com,8157,Hypertension,Dr. Koval,doctor15@clinic.com,Periodontist,LIC-478,2025-10-28,13:00,Scheduled,Caries,6563.26,Yes,2025-10-28
+Mariia Boiko,patient664@email.com,4600,Diabetes,Dr. Koval,doctor2@clinic.com,Surgeon,LIC-336,2025-11-30,10:00,Cancelled,Caries,12214.89,Yes,2025-11-30
+Viktor Shevchenko,patient166@email.com,8139,Penicillin allergy,Dr. Koval,doctor16@clinic.com,Orthodontist,LIC-998,2026-02-10,09:00,Scheduled,Healthy,6048.11,Yes,2026-02-10
+Mariia Boiko,patient375@email.com,8804,Penicillin allergy,Dr. House,doctor37@clinic.com,Surgeon,LIC-486,2025-12-09,16:00,Scheduled,Healthy,8177.63,No,
+Mariia Boiko,patient288@email.com,9573,Hypertension,Dr. Koval,doctor19@clinic.com,Therapist,LIC-259,2025-10-07,16:00,Scheduled,Teeth Cleaning,4539.92,Yes,2025-10-07
+Ivan Melnyk,patient204@email.com,3097,Diabetes,Dr. Frank,doctor23@clinic.com,Surgeon,LIC-885,2025-10-04,13:00,Scheduled,Gingivitis,5794.67,No,
+Yana Lysenko,patient782@email.com,4876,Penicillin allergy,Dr. Smith,doctor27@clinic.com,Therapist,LIC-984,2026-01-11,17:00,Completed,Healthy,4395.96,Yes,2026-01-11
+Viktor Shevchenko,patient501@email.com,3803,Hypertension,Dr. Smith,doctor25@clinic.com,Orthodontist,LIC-425,2025-12-04,16:00,Scheduled,Pulpitis,12176.24,Yes,2025-12-04
+Yana Lysenko,patient411@email.com,9757,None,Dr. House,doctor9@clinic.com,Orthodontist,LIC-287,2025-10-28,15:00,Completed,Braces Installation,10644.97,No,
+Viktor Shevchenko,patient184@email.com,4742,None,Dr. House,doctor34@clinic.com,Surgeon,LIC-343,2026-02-10,14:00,Scheduled,Pulpitis,13835.5,Yes,2026-02-10
+Ivan Melnyk,patient693@email.com,3828,Hypertension,Dr. Frank,doctor29@clinic.com,Therapist,LIC-445,2026-03-01,09:00,Completed,Healthy,507.36,No,
+Ivan Melnyk,patient874@email.com,7162,Diabetes,Dr. Smith,doctor39@clinic.com,Surgeon,LIC-178,2025-12-15,10:00,Completed,Healthy,2851.24,No,
+Yana Lysenko,patient964@email.com,4406,Penicillin allergy,Dr. Frank,doctor11@clinic.com,Periodontist,LIC-958,2025-10-18,16:00,Scheduled,Teeth Cleaning,4045.4,Yes,2025-10-18
+Anna Tkachenko,patient629@email.com,9300,Diabetes,Dr. Smith,doctor11@clinic.com,Surgeon,LIC-163,2026-01-08,15:00,Cancelled,Gingivitis,10302.92,No,
+Mariia Boiko,patient393@email.com,7935,None,Dr. Frank,doctor31@clinic.com,Surgeon,LIC-510,2025-12-17,16:00,Completed,Braces Installation,9048.07,No,
+Oleksandr Kovalenko,patient726@email.com,5339,Diabetes,Dr. Frank,doctor19@clinic.com,Periodontist,LIC-172,2026-01-05,10:00,Cancelled,Caries,9860.84,No,
+Yana Lysenko,patient786@email.com,3538,Hypertension,Dr. House,doctor37@clinic.com,Orthodontist,LIC-211,2025-11-06,16:00,Cancelled,Braces Installation,7327.45,No,
+Ivan Melnyk,patient127@email.com,4793,None,Dr. House,doctor38@clinic.com,Orthodontist,LIC-972,2025-12-13,11:00,Scheduled,Pulpitis,10791.42,Yes,2025-12-13
+Mariia Boiko,patient644@email.com,9433,Penicillin allergy,Dr. Frank,doctor20@clinic.com,Orthodontist,LIC-604,2026-02-08,14:00,Cancelled,Teeth Cleaning,1838.86,Yes,2026-02-08
+Viktor Shevchenko,patient97@email.com,2718,Hypertension,Dr. House,doctor48@clinic.com,Surgeon,LIC-692,2026-01-12,13:00,Completed,Healthy,10031.53,Yes,2026-01-12
+Mariia Boiko,patient739@email.com,5881,Hypertension,Dr. Smith,doctor13@clinic.com,Surgeon,LIC-269,2026-01-07,16:00,Scheduled,Braces Installation,13330.78,Yes,2026-01-07
+Yana Lysenko,patient104@email.com,1666,Hypertension,Dr. House,doctor36@clinic.com,Therapist,LIC-220,2025-12-24,15:00,Cancelled,Braces Installation,11505.69,Yes,2025-12-24
+Mariia Boiko,patient741@email.com,3322,None,Dr. Frank,doctor14@clinic.com,Periodontist,LIC-616,2026-02-13,11:00,Completed,Braces Installation,3221.15,Yes,2026-02-13
+Mariia Boiko,patient253@email.com,1552,Hypertension,Dr. Frank,doctor32@clinic.com,Periodontist,LIC-680,2025-10-01,11:00,Completed,Caries,13803.95,Yes,2025-10-01
+Oleksandr Kovalenko,patient138@email.com,6916,None,Dr. Koval,doctor31@clinic.com,Surgeon,LIC-631,2026-02-01,13:00,Cancelled,Pulpitis,9251.36,No,
+Yana Lysenko,patient997@email.com,9120,Hypertension,Dr. House,doctor42@clinic.com,Periodontist,LIC-774,2025-11-04,12:00,Scheduled,Pulpitis,7167.64,Yes,2025-11-04
+Ivan Melnyk,patient118@email.com,9542,Penicillin allergy,Dr. Frank,doctor24@clinic.com,Therapist,LIC-550,2026-01-08,17:00,Cancelled,Teeth Cleaning,10142.44,Yes,2026-01-08
+Oleksandr Kovalenko,patient740@email.com,5149,None,Dr. Frank,doctor18@clinic.com,Periodontist,LIC-618,2026-01-03,16:00,Scheduled,Caries,4459.83,No,
+Ivan Melnyk,patient809@email.com,8384,Penicillin allergy,Dr. House,doctor32@clinic.com,Therapist,LIC-311,2025-12-06,16:00,Scheduled,Pulpitis,1430.33,No,
+Anna Tkachenko,patient368@email.com,6093,None,Dr. Smith,doctor5@clinic.com,Therapist,LIC-180,2025-11-06,15:00,Scheduled,Braces Installation,7069.18,No,
+Ivan Melnyk,patient120@email.com,7526,Penicillin allergy,Dr. House,doctor13@clinic.com,Periodontist,LIC-154,2025-09-16,15:00,Cancelled,Teeth Cleaning,7519.65,Yes,2025-09-16
+Yana Lysenko,patient743@email.com,1310,Hypertension,Dr. Smith,doctor16@clinic.com,Surgeon,LIC-590,2026-01-07,11:00,Scheduled,Healthy,5466.4,Yes,2026-01-07
+Yana Lysenko,patient755@email.com,6129,Diabetes,Dr. Frank,doctor10@clinic.com,Periodontist,LIC-927,2026-01-04,16:00,Cancelled,Braces Installation,11265.26,Yes,2026-01-04
+Viktor Shevchenko,patient749@email.com,3387,None,Dr. House,doctor5@clinic.com,Orthodontist,LIC-963,2026-01-06,17:00,Scheduled,Caries,3308.74,No,
+Viktor Shevchenko,patient803@email.com,4033,Penicillin allergy,Dr. Koval,doctor46@clinic.com,Orthodontist,LIC-894,2025-09-16,13:00,Cancelled,Gingivitis,11599.78,Yes,2025-09-16
+Yana Lysenko,patient575@email.com,3778,Hypertension,Dr. House,doctor16@clinic.com,Surgeon,LIC-465,2025-10-15,16:00,Scheduled,Teeth Cleaning,9260.39,Yes,2025-10-15
+Anna Tkachenko,patient175@email.com,3735,None,Dr. Frank,doctor22@clinic.com,Orthodontist,LIC-461,2026-02-28,13:00,Scheduled,Teeth Cleaning,14346.91,No,
+Viktor Shevchenko,patient767@email.com,5348,Penicillin allergy,Dr. House,doctor26@clinic.com,Orthodontist,LIC-899,2025-09-25,17:00,Cancelled,Braces Installation,1204.04,Yes,2025-09-25
+Ivan Melnyk,patient238@email.com,1433,Diabetes,Dr. Koval,doctor27@clinic.com,Therapist,LIC-787,2025-09-09,15:00,Completed,Pulpitis,7278.68,No,
+Oleksandr Kovalenko,patient119@email.com,5384,Penicillin allergy,Dr. House,doctor41@clinic.com,Periodontist,LIC-924,2026-01-23,14:00,Completed,Pulpitis,2392.61,Yes,2026-01-23
+Oleksandr Kovalenko,patient241@email.com,7499,Hypertension,Dr. Smith,doctor28@clinic.com,Therapist,LIC-538,2025-10-01,12:00,Completed,Teeth Cleaning,9246.38,No,
+Ivan Melnyk,patient657@email.com,1830,None,Dr. House,doctor29@clinic.com,Orthodontist,LIC-360,2025-10-09,16:00,Completed,Braces Installation,9427.54,Yes,2025-10-09
+Viktor Shevchenko,patient277@email.com,9584,Hypertension,Dr. House,doctor50@clinic.com,Therapist,LIC-733,2025-10-16,14:00,Completed,Braces Installation,6063.96,Yes,2025-10-16
+Mariia Boiko,patient301@email.com,1122,Diabetes,Dr. House,doctor22@clinic.com,Orthodontist,LIC-886,2025-11-12,14:00,Completed,Braces Installation,10396.37,No,
+Anna Tkachenko,patient629@email.com,1218,Penicillin allergy,Dr. Koval,doctor11@clinic.com,Periodontist,LIC-162,2025-11-30,15:00,Cancelled,Pulpitis,13326.95,No,
+Viktor Shevchenko,patient7@email.com,7995,None,Dr. Smith,doctor38@clinic.com,Periodontist,LIC-515,2025-12-24,16:00,Scheduled,Braces Installation,14413.62,No,
+Viktor Shevchenko,patient699@email.com,9691,None,Dr. Frank,doctor2@clinic.com,Therapist,LIC-963,2025-12-08,10:00,Completed,Healthy,2166.4,No,
+Anna Tkachenko,patient639@email.com,9737,None,Dr. Frank,doctor44@clinic.com,Therapist,LIC-672,2025-12-11,13:00,Scheduled,Healthy,6641.5,Yes,2025-12-11
+Viktor Shevchenko,patient985@email.com,1794,Hypertension,Dr. Smith,doctor48@clinic.com,Orthodontist,LIC-148,2026-01-29,12:00,Scheduled,Braces Installation,12364.93,Yes,2026-01-29
+Yana Lysenko,patient394@email.com,4801,Hypertension,Dr. Frank,doctor6@clinic.com,Periodontist,LIC-416,2025-09-17,17:00,Completed,Braces Installation,1090.3,No,
+Yana Lysenko,patient608@email.com,3678,Hypertension,Dr. Koval,doctor31@clinic.com,Orthodontist,LIC-231,2026-01-05,17:00,Cancelled,Pulpitis,7169.79,Yes,2026-01-05
+Oleksandr Kovalenko,patient409@email.com,6001,Hypertension,Dr. Smith,doctor27@clinic.com,Therapist,LIC-189,2026-03-03,11:00,Completed,Teeth Cleaning,6069.31,Yes,2026-03-03
+Oleksandr Kovalenko,patient470@email.com,3434,Hypertension,Dr. Koval,doctor1@clinic.com,Surgeon,LIC-376,2025-09-17,15:00,Cancelled,Teeth Cleaning,9404.26,No,
+Ivan Melnyk,patient623@email.com,5469,None,Dr. House,doctor9@clinic.com,Periodontist,LIC-976,2025-11-06,15:00,Completed,Healthy,1947.23,No,
+Oleksandr Kovalenko,patient901@email.com,3389,Penicillin allergy,Dr. Frank,doctor48@clinic.com,Periodontist,LIC-735,2025-09-19,14:00,Completed,Healthy,5974.88,Yes,2025-09-19
+Anna Tkachenko,patient335@email.com,4255,Diabetes,Dr. Frank,doctor38@clinic.com,Therapist,LIC-737,2026-02-03,11:00,Completed,Braces Installation,14775.98,Yes,2026-02-03
+Oleksandr Kovalenko,patient817@email.com,8757,None,Dr. Koval,doctor39@clinic.com,Periodontist,LIC-203,2025-09-27,17:00,Cancelled,Gingivitis,5205.76,No,
+Viktor Shevchenko,patient615@email.com,1194,Hypertension,Dr. Frank,doctor29@clinic.com,Orthodontist,LIC-649,2025-12-24,15:00,Completed,Healthy,1047.02,Yes,2025-12-24
+Oleksandr Kovalenko,patient91@email.com,1205,Penicillin allergy,Dr. Smith,doctor44@clinic.com,Surgeon,LIC-544,2026-03-01,09:00,Cancelled,Caries,13152.65,Yes,2026-03-01
+Mariia Boiko,patient378@email.com,2125,Penicillin allergy,Dr. House,doctor37@clinic.com,Orthodontist,LIC-323,2025-12-19,09:00,Scheduled,Braces Installation,6285.32,Yes,2025-12-19
+Mariia Boiko,patient856@email.com,5720,None,Dr. House,doctor45@clinic.com,Periodontist,LIC-776,2026-01-11,12:00,Scheduled,Gingivitis,14704.0,No,
+Ivan Melnyk,patient552@email.com,4378,Diabetes,Dr. Koval,doctor8@clinic.com,Periodontist,LIC-154,2026-01-09,16:00,Cancelled,Caries,4587.39,No,
+Ivan Melnyk,patient454@email.com,8772,Diabetes,Dr. House,doctor45@clinic.com,Orthodontist,LIC-961,2025-12-07,09:00,Scheduled,Gingivitis,8122.87,Yes,2025-12-07
+Oleksandr Kovalenko,patient732@email.com,6360,None,Dr. Smith,doctor41@clinic.com,Surgeon,LIC-579,2026-01-03,16:00,Completed,Pulpitis,5429.8,Yes,2026-01-03
+Viktor Shevchenko,patient702@email.com,4943,Hypertension,Dr. Koval,doctor24@clinic.com,Periodontist,LIC-234,2025-10-12,14:00,Scheduled,Braces Installation,10456.82,No,
+Yana Lysenko,patient292@email.com,2720,None,Dr. House,doctor47@clinic.com,Surgeon,LIC-678,2025-10-23,13:00,Cancelled,Teeth Cleaning,6324.6,No,
+Ivan Melnyk,patient115@email.com,4529,None,Dr. Smith,doctor32@clinic.com,Orthodontist,LIC-497,2025-11-24,10:00,Completed,Braces Installation,14917.11,No,
+Ivan Melnyk,patient59@email.com,3136,Diabetes,Dr. House,doctor45@clinic.com,Periodontist,LIC-277,2026-01-14,16:00,Scheduled,Braces Installation,13512.56,Yes,2026-01-14
+Yana Lysenko,patient838@email.com,1006,Hypertension,Dr. Koval,doctor3@clinic.com,Orthodontist,LIC-965,2025-09-27,16:00,Completed,Teeth Cleaning,9382.6,No,
+Ivan Melnyk,patient544@email.com,8250,Penicillin allergy,Dr. House,doctor33@clinic.com,Surgeon,LIC-563,2026-01-13,15:00,Completed,Teeth Cleaning,13369.78,No,
+Viktor Shevchenko,patient103@email.com,1772,None,Dr. Smith,doctor48@clinic.com,Orthodontist,LIC-492,2025-12-29,12:00,Completed,Braces Installation,13962.2,Yes,2025-12-29
+Yana Lysenko,patient50@email.com,2772,None,Dr. Smith,doctor33@clinic.com,Orthodontist,LIC-970,2025-09-08,10:00,Completed,Braces Installation,7841.94,Yes,2025-09-08
+Ivan Melnyk,patient287@email.com,2185,Penicillin allergy,Dr. Frank,doctor28@clinic.com,Surgeon,LIC-249,2025-10-15,15:00,Completed,Pulpitis,7596.44,Yes,2025-10-15
+Yana Lysenko,patient640@email.com,4678,Diabetes,Dr. Smith,doctor17@clinic.com,Surgeon,LIC-415,2025-09-13,13:00,Cancelled,Braces Installation,9912.44,No,
+Viktor Shevchenko,patient206@email.com,2942,None,Dr. House,doctor36@clinic.com,Periodontist,LIC-886,2026-01-13,11:00,Cancelled,Caries,3790.08,No,
+Oleksandr Kovalenko,patient172@email.com,4631,None,Dr. Smith,doctor12@clinic.com,Surgeon,LIC-834,2025-12-17,12:00,Cancelled,Pulpitis,9262.12,Yes,2025-12-17
+Oleksandr Kovalenko,patient182@email.com,6342,None,Dr. Smith,doctor10@clinic.com,Surgeon,LIC-892,2025-10-21,12:00,Completed,Caries,7543.82,No,
+Viktor Shevchenko,patient42@email.com,1451,None,Dr. House,doctor23@clinic.com,Orthodontist,LIC-309,2025-12-03,13:00,Scheduled,Braces Installation,10279.15,No,
+Ivan Melnyk,patient477@email.com,8739,Hypertension,Dr. Frank,doctor34@clinic.com,Therapist,LIC-546,2026-03-04,13:00,Completed,Healthy,8796.24,No,
+Mariia Boiko,patient743@email.com,4128,None,Dr. Frank,doctor17@clinic.com,Orthodontist,LIC-500,2026-01-22,13:00,Scheduled,Braces Installation,11382.85,Yes,2026-01-22
+Viktor Shevchenko,patient86@email.com,3389,None,Dr. Smith,doctor44@clinic.com,Periodontist,LIC-402,2025-10-12,17:00,Cancelled,Braces Installation,4466.78,Yes,2025-10-12
+Oleksandr Kovalenko,patient97@email.com,2783,Diabetes,Dr. Frank,doctor19@clinic.com,Orthodontist,LIC-777,2026-02-06,11:00,Scheduled,Pulpitis,11748.66,Yes,2026-02-06
+Viktor Shevchenko,patient169@email.com,4351,Penicillin allergy,Dr. Smith,doctor44@clinic.com,Orthodontist,LIC-734,2025-11-14,12:00,Completed,Gingivitis,14764.07,Yes,2025-11-14
+Yana Lysenko,patient288@email.com,7073,Diabetes,Dr. Frank,doctor31@clinic.com,Therapist,LIC-379,2025-10-24,09:00,Completed,Teeth Cleaning,3596.47,Yes,2025-10-24
+Anna Tkachenko,patient282@email.com,3756,None,Dr. Smith,doctor20@clinic.com,Orthodontist,LIC-418,2025-12-09,15:00,Scheduled,Teeth Cleaning,8997.73,No,
+Mariia Boiko,patient223@email.com,7187,None,Dr. Frank,doctor28@clinic.com,Orthodontist,LIC-953,2025-11-27,14:00,Cancelled,Teeth Cleaning,4050.12,Yes,2025-11-27
+Anna Tkachenko,patient36@email.com,2750,Hypertension,Dr. Koval,doctor35@clinic.com,Periodontist,LIC-798,2026-02-14,16:00,Scheduled,Gingivitis,9242.48,No,
+Mariia Boiko,patient116@email.com,4686,Diabetes,Dr. Frank,doctor19@clinic.com,Orthodontist,LIC-618,2026-02-17,17:00,Completed,Healthy,7670.62,No,
+Anna Tkachenko,patient89@email.com,9266,None,Dr. Smith,doctor32@clinic.com,Surgeon,LIC-866,2025-12-13,14:00,Scheduled,Gingivitis,9369.92,Yes,2025-12-13
+Yana Lysenko,patient372@email.com,7519,Hypertension,Dr. Frank,doctor10@clinic.com,Periodontist,LIC-632,2025-12-19,09:00,Completed,Caries,10781.68,No,
+Yana Lysenko,patient251@email.com,9358,None,Dr. Frank,doctor25@clinic.com,Orthodontist,LIC-261,2025-10-04,10:00,Cancelled,Caries,4693.69,No,
+Ivan Melnyk,patient856@email.com,8063,Hypertension,Dr. Koval,doctor46@clinic.com,Therapist,LIC-603,2025-11-05,10:00,Cancelled,Teeth Cleaning,4134.57,Yes,2025-11-05
+Viktor Shevchenko,patient642@email.com,6786,None,Dr. Smith,doctor32@clinic.com,Periodontist,LIC-900,2025-10-31,14:00,Cancelled,Pulpitis,5857.19,No,
+Yana Lysenko,patient78@email.com,8850,Penicillin allergy,Dr. Koval,doctor18@clinic.com,Periodontist,LIC-612,2025-11-22,13:00,Scheduled,Pulpitis,12706.79,Yes,2025-11-22
+Oleksandr Kovalenko,patient928@email.com,9161,Penicillin allergy,Dr. House,doctor13@clinic.com,Orthodontist,LIC-623,2025-10-31,13:00,Completed,Healthy,13057.55,Yes,2025-10-31
+Ivan Melnyk,patient191@email.com,7026,Penicillin allergy,Dr. Koval,doctor24@clinic.com,Orthodontist,LIC-429,2026-03-03,12:00,Completed,Braces Installation,5002.96,No,
+Viktor Shevchenko,patient494@email.com,6404,Penicillin allergy,Dr. House,doctor41@clinic.com,Orthodontist,LIC-397,2025-10-11,12:00,Completed,Gingivitis,4791.72,Yes,2025-10-11
+Viktor Shevchenko,patient781@email.com,7842,Diabetes,Dr. Koval,doctor28@clinic.com,Orthodontist,LIC-340,2026-02-16,15:00,Completed,Teeth Cleaning,7992.86,Yes,2026-02-16
+Yana Lysenko,patient574@email.com,7241,Diabetes,Dr. Smith,doctor23@clinic.com,Orthodontist,LIC-432,2026-01-04,15:00,Cancelled,Teeth Cleaning,7213.76,No,
+Oleksandr Kovalenko,patient573@email.com,3902,Hypertension,Dr. Frank,doctor37@clinic.com,Therapist,LIC-944,2025-09-30,14:00,Cancelled,Gingivitis,12653.25,No,
+Yana Lysenko,patient359@email.com,8300,Diabetes,Dr. Koval,doctor23@clinic.com,Therapist,LIC-273,2026-01-01,15:00,Cancelled,Caries,6520.09,No,
+Mariia Boiko,patient674@email.com,9070,None,Dr. Koval,doctor1@clinic.com,Therapist,LIC-717,2025-12-05,09:00,Cancelled,Caries,2832.14,Yes,2025-12-05
+Ivan Melnyk,patient905@email.com,4347,None,Dr. Smith,doctor34@clinic.com,Therapist,LIC-361,2026-01-13,16:00,Cancelled,Healthy,11040.91,Yes,2026-01-13
+Yana Lysenko,patient39@email.com,2195,None,Dr. House,doctor38@clinic.com,Orthodontist,LIC-239,2026-02-17,11:00,Cancelled,Caries,10934.02,Yes,2026-02-17
+Anna Tkachenko,patient259@email.com,5128,Hypertension,Dr. Frank,doctor22@clinic.com,Orthodontist,LIC-379,2026-01-28,10:00,Cancelled,Teeth Cleaning,2098.12,No,
+Mariia Boiko,patient955@email.com,8490,None,Dr. Koval,doctor27@clinic.com,Periodontist,LIC-475,2025-12-10,15:00,Scheduled,Braces Installation,868.59,No,
+Mariia Boiko,patient369@email.com,7623,None,Dr. Smith,doctor11@clinic.com,Orthodontist,LIC-525,2025-12-03,09:00,Scheduled,Teeth Cleaning,6830.87,Yes,2025-12-03
+Ivan Melnyk,patient398@email.com,5480,Penicillin allergy,Dr. House,doctor38@clinic.com,Periodontist,LIC-922,2026-01-17,17:00,Cancelled,Braces Installation,11769.32,No,
+Anna Tkachenko,patient649@email.com,3826,None,Dr. House,doctor4@clinic.com,Surgeon,LIC-412,2026-01-04,10:00,Cancelled,Caries,13757.53,No,
+Oleksandr Kovalenko,patient181@email.com,9957,Diabetes,Dr. Smith,doctor13@clinic.com,Periodontist,LIC-144,2025-10-13,13:00,Completed,Pulpitis,3939.07,Yes,2025-10-13
+Viktor Shevchenko,patient515@email.com,9402,Diabetes,Dr. Smith,doctor5@clinic.com,Orthodontist,LIC-485,2025-11-07,16:00,Completed,Pulpitis,11138.66,No,
+Ivan Melnyk,patient661@email.com,8413,None,Dr. Smith,doctor14@clinic.com,Surgeon,LIC-513,2025-11-28,14:00,Completed,Caries,1409.35,No,
+Yana Lysenko,patient348@email.com,7794,None,Dr. Frank,doctor34@clinic.com,Periodontist,LIC-846,2025-11-20,14:00,Cancelled,Pulpitis,10285.43,Yes,2025-11-20
+Mariia Boiko,patient425@email.com,5985,None,Dr. House,doctor40@clinic.com,Orthodontist,LIC-118,2025-12-04,10:00,Cancelled,Caries,14617.57,Yes,2025-12-04
+Anna Tkachenko,patient571@email.com,7183,Hypertension,Dr. House,doctor24@clinic.com,Surgeon,LIC-117,2025-12-28,09:00,Completed,Caries,2943.79,No,
+Mariia Boiko,patient124@email.com,5581,Diabetes,Dr. Smith,doctor8@clinic.com,Therapist,LIC-379,2025-11-06,15:00,Completed,Pulpitis,8561.82,Yes,2025-11-06
+Mariia Boiko,patient223@email.com,6811,None,Dr. Koval,doctor28@clinic.com,Orthodontist,LIC-550,2026-02-06,11:00,Cancelled,Healthy,5471.38,No,
+Anna Tkachenko,patient495@email.com,9899,Diabetes,Dr. Koval,doctor23@clinic.com,Surgeon,LIC-361,2026-02-28,11:00,Completed,Gingivitis,7905.27,Yes,2026-02-28
+Yana Lysenko,patient734@email.com,1468,None,Dr. House,doctor45@clinic.com,Surgeon,LIC-800,2026-02-10,14:00,Scheduled,Braces Installation,10753.37,No,
+Anna Tkachenko,patient531@email.com,9435,Diabetes,Dr. Koval,doctor2@clinic.com,Therapist,LIC-755,2026-01-31,14:00,Cancelled,Healthy,11569.99,Yes,2026-01-31
+Anna Tkachenko,patient526@email.com,8484,Penicillin allergy,Dr. Smith,doctor35@clinic.com,Surgeon,LIC-934,2026-01-28,13:00,Completed,Caries,5448.05,Yes,2026-01-28
+Viktor Shevchenko,patient305@email.com,6748,Hypertension,Dr. House,doctor8@clinic.com,Therapist,LIC-230,2025-11-01,09:00,Scheduled,Pulpitis,3948.62,No,
+Ivan Melnyk,patient619@email.com,2867,Penicillin allergy,Dr. House,doctor47@clinic.com,Therapist,LIC-310,2025-09-28,10:00,Cancelled,Healthy,10433.46,Yes,2025-09-28
+Ivan Melnyk,patient444@email.com,5663,None,Dr. Smith,doctor2@clinic.com,Surgeon,LIC-507,2025-10-15,10:00,Scheduled,Healthy,8656.6,No,
+Viktor Shevchenko,patient563@email.com,9806,None,Dr. Frank,doctor9@clinic.com,Surgeon,LIC-501,2025-12-08,17:00,Completed,Caries,2873.51,Yes,2025-12-08
+Oleksandr Kovalenko,patient819@email.com,4607,Hypertension,Dr. House,doctor16@clinic.com,Orthodontist,LIC-833,2025-11-07,15:00,Scheduled,Teeth Cleaning,10906.23,Yes,2025-11-07
+Anna Tkachenko,patient961@email.com,6126,None,Dr. Koval,doctor37@clinic.com,Surgeon,LIC-623,2026-02-21,12:00,Completed,Healthy,714.46,No,
+Oleksandr Kovalenko,patient177@email.com,3590,Hypertension,Dr. Frank,doctor42@clinic.com,Surgeon,LIC-917,2026-02-17,15:00,Scheduled,Teeth Cleaning,7310.98,No,
+Mariia Boiko,patient37@email.com,4214,None,Dr. House,doctor3@clinic.com,Orthodontist,LIC-798,2025-12-31,16:00,Completed,Caries,11672.2,Yes,2025-12-31
+Oleksandr Kovalenko,patient651@email.com,9371,Diabetes,Dr. Koval,doctor29@clinic.com,Surgeon,LIC-331,2025-12-14,13:00,Cancelled,Gingivitis,4732.03,Yes,2025-12-14
+Oleksandr Kovalenko,patient579@email.com,9428,None,Dr. Smith,doctor43@clinic.com,Surgeon,LIC-221,2025-12-12,10:00,Completed,Pulpitis,5208.05,Yes,2025-12-12
+Oleksandr Kovalenko,patient410@email.com,7523,None,Dr. House,doctor23@clinic.com,Surgeon,LIC-210,2025-10-09,12:00,Cancelled,Gingivitis,9224.16,No,
+Mariia Boiko,patient540@email.com,6017,Penicillin allergy,Dr. House,doctor28@clinic.com,Orthodontist,LIC-609,2025-12-14,12:00,Scheduled,Braces Installation,4142.84,Yes,2025-12-14
+Ivan Melnyk,patient3@email.com,5545,Penicillin allergy,Dr. Koval,doctor30@clinic.com,Therapist,LIC-180,2025-10-20,12:00,Scheduled,Gingivitis,14318.61,No,
+Oleksandr Kovalenko,patient789@email.com,6671,None,Dr. Frank,doctor2@clinic.com,Orthodontist,LIC-619,2025-09-22,12:00,Cancelled,Healthy,7277.84,No,
+Anna Tkachenko,patient586@email.com,5585,Penicillin allergy,Dr. Frank,doctor38@clinic.com,Therapist,LIC-161,2025-09-27,15:00,Cancelled,Braces Installation,13082.81,No,
+Yana Lysenko,patient372@email.com,5070,Diabetes,Dr. Frank,doctor6@clinic.com,Periodontist,LIC-553,2025-12-25,17:00,Scheduled,Healthy,584.39,No,
+Oleksandr Kovalenko,patient841@email.com,4268,Diabetes,Dr. Koval,doctor29@clinic.com,Periodontist,LIC-128,2026-01-20,14:00,Cancelled,Pulpitis,10543.0,No,
+Mariia Boiko,patient301@email.com,7083,None,Dr. House,doctor46@clinic.com,Surgeon,LIC-454,2025-09-25,09:00,Completed,Gingivitis,5082.72,No,
+Mariia Boiko,patient877@email.com,3333,Penicillin allergy,Dr. Smith,doctor2@clinic.com,Periodontist,LIC-184,2026-02-02,11:00,Completed,Caries,7177.53,Yes,2026-02-02
+Yana Lysenko,patient101@email.com,2343,Penicillin allergy,Dr. Smith,doctor13@clinic.com,Orthodontist,LIC-136,2026-02-25,09:00,Scheduled,Gingivitis,11356.32,Yes,2026-02-25
+Mariia Boiko,patient843@email.com,3167,None,Dr. Koval,doctor27@clinic.com,Therapist,LIC-452,2026-01-18,09:00,Completed,Braces Installation,13450.51,No,
+Mariia Boiko,patient916@email.com,7415,Hypertension,Dr. House,doctor47@clinic.com,Surgeon,LIC-717,2025-10-13,16:00,Completed,Pulpitis,12096.23,Yes,2025-10-13
+Yana Lysenko,patient961@email.com,6496,None,Dr. Frank,doctor50@clinic.com,Therapist,LIC-795,2025-11-16,12:00,Completed,Healthy,9296.18,Yes,2025-11-16
+Mariia Boiko,patient624@email.com,9184,Diabetes,Dr. Koval,doctor28@clinic.com,Orthodontist,LIC-820,2025-10-28,17:00,Scheduled,Braces Installation,11221.3,No,
+Viktor Shevchenko,patient202@email.com,4641,None,Dr. Smith,doctor50@clinic.com,Orthodontist,LIC-293,2026-02-18,10:00,Cancelled,Teeth Cleaning,8469.85,Yes,2026-02-18
+Viktor Shevchenko,patient127@email.com,8492,None,Dr. House,doctor31@clinic.com,Orthodontist,LIC-912,2026-01-20,17:00,Scheduled,Caries,6458.05,No,
+Yana Lysenko,patient314@email.com,9859,Diabetes,Dr. Smith,doctor38@clinic.com,Orthodontist,LIC-610,2025-09-14,11:00,Cancelled,Teeth Cleaning,680.14,Yes,2025-09-14
+Viktor Shevchenko,patient525@email.com,5151,Diabetes,Dr. Frank,doctor49@clinic.com,Orthodontist,LIC-741,2025-10-25,16:00,Scheduled,Teeth Cleaning,6787.99,No,
+Oleksandr Kovalenko,patient809@email.com,9612,Penicillin allergy,Dr. Frank,doctor44@clinic.com,Surgeon,LIC-437,2025-11-13,14:00,Cancelled,Caries,13182.73,Yes,2025-11-13
+Mariia Boiko,patient159@email.com,2542,Diabetes,Dr. Smith,doctor25@clinic.com,Periodontist,LIC-741,2026-02-02,14:00,Cancelled,Pulpitis,3297.64,Yes,2026-02-02
+Viktor Shevchenko,patient764@email.com,1358,Hypertension,Dr. Frank,doctor37@clinic.com,Surgeon,LIC-880,2026-01-03,17:00,Completed,Healthy,13924.81,Yes,2026-01-03
+Anna Tkachenko,patient209@email.com,2634,Penicillin allergy,Dr. Smith,doctor33@clinic.com,Orthodontist,LIC-527,2026-01-17,09:00,Scheduled,Pulpitis,4692.89,Yes,2026-01-17
+Mariia Boiko,patient946@email.com,9640,Diabetes,Dr. Frank,doctor22@clinic.com,Therapist,LIC-678,2025-10-16,15:00,Completed,Caries,967.04,No,
+Yana Lysenko,patient699@email.com,6287,Penicillin allergy,Dr. Koval,doctor49@clinic.com,Periodontist,LIC-551,2025-10-28,14:00,Cancelled,Braces Installation,10301.8,Yes,2025-10-28
+Viktor Shevchenko,patient109@email.com,6705,None,Dr. House,doctor40@clinic.com,Orthodontist,LIC-747,2025-10-02,10:00,Cancelled,Teeth Cleaning,12535.83,No,
+Oleksandr Kovalenko,patient305@email.com,1926,Diabetes,Dr. Frank,doctor43@clinic.com,Therapist,LIC-962,2025-12-23,09:00,Scheduled,Caries,5996.21,Yes,2025-12-23
+Ivan Melnyk,patient117@email.com,4017,None,Dr. Smith,doctor6@clinic.com,Surgeon,LIC-871,2026-01-29,13:00,Cancelled,Pulpitis,8411.52,No,
+Ivan Melnyk,patient82@email.com,5277,None,Dr. House,doctor3@clinic.com,Therapist,LIC-603,2025-11-02,12:00,Completed,Pulpitis,12714.01,Yes,2025-11-02
+Oleksandr Kovalenko,patient445@email.com,9794,None,Dr. Smith,doctor50@clinic.com,Periodontist,LIC-165,2025-10-13,09:00,Cancelled,Healthy,14802.67,No,
+Oleksandr Kovalenko,patient585@email.com,6614,Penicillin allergy,Dr. Smith,doctor6@clinic.com,Orthodontist,LIC-982,2026-01-02,16:00,Scheduled,Pulpitis,7907.75,No,
+Mariia Boiko,patient931@email.com,5371,None,Dr. Koval,doctor37@clinic.com,Surgeon,LIC-736,2025-11-23,14:00,Scheduled,Braces Installation,10232.7,No,
+Anna Tkachenko,patient78@email.com,2775,Penicillin allergy,Dr. Koval,doctor36@clinic.com,Surgeon,LIC-203,2025-12-03,14:00,Completed,Teeth Cleaning,8472.57,Yes,2025-12-03
+Oleksandr Kovalenko,patient470@email.com,5107,Penicillin allergy,Dr. Frank,doctor2@clinic.com,Surgeon,LIC-137,2026-01-07,10:00,Completed,Pulpitis,4854.83,Yes,2026-01-07
+Viktor Shevchenko,patient880@email.com,9881,Penicillin allergy,Dr. Smith,doctor45@clinic.com,Periodontist,LIC-605,2026-02-09,10:00,Cancelled,Pulpitis,12465.9,Yes,2026-02-09
+Yana Lysenko,patient410@email.com,7404,None,Dr. Smith,doctor11@clinic.com,Orthodontist,LIC-320,2025-10-26,11:00,Cancelled,Teeth Cleaning,6394.17,No,
+Ivan Melnyk,patient550@email.com,1627,Penicillin allergy,Dr. Frank,doctor3@clinic.com,Surgeon,LIC-146,2026-02-12,17:00,Completed,Braces Installation,9080.2,No,
+Yana Lysenko,patient830@email.com,4377,Diabetes,Dr. Koval,doctor40@clinic.com,Orthodontist,LIC-816,2025-11-29,14:00,Cancelled,Gingivitis,1585.47,Yes,2025-11-29
+Anna Tkachenko,patient30@email.com,8645,None,Dr. House,doctor17@clinic.com,Periodontist,LIC-959,2025-11-17,12:00,Scheduled,Braces Installation,3300.8,Yes,2025-11-17
+Mariia Boiko,patient366@email.com,6027,None,Dr. Smith,doctor40@clinic.com,Therapist,LIC-383,2025-11-12,13:00,Completed,Gingivitis,6201.27,No,
+Viktor Shevchenko,patient71@email.com,5603,None,Dr. Frank,doctor39@clinic.com,Surgeon,LIC-491,2025-12-18,12:00,Cancelled,Pulpitis,12096.38,Yes,2025-12-18
+Oleksandr Kovalenko,patient765@email.com,7277,Hypertension,Dr. Koval,doctor21@clinic.com,Surgeon,LIC-109,2025-12-28,13:00,Cancelled,Braces Installation,1360.49,No,
+Yana Lysenko,patient67@email.com,8869,None,Dr. Smith,doctor40@clinic.com,Surgeon,LIC-870,2025-10-06,12:00,Scheduled,Teeth Cleaning,6434.9,No,
+Mariia Boiko,patient244@email.com,8906,None,Dr. Smith,doctor33@clinic.com,Surgeon,LIC-681,2026-01-22,17:00,Completed,Healthy,4912.71,Yes,2026-01-22
+Mariia Boiko,patient684@email.com,9325,None,Dr. House,doctor10@clinic.com,Therapist,LIC-406,2025-12-24,09:00,Cancelled,Braces Installation,6098.13,Yes,2025-12-24
+Yana Lysenko,patient364@email.com,8023,Hypertension,Dr. House,doctor43@clinic.com,Periodontist,LIC-809,2026-01-09,15:00,Scheduled,Caries,11799.53,Yes,2026-01-09
+Yana Lysenko,patient890@email.com,4229,None,Dr. House,doctor25@clinic.com,Therapist,LIC-110,2025-11-09,11:00,Completed,Caries,2935.34,Yes,2025-11-09
+Anna Tkachenko,patient661@email.com,1799,Diabetes,Dr. Frank,doctor22@clinic.com,Orthodontist,LIC-400,2026-01-24,12:00,Cancelled,Caries,5967.97,No,
+Viktor Shevchenko,patient638@email.com,2182,None,Dr. Frank,doctor32@clinic.com,Therapist,LIC-559,2025-12-25,12:00,Completed,Healthy,4777.75,No,
+Yana Lysenko,patient920@email.com,8702,Hypertension,Dr. Smith,doctor34@clinic.com,Surgeon,LIC-613,2025-11-29,12:00,Completed,Healthy,3323.15,No,
+Yana Lysenko,patient295@email.com,9493,None,Dr. Smith,doctor20@clinic.com,Orthodontist,LIC-179,2025-09-20,17:00,Cancelled,Teeth Cleaning,11458.78,No,
+Yana Lysenko,patient445@email.com,2468,None,Dr. Smith,doctor22@clinic.com,Therapist,LIC-202,2025-12-03,10:00,Cancelled,Healthy,11759.79,No,
+Ivan Melnyk,patient660@email.com,3031,Diabetes,Dr. House,doctor41@clinic.com,Orthodontist,LIC-657,2025-11-02,10:00,Completed,Pulpitis,13648.2,Yes,2025-11-02
+Ivan Melnyk,patient350@email.com,6752,Hypertension,Dr. Smith,doctor22@clinic.com,Orthodontist,LIC-536,2025-10-10,10:00,Cancelled,Gingivitis,12222.99,No,
+Viktor Shevchenko,patient723@email.com,1462,None,Dr. House,doctor43@clinic.com,Orthodontist,LIC-119,2025-11-10,16:00,Completed,Braces Installation,10297.48,Yes,2025-11-10
+Ivan Melnyk,patient344@email.com,7250,Penicillin allergy,Dr. Koval,doctor6@clinic.com,Therapist,LIC-216,2025-11-21,17:00,Scheduled,Caries,3070.94,No,
+Yana Lysenko,patient492@email.com,2312,Penicillin allergy,Dr. Smith,doctor13@clinic.com,Therapist,LIC-874,2025-12-15,16:00,Scheduled,Healthy,7963.83,No,
+Viktor Shevchenko,patient935@email.com,8173,None,Dr. House,doctor47@clinic.com,Therapist,LIC-204,2025-09-24,17:00,Cancelled,Braces Installation,6082.47,No,
+Yana Lysenko,patient235@email.com,7338,Hypertension,Dr. Frank,doctor13@clinic.com,Orthodontist,LIC-902,2025-10-07,13:00,Completed,Braces Installation,9393.95,Yes,2025-10-07
+Oleksandr Kovalenko,patient880@email.com,3305,None,Dr. Frank,doctor1@clinic.com,Therapist,LIC-533,2025-11-18,10:00,Scheduled,Gingivitis,3262.12,Yes,2025-11-18
+Ivan Melnyk,patient667@email.com,7077,Penicillin allergy,Dr. Koval,doctor19@clinic.com,Therapist,LIC-503,2025-12-04,10:00,Scheduled,Braces Installation,5667.41,No,
+Yana Lysenko,patient494@email.com,1730,Penicillin allergy,Dr. House,doctor47@clinic.com,Orthodontist,LIC-160,2025-11-12,11:00,Completed,Caries,9149.13,Yes,2025-11-12
+Anna Tkachenko,patient65@email.com,9541,None,Dr. House,doctor32@clinic.com,Surgeon,LIC-763,2025-09-19,12:00,Completed,Braces Installation,8552.26,Yes,2025-09-19
+Anna Tkachenko,patient198@email.com,6527,Diabetes,Dr. House,doctor33@clinic.com,Periodontist,LIC-692,2025-10-09,14:00,Scheduled,Gingivitis,9533.8,No,
+Oleksandr Kovalenko,patient640@email.com,1453,None,Dr. House,doctor50@clinic.com,Therapist,LIC-329,2025-10-25,16:00,Scheduled,Gingivitis,8449.33,Yes,2025-10-25
+Ivan Melnyk,patient360@email.com,3007,Penicillin allergy,Dr. Smith,doctor42@clinic.com,Surgeon,LIC-912,2025-11-19,11:00,Completed,Caries,13874.49,No,
+Yana Lysenko,patient885@email.com,2620,Hypertension,Dr. House,doctor42@clinic.com,Orthodontist,LIC-351,2026-01-21,14:00,Completed,Teeth Cleaning,7948.56,Yes,2026-01-21
+Yana Lysenko,patient1@email.com,7012,Penicillin allergy,Dr. Frank,doctor45@clinic.com,Therapist,LIC-736,2025-11-14,14:00,Completed,Pulpitis,13689.96,Yes,2025-11-14
+Anna Tkachenko,patient527@email.com,9322,Diabetes,Dr. Smith,doctor10@clinic.com,Therapist,LIC-237,2026-02-22,14:00,Cancelled,Pulpitis,1391.33,Yes,2026-02-22
+Ivan Melnyk,patient69@email.com,4566,Diabetes,Dr. Koval,doctor30@clinic.com,Orthodontist,LIC-163,2026-02-19,09:00,Scheduled,Caries,9266.43,No,
+Ivan Melnyk,patient106@email.com,5334,Penicillin allergy,Dr. Koval,doctor36@clinic.com,Orthodontist,LIC-998,2025-12-15,14:00,Cancelled,Healthy,12438.7,Yes,2025-12-15
+Yana Lysenko,patient131@email.com,5178,None,Dr. House,doctor14@clinic.com,Orthodontist,LIC-650,2025-11-30,14:00,Cancelled,Braces Installation,6325.58,No,
+Viktor Shevchenko,patient81@email.com,5657,Penicillin allergy,Dr. Smith,doctor45@clinic.com,Therapist,LIC-117,2025-09-10,14:00,Completed,Healthy,6666.89,Yes,2025-09-10
+Oleksandr Kovalenko,patient556@email.com,6732,None,Dr. Koval,doctor50@clinic.com,Surgeon,LIC-544,2025-09-19,11:00,Scheduled,Teeth Cleaning,13958.69,Yes,2025-09-19
+Ivan Melnyk,patient21@email.com,8134,Diabetes,Dr. House,doctor42@clinic.com,Therapist,LIC-365,2025-12-31,13:00,Completed,Braces Installation,12125.32,No,
+Mariia Boiko,patient516@email.com,3347,None,Dr. Koval,doctor11@clinic.com,Orthodontist,LIC-808,2025-09-24,10:00,Cancelled,Braces Installation,6660.35,Yes,2025-09-24
+Oleksandr Kovalenko,patient240@email.com,9142,Diabetes,Dr. Frank,doctor4@clinic.com,Periodontist,LIC-746,2025-10-25,17:00,Scheduled,Pulpitis,836.17,Yes,2025-10-25
+Yana Lysenko,patient940@email.com,4550,Penicillin allergy,Dr. Frank,doctor23@clinic.com,Therapist,LIC-454,2025-10-14,16:00,Completed,Gingivitis,2852.43,Yes,2025-10-14
+Oleksandr Kovalenko,patient146@email.com,8950,None,Dr. Koval,doctor42@clinic.com,Orthodontist,LIC-441,2025-12-28,11:00,Completed,Caries,4714.1,No,
+Ivan Melnyk,patient371@email.com,5196,Diabetes,Dr. House,doctor43@clinic.com,Orthodontist,LIC-830,2026-01-18,11:00,Scheduled,Braces Installation,11760.05,No,
+Oleksandr Kovalenko,patient275@email.com,3557,Hypertension,Dr. Frank,doctor41@clinic.com,Surgeon,LIC-219,2026-02-11,12:00,Cancelled,Pulpitis,10992.08,No,
+Viktor Shevchenko,patient409@email.com,1044,Penicillin allergy,Dr. Frank,doctor16@clinic.com,Therapist,LIC-867,2025-10-29,17:00,Scheduled,Pulpitis,13121.69,Yes,2025-10-29
+Oleksandr Kovalenko,patient292@email.com,6312,Penicillin allergy,Dr. House,doctor12@clinic.com,Surgeon,LIC-530,2025-11-07,10:00,Completed,Caries,9772.5,No,
+Viktor Shevchenko,patient843@email.com,9772,Penicillin allergy,Dr. Smith,doctor31@clinic.com,Periodontist,LIC-664,2026-02-17,15:00,Completed,Teeth Cleaning,9004.03,Yes,2026-02-17
+Mariia Boiko,patient969@email.com,4298,Diabetes,Dr. Koval,doctor10@clinic.com,Periodontist,LIC-757,2025-09-21,16:00,Cancelled,Caries,5025.68,No,
+Ivan Melnyk,patient29@email.com,5177,None,Dr. Smith,doctor10@clinic.com,Orthodontist,LIC-568,2025-09-21,16:00,Cancelled,Healthy,4503.84,Yes,2025-09-21
+Anna Tkachenko,patient651@email.com,2402,Penicillin allergy,Dr. Frank,doctor14@clinic.com,Periodontist,LIC-962,2025-10-02,12:00,Completed,Gingivitis,1232.3,Yes,2025-10-02
+Viktor Shevchenko,patient120@email.com,3369,Hypertension,Dr. Smith,doctor13@clinic.com,Periodontist,LIC-769,2025-09-29,14:00,Completed,Braces Installation,6320.75,Yes,2025-09-29
+Anna Tkachenko,patient143@email.com,3397,None,Dr. Koval,doctor31@clinic.com,Orthodontist,LIC-513,2026-01-15,09:00,Completed,Gingivitis,8816.74,No,
+Ivan Melnyk,patient552@email.com,1359,Penicillin allergy,Dr. Frank,doctor44@clinic.com,Periodontist,LIC-462,2026-03-03,15:00,Cancelled,Gingivitis,13958.1,Yes,2026-03-03
+Mariia Boiko,patient185@email.com,9526,Penicillin allergy,Dr. Koval,doctor49@clinic.com,Therapist,LIC-133,2025-09-14,15:00,Cancelled,Teeth Cleaning,7866.81,Yes,2025-09-14
+Anna Tkachenko,patient939@email.com,8131,Penicillin allergy,Dr. Smith,doctor27@clinic.com,Orthodontist,LIC-556,2026-02-25,09:00,Scheduled,Pulpitis,1835.1,Yes,2026-02-25
+Mariia Boiko,patient137@email.com,3335,Hypertension,Dr. Smith,doctor19@clinic.com,Therapist,LIC-292,2025-12-03,13:00,Completed,Caries,1478.72,No,
+Anna Tkachenko,patient885@email.com,4127,Penicillin allergy,Dr. House,doctor14@clinic.com,Therapist,LIC-683,2026-03-05,15:00,Completed,Caries,1963.98,Yes,2026-03-05
+Yana Lysenko,patient754@email.com,6771,Penicillin allergy,Dr. Frank,doctor50@clinic.com,Periodontist,LIC-135,2025-11-15,13:00,Completed,Healthy,14187.91,No,
+Viktor Shevchenko,patient902@email.com,2564,Diabetes,Dr. Smith,doctor49@clinic.com,Periodontist,LIC-589,2025-09-12,09:00,Scheduled,Healthy,733.03,Yes,2025-09-12
+Yana Lysenko,patient167@email.com,1445,None,Dr. Frank,doctor43@clinic.com,Orthodontist,LIC-846,2025-10-29,09:00,Scheduled,Gingivitis,8203.88,No,
+Anna Tkachenko,patient109@email.com,5552,Hypertension,Dr. Koval,doctor36@clinic.com,Therapist,LIC-962,2025-12-04,11:00,Cancelled,Gingivitis,5562.6,No,
+Ivan Melnyk,patient770@email.com,3206,Penicillin allergy,Dr. Frank,doctor50@clinic.com,Orthodontist,LIC-948,2025-10-25,11:00,Cancelled,Teeth Cleaning,7553.38,Yes,2025-10-25
+Mariia Boiko,patient143@email.com,8741,Penicillin allergy,Dr. Koval,doctor36@clinic.com,Surgeon,LIC-763,2026-01-03,17:00,Scheduled,Gingivitis,9099.71,Yes,2026-01-03
+Oleksandr Kovalenko,patient145@email.com,9429,None,Dr. Frank,doctor13@clinic.com,Surgeon,LIC-792,2025-10-08,13:00,Completed,Caries,2877.95,No,
+Ivan Melnyk,patient725@email.com,1939,None,Dr. House,doctor48@clinic.com,Surgeon,LIC-179,2025-10-04,12:00,Completed,Gingivitis,7500.53,No,
+Oleksandr Kovalenko,patient759@email.com,8965,Hypertension,Dr. Smith,doctor20@clinic.com,Periodontist,LIC-362,2025-10-24,09:00,Cancelled,Caries,7090.13,No,
+Oleksandr Kovalenko,patient657@email.com,3654,None,Dr. Frank,doctor46@clinic.com,Periodontist,LIC-974,2025-09-24,10:00,Cancelled,Teeth Cleaning,2878.55,Yes,2025-09-24
+Viktor Shevchenko,patient482@email.com,8503,None,Dr. Koval,doctor2@clinic.com,Therapist,LIC-533,2026-02-27,11:00,Cancelled,Healthy,7609.13,No,
+Oleksandr Kovalenko,patient260@email.com,3692,Penicillin allergy,Dr. Smith,doctor14@clinic.com,Surgeon,LIC-237,2025-09-08,17:00,Cancelled,Teeth Cleaning,4198.75,Yes,2025-09-08
+Mariia Boiko,patient204@email.com,5925,Penicillin allergy,Dr. Smith,doctor32@clinic.com,Therapist,LIC-153,2025-09-21,14:00,Scheduled,Pulpitis,9180.88,Yes,2025-09-21
+Mariia Boiko,patient549@email.com,6899,Diabetes,Dr. Smith,doctor42@clinic.com,Surgeon,LIC-737,2025-11-14,16:00,Scheduled,Pulpitis,1155.15,No,
+Viktor Shevchenko,patient453@email.com,4658,None,Dr. House,doctor8@clinic.com,Surgeon,LIC-122,2025-09-08,14:00,Scheduled,Pulpitis,11924.18,Yes,2025-09-08
+Mariia Boiko,patient703@email.com,2512,None,Dr. Koval,doctor35@clinic.com,Surgeon,LIC-783,2026-01-20,15:00,Cancelled,Healthy,9642.11,No,
+Mariia Boiko,patient837@email.com,4247,Diabetes,Dr. House,doctor46@clinic.com,Orthodontist,LIC-733,2025-11-27,16:00,Cancelled,Teeth Cleaning,12955.48,No,
+Viktor Shevchenko,patient140@email.com,1376,None,Dr. House,doctor48@clinic.com,Therapist,LIC-146,2025-11-25,17:00,Scheduled,Gingivitis,7215.43,Yes,2025-11-25
+Yana Lysenko,patient385@email.com,3748,Diabetes,Dr. Koval,doctor28@clinic.com,Periodontist,LIC-644,2025-10-05,12:00,Cancelled,Teeth Cleaning,9317.39,No,
+Mariia Boiko,patient58@email.com,6434,Hypertension,Dr. Koval,doctor45@clinic.com,Periodontist,LIC-525,2026-01-02,12:00,Cancelled,Caries,9289.73,Yes,2026-01-02
+Mariia Boiko,patient163@email.com,2489,Penicillin allergy,Dr. Koval,doctor40@clinic.com,Periodontist,LIC-351,2025-12-09,13:00,Cancelled,Caries,2866.71,No,
+Yana Lysenko,patient56@email.com,9196,Hypertension,Dr. Smith,doctor25@clinic.com,Periodontist,LIC-381,2025-12-04,15:00,Scheduled,Gingivitis,4760.23,Yes,2025-12-04
+Mariia Boiko,patient568@email.com,3798,Diabetes,Dr. House,doctor32@clinic.com,Therapist,LIC-716,2025-11-30,11:00,Completed,Teeth Cleaning,2668.12,No,
+Ivan Melnyk,patient760@email.com,6133,Hypertension,Dr. Smith,doctor23@clinic.com,Surgeon,LIC-519,2025-09-20,17:00,Cancelled,Caries,2853.7,Yes,2025-09-20
+Ivan Melnyk,patient9@email.com,2938,Hypertension,Dr. House,doctor37@clinic.com,Therapist,LIC-332,2025-11-15,17:00,Completed,Healthy,11920.25,No,
+Mariia Boiko,patient784@email.com,9318,Diabetes,Dr. House,doctor43@clinic.com,Surgeon,LIC-126,2025-09-28,13:00,Cancelled,Teeth Cleaning,10531.15,No,
+Ivan Melnyk,patient147@email.com,6713,Diabetes,Dr. Koval,doctor45@clinic.com,Orthodontist,LIC-671,2025-10-02,15:00,Completed,Pulpitis,4613.87,Yes,2025-10-02
+Ivan Melnyk,patient758@email.com,7702,Diabetes,Dr. Koval,doctor6@clinic.com,Surgeon,LIC-485,2025-10-11,16:00,Cancelled,Healthy,4350.55,No,
+Mariia Boiko,patient656@email.com,7301,Penicillin allergy,Dr. Smith,doctor43@clinic.com,Orthodontist,LIC-666,2026-01-30,15:00,Cancelled,Gingivitis,4203.01,Yes,2026-01-30
+Ivan Melnyk,patient655@email.com,4131,Hypertension,Dr. Koval,doctor6@clinic.com,Therapist,LIC-225,2025-10-28,09:00,Cancelled,Teeth Cleaning,9903.34,No,
+Yana Lysenko,patient840@email.com,5525,Diabetes,Dr. Frank,doctor37@clinic.com,Periodontist,LIC-552,2025-11-20,11:00,Completed,Gingivitis,8542.52,Yes,2025-11-20
+Ivan Melnyk,patient146@email.com,5389,None,Dr. Koval,doctor25@clinic.com,Orthodontist,LIC-782,2025-12-02,12:00,Cancelled,Gingivitis,13704.03,No,
+Viktor Shevchenko,patient399@email.com,7720,Diabetes,Dr. Frank,doctor48@clinic.com,Orthodontist,LIC-967,2025-10-09,12:00,Completed,Caries,9952.03,Yes,2025-10-09
+Ivan Melnyk,patient664@email.com,4041,Diabetes,Dr. Frank,doctor14@clinic.com,Therapist,LIC-651,2025-09-21,13:00,Cancelled,Pulpitis,14853.05,Yes,2025-09-21
+Mariia Boiko,patient379@email.com,8383,Penicillin allergy,Dr. Smith,doctor21@clinic.com,Orthodontist,LIC-516,2026-02-15,17:00,Cancelled,Braces Installation,13044.09,No,
+Anna Tkachenko,patient857@email.com,3219,Hypertension,Dr. House,doctor17@clinic.com,Periodontist,LIC-203,2026-02-16,09:00,Completed,Gingivitis,4431.59,No,
+Ivan Melnyk,patient684@email.com,7874,Penicillin allergy,Dr. House,doctor24@clinic.com,Therapist,LIC-751,2025-12-10,09:00,Scheduled,Healthy,868.5,Yes,2025-12-10
+Yana Lysenko,patient678@email.com,4904,Hypertension,Dr. Koval,doctor20@clinic.com,Therapist,LIC-442,2026-02-02,14:00,Scheduled,Healthy,11891.9,Yes,2026-02-02
+Mariia Boiko,patient545@email.com,9156,Penicillin allergy,Dr. House,doctor39@clinic.com,Therapist,LIC-676,2025-12-02,15:00,Cancelled,Healthy,5873.46,Yes,2025-12-02
+Mariia Boiko,patient56@email.com,4400,Penicillin allergy,Dr. Frank,doctor7@clinic.com,Periodontist,LIC-887,2025-12-30,17:00,Completed,Caries,8686.63,No,
+Mariia Boiko,patient668@email.com,8123,Diabetes,Dr. Frank,doctor43@clinic.com,Therapist,LIC-175,2025-12-26,16:00,Cancelled,Braces Installation,9429.12,Yes,2025-12-26
+Mariia Boiko,patient54@email.com,8078,Diabetes,Dr. Smith,doctor31@clinic.com,Periodontist,LIC-110,2025-12-17,15:00,Scheduled,Pulpitis,14161.75,Yes,2025-12-17
+Mariia Boiko,patient152@email.com,4683,None,Dr. Koval,doctor45@clinic.com,Periodontist,LIC-446,2025-09-14,15:00,Scheduled,Gingivitis,11538.23,Yes,2025-09-14
+Viktor Shevchenko,patient135@email.com,9576,Hypertension,Dr. Koval,doctor21@clinic.com,Therapist,LIC-466,2026-01-23,16:00,Completed,Gingivitis,12041.46,No,
+Oleksandr Kovalenko,patient622@email.com,9835,None,Dr. Koval,doctor8@clinic.com,Periodontist,LIC-667,2025-09-26,17:00,Completed,Braces Installation,1935.28,No,
+Ivan Melnyk,patient11@email.com,4666,None,Dr. Frank,doctor18@clinic.com,Therapist,LIC-492,2025-09-19,17:00,Completed,Braces Installation,13041.59,No,
+Anna Tkachenko,patient426@email.com,1147,None,Dr. Frank,doctor41@clinic.com,Surgeon,LIC-548,2025-12-10,10:00,Cancelled,Pulpitis,5835.18,Yes,2025-12-10
+Ivan Melnyk,patient242@email.com,7198,Hypertension,Dr. Smith,doctor9@clinic.com,Therapist,LIC-818,2025-11-16,10:00,Scheduled,Healthy,1473.14,Yes,2025-11-16
+Oleksandr Kovalenko,patient719@email.com,8545,None,Dr. Koval,doctor32@clinic.com,Surgeon,LIC-573,2025-10-09,10:00,Completed,Pulpitis,14829.88,Yes,2025-10-09
+Anna Tkachenko,patient227@email.com,2933,None,Dr. Koval,doctor10@clinic.com,Orthodontist,LIC-789,2025-10-24,12:00,Scheduled,Braces Installation,13047.42,Yes,2025-10-24
+Mariia Boiko,patient843@email.com,7727,None,Dr. House,doctor48@clinic.com,Therapist,LIC-613,2025-11-22,10:00,Completed,Healthy,849.25,No,
+Viktor Shevchenko,patient355@email.com,5955,None,Dr. Koval,doctor42@clinic.com,Periodontist,LIC-180,2026-02-01,14:00,Completed,Healthy,12412.88,Yes,2026-02-01
+Yana Lysenko,patient519@email.com,8457,Diabetes,Dr. Koval,doctor4@clinic.com,Periodontist,LIC-384,2025-10-05,13:00,Scheduled,Caries,1273.33,No,
+Viktor Shevchenko,patient340@email.com,1465,None,Dr. Frank,doctor47@clinic.com,Therapist,LIC-706,2026-02-19,16:00,Cancelled,Caries,14663.74,Yes,2026-02-19
+Anna Tkachenko,patient643@email.com,9381,Diabetes,Dr. Koval,doctor28@clinic.com,Orthodontist,LIC-481,2026-02-07,09:00,Scheduled,Healthy,3838.39,No,
+Mariia Boiko,patient853@email.com,6385,None,Dr. Frank,doctor36@clinic.com,Therapist,LIC-791,2025-09-24,17:00,Completed,Healthy,11918.59,No,
+Yana Lysenko,patient884@email.com,6759,Hypertension,Dr. Frank,doctor17@clinic.com,Therapist,LIC-601,2025-11-22,12:00,Completed,Caries,9161.79,No,
+Viktor Shevchenko,patient876@email.com,5027,Penicillin allergy,Dr. House,doctor37@clinic.com,Surgeon,LIC-637,2025-12-12,12:00,Cancelled,Gingivitis,6247.06,No,
+Anna Tkachenko,patient43@email.com,6550,None,Dr. House,doctor19@clinic.com,Surgeon,LIC-529,2025-12-09,17:00,Completed,Teeth Cleaning,4449.43,No,
+Ivan Melnyk,patient764@email.com,6863,Penicillin allergy,Dr. Koval,doctor8@clinic.com,Surgeon,LIC-934,2025-12-10,10:00,Completed,Pulpitis,14499.58,Yes,2025-12-10
+Yana Lysenko,patient350@email.com,9927,Hypertension,Dr. House,doctor2@clinic.com,Orthodontist,LIC-645,2025-11-10,11:00,Scheduled,Caries,3589.17,Yes,2025-11-10
+Mariia Boiko,patient437@email.com,2765,Diabetes,Dr. Smith,doctor41@clinic.com,Therapist,LIC-334,2025-12-26,11:00,Scheduled,Caries,3214.97,Yes,2025-12-26
+Viktor Shevchenko,patient378@email.com,1609,Penicillin allergy,Dr. Koval,doctor43@clinic.com,Orthodontist,LIC-318,2026-02-25,16:00,Completed,Healthy,10407.07,No,
+Mariia Boiko,patient922@email.com,6895,None,Dr. House,doctor21@clinic.com,Therapist,LIC-385,2025-12-26,15:00,Cancelled,Teeth Cleaning,9994.47,Yes,2025-12-26
+Oleksandr Kovalenko,patient65@email.com,4782,None,Dr. Frank,doctor20@clinic.com,Therapist,LIC-123,2025-11-13,15:00,Cancelled,Healthy,9618.91,Yes,2025-11-13
+Mariia Boiko,patient622@email.com,1418,Penicillin allergy,Dr. Frank,doctor14@clinic.com,Surgeon,LIC-392,2026-01-28,13:00,Scheduled,Teeth Cleaning,13556.8,Yes,2026-01-28
+Mariia Boiko,patient682@email.com,3759,None,Dr. Smith,doctor4@clinic.com,Periodontist,LIC-964,2025-09-13,15:00,Completed,Caries,12811.5,Yes,2025-09-13
+Oleksandr Kovalenko,patient214@email.com,8887,Diabetes,Dr. Frank,doctor7@clinic.com,Orthodontist,LIC-398,2025-11-03,12:00,Cancelled,Healthy,14266.97,No,
+Viktor Shevchenko,patient471@email.com,9406,Hypertension,Dr. Frank,doctor23@clinic.com,Therapist,LIC-405,2026-01-28,12:00,Completed,Braces Installation,7509.55,Yes,2026-01-28
+Viktor Shevchenko,patient614@email.com,7930,None,Dr. Smith,doctor28@clinic.com,Therapist,LIC-138,2025-11-29,17:00,Scheduled,Gingivitis,10261.28,Yes,2025-11-29
+Ivan Melnyk,patient884@email.com,6787,None,Dr. Koval,doctor27@clinic.com,Orthodontist,LIC-692,2026-02-07,09:00,Cancelled,Caries,9956.23,Yes,2026-02-07
+Mariia Boiko,patient19@email.com,1792,None,Dr. Smith,doctor20@clinic.com,Orthodontist,LIC-878,2025-09-29,11:00,Cancelled,Caries,5014.95,No,
+Mariia Boiko,patient400@email.com,2631,None,Dr. Koval,doctor45@clinic.com,Periodontist,LIC-346,2026-02-22,17:00,Cancelled,Braces Installation,14097.81,Yes,2026-02-22
+Mariia Boiko,patient492@email.com,3760,Penicillin allergy,Dr. Koval,doctor12@clinic.com,Orthodontist,LIC-429,2025-11-03,13:00,Completed,Healthy,14559.52,No,
+Mariia Boiko,patient127@email.com,9963,None,Dr. Frank,doctor3@clinic.com,Orthodontist,LIC-591,2025-09-27,11:00,Completed,Gingivitis,5681.65,Yes,2025-09-27
+Yana Lysenko,patient518@email.com,8027,Diabetes,Dr. Frank,doctor27@clinic.com,Periodontist,LIC-426,2026-01-22,11:00,Completed,Gingivitis,1139.33,No,
+Anna Tkachenko,patient888@email.com,7507,Diabetes,Dr. Smith,doctor43@clinic.com,Therapist,LIC-660,2025-11-12,17:00,Scheduled,Caries,3630.05,No,
+Ivan Melnyk,patient199@email.com,8124,Diabetes,Dr. Koval,doctor37@clinic.com,Therapist,LIC-941,2025-11-13,12:00,Scheduled,Caries,14639.22,No,
+Viktor Shevchenko,patient159@email.com,1554,None,Dr. Smith,doctor41@clinic.com,Orthodontist,LIC-175,2026-01-28,11:00,Cancelled,Pulpitis,7417.06,No,
+Mariia Boiko,patient553@email.com,3449,None,Dr. Smith,doctor29@clinic.com,Surgeon,LIC-101,2025-09-12,12:00,Scheduled,Caries,10559.16,Yes,2025-09-12
+Yana Lysenko,patient659@email.com,3341,Hypertension,Dr. Koval,doctor6@clinic.com,Surgeon,LIC-936,2026-03-02,10:00,Completed,Gingivitis,749.95,Yes,2026-03-02
+Viktor Shevchenko,patient317@email.com,2180,Diabetes,Dr. Koval,doctor37@clinic.com,Orthodontist,LIC-540,2025-12-23,14:00,Completed,Braces Installation,13899.18,Yes,2025-12-23
+Anna Tkachenko,patient924@email.com,1185,None,Dr. Frank,doctor47@clinic.com,Periodontist,LIC-903,2026-02-25,15:00,Completed,Healthy,13456.45,Yes,2026-02-25
+Oleksandr Kovalenko,patient772@email.com,9995,None,Dr. Frank,doctor20@clinic.com,Periodontist,LIC-452,2026-02-06,16:00,Completed,Healthy,14190.57,Yes,2026-02-06
+Ivan Melnyk,patient854@email.com,3550,None,Dr. Koval,doctor11@clinic.com,Surgeon,LIC-673,2025-10-02,13:00,Completed,Teeth Cleaning,11883.32,Yes,2025-10-02
+Yana Lysenko,patient405@email.com,9662,Penicillin allergy,Dr. Frank,doctor44@clinic.com,Orthodontist,LIC-752,2025-10-02,14:00,Completed,Teeth Cleaning,10404.41,Yes,2025-10-02
+Ivan Melnyk,patient344@email.com,2629,None,Dr. Koval,doctor15@clinic.com,Periodontist,LIC-707,2025-11-21,12:00,Cancelled,Caries,11320.61,Yes,2025-11-21
+Viktor Shevchenko,patient880@email.com,8582,None,Dr. House,doctor21@clinic.com,Therapist,LIC-670,2025-10-06,11:00,Scheduled,Pulpitis,10022.43,No,
+Yana Lysenko,patient772@email.com,8832,None,Dr. Koval,doctor23@clinic.com,Periodontist,LIC-718,2025-09-23,15:00,Completed,Healthy,12523.21,No,
+Anna Tkachenko,patient77@email.com,6769,Hypertension,Dr. House,doctor37@clinic.com,Surgeon,LIC-615,2025-10-11,11:00,Completed,Pulpitis,6415.6,Yes,2025-10-11
+Viktor Shevchenko,patient622@email.com,5665,Hypertension,Dr. Frank,doctor16@clinic.com,Therapist,LIC-934,2026-01-13,16:00,Cancelled,Healthy,9343.06,Yes,2026-01-13
+Yana Lysenko,patient413@email.com,8720,Penicillin allergy,Dr. House,doctor12@clinic.com,Therapist,LIC-377,2025-10-22,13:00,Scheduled,Gingivitis,3876.51,Yes,2025-10-22
+Viktor Shevchenko,patient144@email.com,9463,Diabetes,Dr. Koval,doctor9@clinic.com,Therapist,LIC-803,2025-12-24,17:00,Completed,Teeth Cleaning,10083.77,No,
+Mariia Boiko,patient103@email.com,9919,Diabetes,Dr. Koval,doctor47@clinic.com,Periodontist,LIC-863,2025-11-25,14:00,Scheduled,Teeth Cleaning,2613.42,No,
+Anna Tkachenko,patient992@email.com,1460,Hypertension,Dr. Frank,doctor39@clinic.com,Orthodontist,LIC-215,2025-10-17,13:00,Cancelled,Caries,1527.7,No,
+Ivan Melnyk,patient466@email.com,9324,Penicillin allergy,Dr. House,doctor1@clinic.com,Orthodontist,LIC-607,2025-11-15,12:00,Cancelled,Pulpitis,12693.56,Yes,2025-11-15
+Oleksandr Kovalenko,patient968@email.com,9072,None,Dr. House,doctor39@clinic.com,Periodontist,LIC-968,2025-09-29,10:00,Completed,Healthy,5535.39,No,
+Viktor Shevchenko,patient895@email.com,7756,None,Dr. Koval,doctor37@clinic.com,Periodontist,LIC-997,2025-10-13,09:00,Cancelled,Healthy,13097.76,Yes,2025-10-13
+Ivan Melnyk,patient293@email.com,2937,Hypertension,Dr. Koval,doctor19@clinic.com,Periodontist,LIC-535,2025-12-10,09:00,Completed,Braces Installation,8139.9,Yes,2025-12-10
+Ivan Melnyk,patient887@email.com,8251,Hypertension,Dr. Frank,doctor38@clinic.com,Surgeon,LIC-318,2025-11-17,09:00,Cancelled,Braces Installation,8386.84,No,
+Yana Lysenko,patient691@email.com,3694,Penicillin allergy,Dr. Smith,doctor1@clinic.com,Therapist,LIC-261,2026-01-31,09:00,Scheduled,Pulpitis,12557.9,No,
+Anna Tkachenko,patient36@email.com,4788,Diabetes,Dr. Frank,doctor25@clinic.com,Surgeon,LIC-169,2025-10-10,17:00,Scheduled,Caries,9980.76,No,
+Mariia Boiko,patient244@email.com,5662,Diabetes,Dr. Frank,doctor39@clinic.com,Surgeon,LIC-775,2025-11-27,14:00,Scheduled,Caries,14164.52,Yes,2025-11-27
+Mariia Boiko,patient939@email.com,5290,None,Dr. Frank,doctor34@clinic.com,Surgeon,LIC-400,2026-01-15,11:00,Scheduled,Healthy,3262.75,No,
+Mariia Boiko,patient291@email.com,7445,Diabetes,Dr. Koval,doctor7@clinic.com,Periodontist,LIC-819,2025-12-31,17:00,Completed,Pulpitis,2503.44,No,
+Ivan Melnyk,patient826@email.com,7512,Hypertension,Dr. Koval,doctor6@clinic.com,Orthodontist,LIC-701,2025-09-26,17:00,Completed,Teeth Cleaning,10248.15,Yes,2025-09-26
+Yana Lysenko,patient970@email.com,7057,Diabetes,Dr. House,doctor3@clinic.com,Periodontist,LIC-895,2025-09-22,14:00,Cancelled,Pulpitis,3708.94,Yes,2025-09-22
+Mariia Boiko,patient426@email.com,3890,Diabetes,Dr. Koval,doctor16@clinic.com,Therapist,LIC-213,2025-09-11,11:00,Scheduled,Braces Installation,13758.27,Yes,2025-09-11
+Anna Tkachenko,patient487@email.com,2081,Diabetes,Dr. Koval,doctor17@clinic.com,Therapist,LIC-453,2025-10-16,10:00,Completed,Gingivitis,4602.04,Yes,2025-10-16
+Mariia Boiko,patient606@email.com,4319,None,Dr. Frank,doctor34@clinic.com,Surgeon,LIC-260,2026-01-31,14:00,Cancelled,Healthy,2774.21,No,
+Mariia Boiko,patient631@email.com,6395,Hypertension,Dr. House,doctor30@clinic.com,Therapist,LIC-137,2025-09-17,09:00,Cancelled,Teeth Cleaning,3561.71,Yes,2025-09-17
+Ivan Melnyk,patient219@email.com,5011,None,Dr. Smith,doctor5@clinic.com,Surgeon,LIC-852,2026-01-12,15:00,Completed,Healthy,10334.47,Yes,2026-01-12
+Yana Lysenko,patient813@email.com,9771,None,Dr. Smith,doctor1@clinic.com,Periodontist,LIC-387,2026-01-01,13:00,Completed,Pulpitis,8250.32,Yes,2026-01-01
+Oleksandr Kovalenko,patient66@email.com,2673,None,Dr. House,doctor39@clinic.com,Periodontist,LIC-501,2025-11-10,17:00,Cancelled,Pulpitis,11424.98,Yes,2025-11-10
+Anna Tkachenko,patient805@email.com,4611,Diabetes,Dr. Koval,doctor1@clinic.com,Surgeon,LIC-812,2026-02-01,12:00,Scheduled,Gingivitis,9433.97,No,
+Ivan Melnyk,patient26@email.com,2598,None,Dr. Smith,doctor11@clinic.com,Orthodontist,LIC-283,2025-10-22,14:00,Scheduled,Healthy,13986.52,Yes,2025-10-22
+Viktor Shevchenko,patient852@email.com,3262,None,Dr. Frank,doctor18@clinic.com,Surgeon,LIC-495,2025-10-13,13:00,Cancelled,Healthy,2596.79,No,
+Viktor Shevchenko,patient797@email.com,2769,Penicillin allergy,Dr. Smith,doctor48@clinic.com,Periodontist,LIC-168,2025-09-08,16:00,Scheduled,Healthy,11895.28,Yes,2025-09-08
+Ivan Melnyk,patient950@email.com,1113,None,Dr. Smith,doctor45@clinic.com,Surgeon,LIC-130,2025-09-27,12:00,Completed,Pulpitis,12060.93,Yes,2025-09-27
+Viktor Shevchenko,patient186@email.com,2706,Penicillin allergy,Dr. Frank,doctor6@clinic.com,Periodontist,LIC-636,2026-02-26,10:00,Completed,Pulpitis,1818.15,Yes,2026-02-26
+Oleksandr Kovalenko,patient349@email.com,3835,None,Dr. Smith,doctor20@clinic.com,Therapist,LIC-192,2025-10-11,11:00,Completed,Gingivitis,10656.26,No,
+Oleksandr Kovalenko,patient157@email.com,6676,None,Dr. Smith,doctor30@clinic.com,Orthodontist,LIC-555,2025-10-25,17:00,Cancelled,Pulpitis,13081.68,No,
+Viktor Shevchenko,patient13@email.com,8100,None,Dr. Smith,doctor3@clinic.com,Periodontist,LIC-690,2025-12-29,10:00,Cancelled,Caries,10791.62,Yes,2025-12-29
+Yana Lysenko,patient455@email.com,1133,Penicillin allergy,Dr. Frank,doctor49@clinic.com,Periodontist,LIC-449,2025-09-16,16:00,Cancelled,Healthy,8154.39,Yes,2025-09-16
+Viktor Shevchenko,patient625@email.com,8395,None,Dr. House,doctor40@clinic.com,Orthodontist,LIC-425,2025-11-20,09:00,Scheduled,Caries,6246.12,Yes,2025-11-20
+Mariia Boiko,patient804@email.com,5831,None,Dr. Frank,doctor43@clinic.com,Periodontist,LIC-150,2026-01-22,10:00,Scheduled,Pulpitis,1547.77,No,
+Anna Tkachenko,patient503@email.com,4966,Hypertension,Dr. Koval,doctor42@clinic.com,Surgeon,LIC-469,2025-10-31,09:00,Scheduled,Healthy,3184.4,Yes,2025-10-31
+Ivan Melnyk,patient333@email.com,3666,None,Dr. Frank,doctor10@clinic.com,Surgeon,LIC-794,2025-10-29,16:00,Cancelled,Teeth Cleaning,12369.18,Yes,2025-10-29
+Oleksandr Kovalenko,patient270@email.com,1404,Diabetes,Dr. House,doctor38@clinic.com,Surgeon,LIC-948,2025-12-01,15:00,Completed,Braces Installation,4378.81,Yes,2025-12-01
+Anna Tkachenko,patient89@email.com,1497,Diabetes,Dr. Frank,doctor13@clinic.com,Therapist,LIC-363,2026-01-12,10:00,Completed,Braces Installation,13542.26,No,
+Oleksandr Kovalenko,patient579@email.com,9058,Hypertension,Dr. Smith,doctor43@clinic.com,Periodontist,LIC-348,2025-09-17,13:00,Cancelled,Healthy,13499.01,No,
+Viktor Shevchenko,patient626@email.com,3337,None,Dr. House,doctor48@clinic.com,Orthodontist,LIC-581,2025-10-11,16:00,Completed,Braces Installation,3397.17,Yes,2025-10-11
+Ivan Melnyk,patient790@email.com,2389,Penicillin allergy,Dr. Koval,doctor11@clinic.com,Surgeon,LIC-251,2025-09-14,17:00,Completed,Pulpitis,1369.91,Yes,2025-09-14
+Oleksandr Kovalenko,patient518@email.com,7783,Hypertension,Dr. Frank,doctor3@clinic.com,Periodontist,LIC-343,2025-12-23,13:00,Completed,Pulpitis,10499.4,Yes,2025-12-23
+Viktor Shevchenko,patient653@email.com,3167,None,Dr. House,doctor48@clinic.com,Therapist,LIC-435,2025-12-27,13:00,Completed,Teeth Cleaning,11511.07,Yes,2025-12-27
+Oleksandr Kovalenko,patient238@email.com,9345,Hypertension,Dr. House,doctor16@clinic.com,Periodontist,LIC-278,2025-12-11,13:00,Scheduled,Pulpitis,4410.82,No,
+Yana Lysenko,patient592@email.com,2520,None,Dr. Frank,doctor22@clinic.com,Periodontist,LIC-328,2025-09-27,15:00,Scheduled,Pulpitis,12829.05,Yes,2025-09-27
+Anna Tkachenko,patient133@email.com,8263,Hypertension,Dr. Frank,doctor47@clinic.com,Periodontist,LIC-643,2026-01-27,12:00,Scheduled,Pulpitis,5041.36,Yes,2026-01-27
+Ivan Melnyk,patient709@email.com,9385,None,Dr. Koval,doctor31@clinic.com,Therapist,LIC-652,2026-02-14,15:00,Cancelled,Braces Installation,1816.32,No,
+Viktor Shevchenko,patient528@email.com,3705,Diabetes,Dr. Frank,doctor50@clinic.com,Surgeon,LIC-199,2026-01-02,15:00,Completed,Healthy,12393.79,Yes,2026-01-02
+Ivan Melnyk,patient899@email.com,9660,Diabetes,Dr. Smith,doctor17@clinic.com,Surgeon,LIC-465,2026-01-30,17:00,Completed,Caries,14641.35,No,
+Ivan Melnyk,patient275@email.com,3818,Penicillin allergy,Dr. Smith,doctor19@clinic.com,Orthodontist,LIC-575,2025-11-21,14:00,Cancelled,Teeth Cleaning,11502.62,No,
+Ivan Melnyk,patient531@email.com,9562,Penicillin allergy,Dr. Frank,doctor1@clinic.com,Orthodontist,LIC-467,2026-03-04,15:00,Cancelled,Caries,987.42,Yes,2026-03-04
+Anna Tkachenko,patient414@email.com,4990,Hypertension,Dr. Frank,doctor41@clinic.com,Periodontist,LIC-443,2026-02-09,11:00,Completed,Teeth Cleaning,11493.12,No,
+Oleksandr Kovalenko,patient372@email.com,7691,Penicillin allergy,Dr. Frank,doctor10@clinic.com,Periodontist,LIC-648,2026-01-25,13:00,Scheduled,Gingivitis,6991.75,Yes,2026-01-25
+Oleksandr Kovalenko,patient552@email.com,1741,Penicillin allergy,Dr. Frank,doctor4@clinic.com,Orthodontist,LIC-299,2026-01-03,15:00,Scheduled,Braces Installation,6627.49,Yes,2026-01-03
+Ivan Melnyk,patient127@email.com,1687,Hypertension,Dr. Frank,doctor32@clinic.com,Surgeon,LIC-899,2025-10-07,10:00,Cancelled,Caries,11013.78,No,
+Yana Lysenko,patient794@email.com,3865,Diabetes,Dr. Smith,doctor39@clinic.com,Therapist,LIC-837,2025-12-04,11:00,Scheduled,Pulpitis,14671.98,No,
+Anna Tkachenko,patient532@email.com,2814,Diabetes,Dr. Smith,doctor24@clinic.com,Periodontist,LIC-299,2025-12-08,10:00,Completed,Braces Installation,7718.19,Yes,2025-12-08
+Viktor Shevchenko,patient867@email.com,6530,None,Dr. Koval,doctor31@clinic.com,Orthodontist,LIC-264,2025-09-27,10:00,Scheduled,Pulpitis,913.3,No,
+Mariia Boiko,patient555@email.com,9064,Hypertension,Dr. Koval,doctor48@clinic.com,Surgeon,LIC-259,2026-02-22,12:00,Cancelled,Pulpitis,2267.14,Yes,2026-02-22
+Anna Tkachenko,patient136@email.com,4589,None,Dr. House,doctor20@clinic.com,Orthodontist,LIC-725,2025-12-03,13:00,Cancelled,Braces Installation,12087.02,Yes,2025-12-03
+Yana Lysenko,patient967@email.com,3018,Diabetes,Dr. Smith,doctor32@clinic.com,Therapist,LIC-794,2026-01-08,15:00,Scheduled,Gingivitis,5023.43,No,
+Yana Lysenko,patient909@email.com,7319,Penicillin allergy,Dr. Frank,doctor42@clinic.com,Therapist,LIC-399,2025-12-29,11:00,Scheduled,Braces Installation,9529.97,No,
+Oleksandr Kovalenko,patient685@email.com,6141,Diabetes,Dr. Frank,doctor48@clinic.com,Orthodontist,LIC-234,2025-12-27,11:00,Scheduled,Braces Installation,3746.15,No,
+Mariia Boiko,patient163@email.com,2299,None,Dr. Frank,doctor10@clinic.com,Orthodontist,LIC-411,2025-11-14,15:00,Completed,Pulpitis,4816.34,Yes,2025-11-14
+Oleksandr Kovalenko,patient556@email.com,5421,Diabetes,Dr. Koval,doctor12@clinic.com,Surgeon,LIC-477,2025-10-03,16:00,Completed,Gingivitis,12377.13,Yes,2025-10-03
+Yana Lysenko,patient345@email.com,3495,None,Dr. Koval,doctor8@clinic.com,Orthodontist,LIC-409,2025-12-06,12:00,Cancelled,Pulpitis,12816.88,No,
+Yana Lysenko,patient713@email.com,8105,None,Dr. Frank,doctor46@clinic.com,Orthodontist,LIC-994,2026-01-26,10:00,Cancelled,Healthy,13490.6,No,
+Oleksandr Kovalenko,patient432@email.com,3454,Diabetes,Dr. Koval,doctor38@clinic.com,Periodontist,LIC-574,2025-11-06,15:00,Completed,Gingivitis,1365.37,Yes,2025-11-06
+Anna Tkachenko,patient361@email.com,1604,None,Dr. House,doctor46@clinic.com,Surgeon,LIC-525,2025-11-20,17:00,Completed,Caries,5531.02,No,
+Viktor Shevchenko,patient513@email.com,7471,Penicillin allergy,Dr. Koval,doctor42@clinic.com,Surgeon,LIC-325,2025-10-20,15:00,Cancelled,Pulpitis,4222.1,Yes,2025-10-20
+Mariia Boiko,patient690@email.com,7404,Penicillin allergy,Dr. House,doctor45@clinic.com,Periodontist,LIC-646,2025-09-09,09:00,Cancelled,Caries,9458.59,No,
+Ivan Melnyk,patient241@email.com,7018,Hypertension,Dr. Frank,doctor21@clinic.com,Surgeon,LIC-199,2025-10-15,09:00,Completed,Teeth Cleaning,4334.86,Yes,2025-10-15
+Oleksandr Kovalenko,patient88@email.com,3449,Hypertension,Dr. Smith,doctor35@clinic.com,Therapist,LIC-268,2026-01-09,15:00,Completed,Pulpitis,12705.24,Yes,2026-01-09
+Mariia Boiko,patient195@email.com,7458,Penicillin allergy,Dr. Frank,doctor21@clinic.com,Therapist,LIC-129,2025-11-27,11:00,Completed,Healthy,11404.16,No,
+Viktor Shevchenko,patient713@email.com,3691,Hypertension,Dr. Frank,doctor44@clinic.com,Surgeon,LIC-714,2025-10-07,14:00,Scheduled,Gingivitis,10270.26,Yes,2025-10-07
+Ivan Melnyk,patient456@email.com,5921,Diabetes,Dr. Smith,doctor10@clinic.com,Periodontist,LIC-812,2025-11-16,15:00,Cancelled,Pulpitis,2209.73,No,
+Yana Lysenko,patient108@email.com,3957,None,Dr. Smith,doctor6@clinic.com,Therapist,LIC-388,2025-11-20,15:00,Completed,Healthy,9823.79,No,
+Ivan Melnyk,patient581@email.com,3323,None,Dr. House,doctor41@clinic.com,Orthodontist,LIC-605,2025-10-06,13:00,Scheduled,Braces Installation,2030.08,Yes,2025-10-06
+Anna Tkachenko,patient111@email.com,7790,Hypertension,Dr. House,doctor17@clinic.com,Surgeon,LIC-695,2025-11-10,12:00,Cancelled,Braces Installation,11097.79,Yes,2025-11-10
+Viktor Shevchenko,patient244@email.com,8714,None,Dr. House,doctor27@clinic.com,Orthodontist,LIC-346,2026-03-06,12:00,Scheduled,Braces Installation,908.37,Yes,2026-03-06
+Viktor Shevchenko,patient382@email.com,1996,None,Dr. Koval,doctor37@clinic.com,Surgeon,LIC-915,2025-11-24,17:00,Completed,Teeth Cleaning,5730.12,Yes,2025-11-24
+Yana Lysenko,patient823@email.com,9555,Penicillin allergy,Dr. Koval,doctor9@clinic.com,Surgeon,LIC-325,2025-10-28,13:00,Completed,Braces Installation,5394.79,No,
+Viktor Shevchenko,patient281@email.com,6482,None,Dr. Koval,doctor20@clinic.com,Periodontist,LIC-926,2025-11-17,13:00,Scheduled,Teeth Cleaning,14916.8,Yes,2025-11-17
+Anna Tkachenko,patient683@email.com,8530,Penicillin allergy,Dr. House,doctor24@clinic.com,Orthodontist,LIC-864,2025-10-08,11:00,Cancelled,Healthy,1400.76,No,
+Viktor Shevchenko,patient6@email.com,8000,Diabetes,Dr. House,doctor7@clinic.com,Therapist,LIC-399,2026-01-26,16:00,Cancelled,Pulpitis,6373.96,No,
+Ivan Melnyk,patient207@email.com,2557,None,Dr. Frank,doctor40@clinic.com,Orthodontist,LIC-366,2025-10-21,09:00,Cancelled,Healthy,4327.69,Yes,2025-10-21
+Ivan Melnyk,patient139@email.com,5395,None,Dr. House,doctor23@clinic.com,Orthodontist,LIC-736,2026-02-15,17:00,Completed,Gingivitis,2780.76,No,
+Viktor Shevchenko,patient94@email.com,2829,Diabetes,Dr. House,doctor22@clinic.com,Periodontist,LIC-761,2025-12-14,16:00,Cancelled,Caries,11994.22,Yes,2025-12-14
+Ivan Melnyk,patient18@email.com,6975,Penicillin allergy,Dr. Koval,doctor12@clinic.com,Therapist,LIC-432,2026-02-18,11:00,Completed,Healthy,5508.69,Yes,2026-02-18
+Yana Lysenko,patient46@email.com,9328,Diabetes,Dr. Frank,doctor7@clinic.com,Surgeon,LIC-470,2025-10-21,10:00,Scheduled,Braces Installation,7349.19,Yes,2025-10-21
+Viktor Shevchenko,patient423@email.com,2929,None,Dr. Koval,doctor37@clinic.com,Therapist,LIC-934,2026-03-02,09:00,Scheduled,Braces Installation,9531.7,Yes,2026-03-02
+Mariia Boiko,patient940@email.com,7379,Penicillin allergy,Dr. Frank,doctor49@clinic.com,Orthodontist,LIC-759,2026-01-15,17:00,Completed,Pulpitis,4995.07,No,
+Anna Tkachenko,patient698@email.com,8721,Diabetes,Dr. Koval,doctor20@clinic.com,Orthodontist,LIC-162,2025-09-17,15:00,Cancelled,Braces Installation,11433.81,No,
+Anna Tkachenko,patient51@email.com,5757,Penicillin allergy,Dr. Koval,doctor8@clinic.com,Surgeon,LIC-210,2025-11-13,13:00,Cancelled,Healthy,1867.89,No,
+Mariia Boiko,patient9@email.com,9715,Diabetes,Dr. Koval,doctor24@clinic.com,Periodontist,LIC-729,2026-02-24,09:00,Completed,Teeth Cleaning,10527.21,Yes,2026-02-24
+Mariia Boiko,patient972@email.com,9236,None,Dr. House,doctor35@clinic.com,Surgeon,LIC-689,2026-02-27,16:00,Cancelled,Healthy,5852.76,No,
+Mariia Boiko,patient373@email.com,2583,Penicillin allergy,Dr. Smith,doctor31@clinic.com,Periodontist,LIC-455,2025-10-19,12:00,Cancelled,Pulpitis,6987.45,No,
+Oleksandr Kovalenko,patient719@email.com,1322,None,Dr. Koval,doctor30@clinic.com,Therapist,LIC-207,2025-10-09,17:00,Completed,Caries,14538.31,Yes,2025-10-09
+Yana Lysenko,patient461@email.com,5981,None,Dr. Koval,doctor34@clinic.com,Periodontist,LIC-661,2025-09-11,12:00,Scheduled,Healthy,11992.6,No,
+Anna Tkachenko,patient464@email.com,6688,Hypertension,Dr. Smith,doctor38@clinic.com,Orthodontist,LIC-229,2025-09-08,11:00,Cancelled,Braces Installation,6229.08,Yes,2025-09-08
+Anna Tkachenko,patient553@email.com,5024,None,Dr. House,doctor45@clinic.com,Therapist,LIC-320,2026-02-08,16:00,Cancelled,Pulpitis,13108.18,No,
+Ivan Melnyk,patient833@email.com,1650,Hypertension,Dr. House,doctor27@clinic.com,Therapist,LIC-435,2025-12-07,17:00,Scheduled,Gingivitis,11831.58,Yes,2025-12-07
+Oleksandr Kovalenko,patient173@email.com,9049,None,Dr. Smith,doctor13@clinic.com,Orthodontist,LIC-436,2026-01-11,15:00,Scheduled,Gingivitis,824.63,Yes,2026-01-11
+Ivan Melnyk,patient75@email.com,5164,None,Dr. House,doctor24@clinic.com,Periodontist,LIC-649,2025-11-13,17:00,Scheduled,Pulpitis,12974.33,No,
+Anna Tkachenko,patient863@email.com,6868,Penicillin allergy,Dr. Koval,doctor10@clinic.com,Orthodontist,LIC-786,2026-02-26,10:00,Cancelled,Healthy,14118.56,Yes,2026-02-26
+Yana Lysenko,patient309@email.com,8124,Diabetes,Dr. Koval,doctor46@clinic.com,Therapist,LIC-641,2026-03-01,12:00,Scheduled,Healthy,7709.66,Yes,2026-03-01
+Viktor Shevchenko,patient475@email.com,5504,None,Dr. House,doctor45@clinic.com,Orthodontist,LIC-111,2025-09-07,16:00,Cancelled,Healthy,6134.33,No,
+Viktor Shevchenko,patient725@email.com,9982,Diabetes,Dr. Smith,doctor33@clinic.com,Orthodontist,LIC-115,2026-02-16,15:00,Scheduled,Pulpitis,5877.98,Yes,2026-02-16
+Viktor Shevchenko,patient306@email.com,7048,Penicillin allergy,Dr. Smith,doctor30@clinic.com,Periodontist,LIC-781,2026-02-07,15:00,Scheduled,Caries,8810.0,No,
+Yana Lysenko,patient204@email.com,8206,Penicillin allergy,Dr. Frank,doctor42@clinic.com,Periodontist,LIC-990,2026-01-23,11:00,Scheduled,Gingivitis,14075.73,No,
+Viktor Shevchenko,patient650@email.com,2029,None,Dr. House,doctor12@clinic.com,Surgeon,LIC-598,2025-10-12,10:00,Scheduled,Pulpitis,4030.9,No,
+Yana Lysenko,patient765@email.com,4160,Diabetes,Dr. Koval,doctor1@clinic.com,Periodontist,LIC-630,2025-11-10,11:00,Scheduled,Braces Installation,2649.21,Yes,2025-11-10
+Ivan Melnyk,patient551@email.com,8112,None,Dr. Frank,doctor46@clinic.com,Periodontist,LIC-427,2025-10-27,12:00,Cancelled,Gingivitis,13762.21,Yes,2025-10-27
+Yana Lysenko,patient532@email.com,8586,None,Dr. House,doctor24@clinic.com,Surgeon,LIC-486,2025-10-30,16:00,Completed,Pulpitis,1544.64,Yes,2025-10-30
+Oleksandr Kovalenko,patient369@email.com,5396,None,Dr. House,doctor35@clinic.com,Orthodontist,LIC-785,2026-03-04,14:00,Scheduled,Gingivitis,13588.77,No,
+Ivan Melnyk,patient844@email.com,8980,None,Dr. Smith,doctor32@clinic.com,Periodontist,LIC-955,2026-01-28,15:00,Scheduled,Pulpitis,6697.53,No,
+Ivan Melnyk,patient389@email.com,5274,None,Dr. Smith,doctor21@clinic.com,Therapist,LIC-119,2025-12-23,09:00,Scheduled,Teeth Cleaning,6454.14,Yes,2025-12-23
+Viktor Shevchenko,patient400@email.com,4745,Diabetes,Dr. Koval,doctor45@clinic.com,Surgeon,LIC-537,2025-09-30,11:00,Cancelled,Pulpitis,2005.38,No,
+Viktor Shevchenko,patient617@email.com,8001,Diabetes,Dr. House,doctor25@clinic.com,Surgeon,LIC-979,2025-10-05,10:00,Completed,Caries,1792.66,Yes,2025-10-05
+Oleksandr Kovalenko,patient818@email.com,1092,None,Dr. Frank,doctor45@clinic.com,Periodontist,LIC-321,2025-09-22,12:00,Completed,Pulpitis,1461.44,No,
+Anna Tkachenko,patient470@email.com,4584,None,Dr. House,doctor13@clinic.com,Surgeon,LIC-622,2025-12-07,12:00,Scheduled,Teeth Cleaning,3924.61,Yes,2025-12-07
+Ivan Melnyk,patient171@email.com,1763,None,Dr. Frank,doctor3@clinic.com,Orthodontist,LIC-872,2026-01-20,15:00,Scheduled,Teeth Cleaning,8538.83,No,
+Ivan Melnyk,patient174@email.com,4794,Diabetes,Dr. Smith,doctor8@clinic.com,Orthodontist,LIC-164,2025-11-29,17:00,Completed,Gingivitis,6099.73,No,
+Anna Tkachenko,patient510@email.com,8448,Hypertension,Dr. Frank,doctor1@clinic.com,Surgeon,LIC-781,2025-10-14,15:00,Scheduled,Caries,12192.13,Yes,2025-10-14
+Oleksandr Kovalenko,patient820@email.com,4183,None,Dr. Koval,doctor1@clinic.com,Periodontist,LIC-359,2026-01-18,11:00,Cancelled,Healthy,4094.92,No,
+Yana Lysenko,patient993@email.com,1404,Penicillin allergy,Dr. Smith,doctor17@clinic.com,Periodontist,LIC-619,2026-02-04,12:00,Cancelled,Teeth Cleaning,1739.7,Yes,2026-02-04
+Yana Lysenko,patient907@email.com,7619,Hypertension,Dr. House,doctor42@clinic.com,Periodontist,LIC-126,2025-10-02,16:00,Scheduled,Pulpitis,13898.98,Yes,2025-10-02
+Ivan Melnyk,patient600@email.com,3542,None,Dr. Frank,doctor47@clinic.com,Therapist,LIC-848,2026-01-05,13:00,Scheduled,Teeth Cleaning,3070.04,Yes,2026-01-05
+Yana Lysenko,patient77@email.com,8430,None,Dr. Smith,doctor42@clinic.com,Orthodontist,LIC-573,2025-12-15,10:00,Scheduled,Teeth Cleaning,13941.35,Yes,2025-12-15
+Anna Tkachenko,patient495@email.com,8830,Hypertension,Dr. Smith,doctor24@clinic.com,Surgeon,LIC-508,2025-09-08,14:00,Completed,Braces Installation,5950.8,No,
+Oleksandr Kovalenko,patient61@email.com,6889,Hypertension,Dr. House,doctor8@clinic.com,Surgeon,LIC-737,2026-01-17,11:00,Cancelled,Gingivitis,5882.6,Yes,2026-01-17
+Yana Lysenko,patient731@email.com,5866,Hypertension,Dr. Koval,doctor35@clinic.com,Periodontist,LIC-177,2025-12-16,15:00,Completed,Caries,4359.0,Yes,2025-12-16
+Mariia Boiko,patient967@email.com,2492,Penicillin allergy,Dr. Frank,doctor15@clinic.com,Therapist,LIC-177,2026-02-24,10:00,Scheduled,Braces Installation,8049.94,No,
+Mariia Boiko,patient386@email.com,9019,Diabetes,Dr. Frank,doctor32@clinic.com,Orthodontist,LIC-898,2026-01-25,17:00,Scheduled,Teeth Cleaning,2775.01,No,
+Ivan Melnyk,patient11@email.com,3250,None,Dr. Frank,doctor46@clinic.com,Surgeon,LIC-529,2025-12-16,16:00,Cancelled,Caries,11546.41,Yes,2025-12-16
+Oleksandr Kovalenko,patient390@email.com,6215,None,Dr. Frank,doctor27@clinic.com,Therapist,LIC-526,2026-03-01,13:00,Scheduled,Braces Installation,7383.59,No,
+Oleksandr Kovalenko,patient552@email.com,7140,None,Dr. Smith,doctor23@clinic.com,Periodontist,LIC-482,2026-02-12,14:00,Completed,Caries,10616.82,No,
+Oleksandr Kovalenko,patient157@email.com,3059,None,Dr. House,doctor30@clinic.com,Periodontist,LIC-746,2025-10-26,14:00,Cancelled,Braces Installation,11598.86,Yes,2025-10-26
+Mariia Boiko,patient79@email.com,9028,Hypertension,Dr. Frank,doctor39@clinic.com,Therapist,LIC-331,2025-12-16,15:00,Completed,Pulpitis,8980.61,No,
+Ivan Melnyk,patient955@email.com,8045,None,Dr. Koval,doctor1@clinic.com,Orthodontist,LIC-306,2026-02-06,10:00,Completed,Caries,3456.67,Yes,2026-02-06
+Ivan Melnyk,patient171@email.com,8999,Diabetes,Dr. Frank,doctor6@clinic.com,Orthodontist,LIC-429,2025-12-27,13:00,Scheduled,Caries,6104.41,No,
+Oleksandr Kovalenko,patient727@email.com,9992,Penicillin allergy,Dr. Smith,doctor29@clinic.com,Orthodontist,LIC-944,2025-11-23,15:00,Cancelled,Caries,8425.52,No,
+Viktor Shevchenko,patient580@email.com,2364,Penicillin allergy,Dr. Koval,doctor10@clinic.com,Therapist,LIC-523,2025-11-13,16:00,Scheduled,Braces Installation,704.34,No,
+Oleksandr Kovalenko,patient174@email.com,7239,Hypertension,Dr. Frank,doctor17@clinic.com,Orthodontist,LIC-655,2025-12-25,09:00,Scheduled,Healthy,2806.93,Yes,2025-12-25
+Yana Lysenko,patient418@email.com,1104,None,Dr. House,doctor50@clinic.com,Orthodontist,LIC-138,2025-12-06,17:00,Cancelled,Braces Installation,12056.19,No,
+Viktor Shevchenko,patient531@email.com,2681,Diabetes,Dr. House,doctor26@clinic.com,Therapist,LIC-692,2025-12-17,14:00,Cancelled,Gingivitis,8386.55,No,
+Viktor Shevchenko,patient564@email.com,1197,None,Dr. Frank,doctor12@clinic.com,Therapist,LIC-920,2025-12-28,14:00,Cancelled,Healthy,14319.99,No,
+Anna Tkachenko,patient811@email.com,1206,Diabetes,Dr. Smith,doctor32@clinic.com,Periodontist,LIC-601,2026-01-26,16:00,Completed,Caries,2834.12,Yes,2026-01-26
+Anna Tkachenko,patient884@email.com,9023,None,Dr. Frank,doctor39@clinic.com,Orthodontist,LIC-977,2026-02-17,17:00,Completed,Gingivitis,7365.99,Yes,2026-02-17
+Mariia Boiko,patient794@email.com,4082,Diabetes,Dr. Smith,doctor43@clinic.com,Orthodontist,LIC-446,2025-11-24,10:00,Completed,Braces Installation,10469.99,No,
+Mariia Boiko,patient354@email.com,7845,Penicillin allergy,Dr. Frank,doctor25@clinic.com,Periodontist,LIC-798,2025-11-12,17:00,Cancelled,Gingivitis,2427.38,No,
+Anna Tkachenko,patient765@email.com,5423,None,Dr. Koval,doctor38@clinic.com,Periodontist,LIC-106,2025-10-18,11:00,Scheduled,Pulpitis,11219.84,Yes,2025-10-18
+Mariia Boiko,patient647@email.com,5488,None,Dr. House,doctor49@clinic.com,Periodontist,LIC-862,2026-03-02,09:00,Cancelled,Pulpitis,4872.87,Yes,2026-03-02
+Viktor Shevchenko,patient324@email.com,2385,Diabetes,Dr. Frank,doctor40@clinic.com,Orthodontist,LIC-713,2025-11-13,13:00,Completed,Pulpitis,9059.55,Yes,2025-11-13
+Ivan Melnyk,patient803@email.com,2506,None,Dr. Koval,doctor13@clinic.com,Therapist,LIC-414,2025-10-24,09:00,Cancelled,Healthy,3485.78,Yes,2025-10-24
+Mariia Boiko,patient142@email.com,6323,None,Dr. Smith,doctor33@clinic.com,Therapist,LIC-593,2025-10-08,16:00,Cancelled,Healthy,10351.53,Yes,2025-10-08
+Yana Lysenko,patient560@email.com,6332,Diabetes,Dr. Frank,doctor46@clinic.com,Surgeon,LIC-965,2025-11-05,10:00,Scheduled,Gingivitis,14247.29,No,
+Mariia Boiko,patient344@email.com,3308,None,Dr. Smith,doctor31@clinic.com,Surgeon,LIC-502,2026-02-06,15:00,Scheduled,Caries,1614.73,Yes,2026-02-06
+Mariia Boiko,patient781@email.com,8648,Diabetes,Dr. Smith,doctor6@clinic.com,Periodontist,LIC-499,2025-10-30,10:00,Scheduled,Pulpitis,2371.49,Yes,2025-10-30
+Yana Lysenko,patient505@email.com,2636,None,Dr. Smith,doctor39@clinic.com,Therapist,LIC-180,2025-10-14,15:00,Cancelled,Gingivitis,5195.94,Yes,2025-10-14
+Anna Tkachenko,patient601@email.com,3359,Hypertension,Dr. House,doctor4@clinic.com,Periodontist,LIC-152,2026-02-20,17:00,Cancelled,Healthy,9804.94,Yes,2026-02-20
+Oleksandr Kovalenko,patient953@email.com,9682,None,Dr. Koval,doctor13@clinic.com,Surgeon,LIC-791,2026-02-09,10:00,Completed,Healthy,13189.84,Yes,2026-02-09
+Anna Tkachenko,patient979@email.com,4023,None,Dr. House,doctor43@clinic.com,Orthodontist,LIC-443,2025-12-18,14:00,Scheduled,Gingivitis,741.17,No,
+Viktor Shevchenko,patient630@email.com,4929,None,Dr. House,doctor14@clinic.com,Orthodontist,LIC-236,2025-09-13,13:00,Completed,Gingivitis,12989.26,No,
+Mariia Boiko,patient163@email.com,1315,Hypertension,Dr. Koval,doctor34@clinic.com,Surgeon,LIC-501,2025-10-18,11:00,Scheduled,Gingivitis,14996.85,No,
+Ivan Melnyk,patient787@email.com,6142,Diabetes,Dr. Smith,doctor11@clinic.com,Orthodontist,LIC-924,2025-10-11,13:00,Scheduled,Teeth Cleaning,7866.72,No,
+Viktor Shevchenko,patient679@email.com,6682,Penicillin allergy,Dr. Smith,doctor23@clinic.com,Surgeon,LIC-993,2026-01-31,10:00,Cancelled,Pulpitis,3391.94,No,
+Ivan Melnyk,patient327@email.com,6300,Hypertension,Dr. Koval,doctor11@clinic.com,Therapist,LIC-587,2025-10-29,10:00,Completed,Healthy,4108.99,No,
+Ivan Melnyk,patient624@email.com,1665,Penicillin allergy,Dr. House,doctor33@clinic.com,Therapist,LIC-646,2026-02-17,10:00,Scheduled,Gingivitis,4114.34,No,
+Mariia Boiko,patient836@email.com,8163,Hypertension,Dr. House,doctor46@clinic.com,Surgeon,LIC-661,2025-09-19,12:00,Completed,Gingivitis,6235.23,Yes,2025-09-19
+Mariia Boiko,patient421@email.com,6729,Hypertension,Dr. House,doctor41@clinic.com,Orthodontist,LIC-195,2025-09-13,16:00,Completed,Caries,12709.81,Yes,2025-09-13
+Mariia Boiko,patient455@email.com,2560,None,Dr. Frank,doctor44@clinic.com,Periodontist,LIC-904,2025-10-01,17:00,Scheduled,Pulpitis,3438.61,Yes,2025-10-01
+Yana Lysenko,patient538@email.com,5310,Penicillin allergy,Dr. Frank,doctor39@clinic.com,Periodontist,LIC-699,2025-12-24,17:00,Scheduled,Gingivitis,10668.62,No,
+Anna Tkachenko,patient379@email.com,4613,Hypertension,Dr. Koval,doctor17@clinic.com,Surgeon,LIC-479,2026-03-03,13:00,Completed,Gingivitis,2563.26,No,
+Viktor Shevchenko,patient921@email.com,1498,None,Dr. Smith,doctor10@clinic.com,Surgeon,LIC-274,2026-01-28,12:00,Cancelled,Caries,2203.86,No,
+Viktor Shevchenko,patient711@email.com,5983,None,Dr. Smith,doctor15@clinic.com,Surgeon,LIC-210,2025-12-14,16:00,Completed,Caries,11688.97,No,
+Anna Tkachenko,patient368@email.com,6923,Penicillin allergy,Dr. Smith,doctor1@clinic.com,Therapist,LIC-407,2025-11-08,12:00,Completed,Teeth Cleaning,8488.9,No,
+Yana Lysenko,patient706@email.com,8982,Hypertension,Dr. Smith,doctor47@clinic.com,Therapist,LIC-197,2025-11-19,13:00,Completed,Braces Installation,2142.18,No,
+Mariia Boiko,patient181@email.com,6022,Penicillin allergy,Dr. House,doctor3@clinic.com,Periodontist,LIC-550,2025-11-14,11:00,Scheduled,Healthy,3636.06,Yes,2025-11-14
+Yana Lysenko,patient178@email.com,8998,Penicillin allergy,Dr. Frank,doctor10@clinic.com,Surgeon,LIC-166,2026-01-01,09:00,Completed,Caries,1627.51,Yes,2026-01-01
+Mariia Boiko,patient603@email.com,7884,None,Dr. Koval,doctor15@clinic.com,Orthodontist,LIC-175,2025-11-16,09:00,Completed,Pulpitis,14368.53,No,
+Mariia Boiko,patient960@email.com,4000,Penicillin allergy,Dr. Frank,doctor29@clinic.com,Surgeon,LIC-801,2025-10-26,17:00,Scheduled,Pulpitis,11761.65,Yes,2025-10-26
+Yana Lysenko,patient843@email.com,7191,None,Dr. Smith,doctor41@clinic.com,Surgeon,LIC-595,2026-01-09,15:00,Scheduled,Healthy,14117.47,Yes,2026-01-09
+Viktor Shevchenko,patient858@email.com,3645,Hypertension,Dr. House,doctor12@clinic.com,Surgeon,LIC-543,2025-11-17,12:00,Scheduled,Braces Installation,3765.26,No,
+Viktor Shevchenko,patient768@email.com,5516,Diabetes,Dr. House,doctor4@clinic.com,Therapist,LIC-378,2026-01-10,12:00,Scheduled,Braces Installation,3251.6,No,
+Viktor Shevchenko,patient91@email.com,3990,None,Dr. Smith,doctor33@clinic.com,Surgeon,LIC-617,2025-10-02,11:00,Cancelled,Healthy,9437.11,Yes,2025-10-02
+Ivan Melnyk,patient911@email.com,1211,None,Dr. Smith,doctor49@clinic.com,Orthodontist,LIC-794,2025-10-11,13:00,Completed,Caries,2022.73,No,
+Yana Lysenko,patient21@email.com,4919,Penicillin allergy,Dr. House,doctor24@clinic.com,Orthodontist,LIC-957,2025-11-25,17:00,Scheduled,Pulpitis,2866.74,No,
+Anna Tkachenko,patient542@email.com,8057,Hypertension,Dr. Frank,doctor34@clinic.com,Surgeon,LIC-521,2025-11-03,13:00,Completed,Braces Installation,8851.39,Yes,2025-11-03
+Yana Lysenko,patient918@email.com,9647,Diabetes,Dr. House,doctor21@clinic.com,Therapist,LIC-560,2025-12-19,15:00,Completed,Caries,8907.36,No,
+Oleksandr Kovalenko,patient36@email.com,7907,Hypertension,Dr. House,doctor25@clinic.com,Orthodontist,LIC-119,2025-09-24,13:00,Scheduled,Healthy,7320.21,No,
+Yana Lysenko,patient697@email.com,9018,Hypertension,Dr. House,doctor34@clinic.com,Surgeon,LIC-927,2025-10-31,16:00,Completed,Teeth Cleaning,761.39,No,
+Mariia Boiko,patient361@email.com,6922,None,Dr. Frank,doctor37@clinic.com,Orthodontist,LIC-187,2026-02-09,13:00,Scheduled,Teeth Cleaning,4813.29,No,
+Oleksandr Kovalenko,patient191@email.com,1482,Penicillin allergy,Dr. Koval,doctor28@clinic.com,Periodontist,LIC-880,2026-01-30,14:00,Scheduled,Caries,6911.67,No,
+Viktor Shevchenko,patient237@email.com,4490,None,Dr. Frank,doctor42@clinic.com,Periodontist,LIC-718,2025-12-23,09:00,Scheduled,Gingivitis,14670.99,Yes,2025-12-23
+Mariia Boiko,patient472@email.com,3120,None,Dr. Frank,doctor40@clinic.com,Therapist,LIC-968,2025-11-28,17:00,Completed,Pulpitis,7629.97,Yes,2025-11-28
+Viktor Shevchenko,patient821@email.com,1202,Diabetes,Dr. Koval,doctor1@clinic.com,Periodontist,LIC-995,2025-09-19,14:00,Scheduled,Caries,640.11,Yes,2025-09-19
+Yana Lysenko,patient189@email.com,3845,Hypertension,Dr. Koval,doctor6@clinic.com,Surgeon,LIC-722,2025-12-16,15:00,Cancelled,Healthy,8291.82,No,
+Mariia Boiko,patient9@email.com,5431,Penicillin allergy,Dr. House,doctor33@clinic.com,Therapist,LIC-442,2026-02-04,16:00,Cancelled,Caries,5506.61,Yes,2026-02-04
+Viktor Shevchenko,patient467@email.com,7036,Hypertension,Dr. Koval,doctor1@clinic.com,Orthodontist,LIC-346,2025-11-03,13:00,Cancelled,Teeth Cleaning,12454.06,Yes,2025-11-03
+Mariia Boiko,patient463@email.com,6988,Penicillin allergy,Dr. Koval,doctor49@clinic.com,Periodontist,LIC-998,2026-02-19,15:00,Cancelled,Braces Installation,6581.38,No,
+Yana Lysenko,patient737@email.com,5987,None,Dr. Koval,doctor19@clinic.com,Orthodontist,LIC-887,2025-12-04,12:00,Cancelled,Braces Installation,11987.66,No,
+Mariia Boiko,patient324@email.com,3723,None,Dr. Frank,doctor17@clinic.com,Surgeon,LIC-544,2025-12-22,11:00,Cancelled,Gingivitis,7733.93,No,
+Viktor Shevchenko,patient186@email.com,2992,Hypertension,Dr. Koval,doctor41@clinic.com,Orthodontist,LIC-343,2025-10-21,13:00,Completed,Caries,7689.65,Yes,2025-10-21
+Anna Tkachenko,patient970@email.com,2671,Hypertension,Dr. Frank,doctor49@clinic.com,Periodontist,LIC-709,2025-10-20,15:00,Completed,Healthy,6122.25,Yes,2025-10-20
+Viktor Shevchenko,patient237@email.com,4389,None,Dr. Smith,doctor10@clinic.com,Periodontist,LIC-330,2026-01-02,11:00,Completed,Teeth Cleaning,671.93,No,
+Ivan Melnyk,patient666@email.com,7659,None,Dr. Smith,doctor45@clinic.com,Orthodontist,LIC-654,2025-12-19,14:00,Scheduled,Teeth Cleaning,850.81,No,
+Mariia Boiko,patient276@email.com,6690,None,Dr. Smith,doctor6@clinic.com,Surgeon,LIC-774,2026-01-28,13:00,Cancelled,Healthy,1708.16,Yes,2026-01-28
+Anna Tkachenko,patient141@email.com,7327,Diabetes,Dr. Smith,doctor35@clinic.com,Periodontist,LIC-855,2025-12-15,13:00,Cancelled,Healthy,1487.53,Yes,2025-12-15
+Ivan Melnyk,patient542@email.com,3012,Diabetes,Dr. Smith,doctor33@clinic.com,Orthodontist,LIC-323,2026-01-01,11:00,Cancelled,Braces Installation,13014.69,No,
+Oleksandr Kovalenko,patient611@email.com,7413,None,Dr. Frank,doctor9@clinic.com,Surgeon,LIC-915,2025-10-28,09:00,Cancelled,Teeth Cleaning,908.72,No,
+Oleksandr Kovalenko,patient296@email.com,9461,Hypertension,Dr. House,doctor31@clinic.com,Therapist,LIC-458,2025-10-18,11:00,Cancelled,Pulpitis,6467.92,No,
+Mariia Boiko,patient160@email.com,2836,Penicillin allergy,Dr. House,doctor43@clinic.com,Surgeon,LIC-395,2025-10-05,12:00,Completed,Pulpitis,5856.64,No,
+Yana Lysenko,patient168@email.com,3405,Penicillin allergy,Dr. Koval,doctor1@clinic.com,Orthodontist,LIC-282,2025-09-22,13:00,Completed,Teeth Cleaning,7316.21,Yes,2025-09-22
+Mariia Boiko,patient871@email.com,8765,Penicillin allergy,Dr. Koval,doctor21@clinic.com,Surgeon,LIC-160,2025-09-21,12:00,Completed,Braces Installation,5430.14,Yes,2025-09-21
+Anna Tkachenko,patient277@email.com,9127,Penicillin allergy,Dr. Frank,doctor42@clinic.com,Periodontist,LIC-206,2026-01-22,13:00,Cancelled,Teeth Cleaning,4948.52,Yes,2026-01-22
+Viktor Shevchenko,patient179@email.com,6847,Diabetes,Dr. Koval,doctor25@clinic.com,Orthodontist,LIC-725,2026-01-21,12:00,Cancelled,Gingivitis,2933.51,Yes,2026-01-21
+Mariia Boiko,patient858@email.com,8889,Penicillin allergy,Dr. Smith,doctor15@clinic.com,Orthodontist,LIC-531,2026-01-10,16:00,Completed,Caries,14252.94,No,
+Viktor Shevchenko,patient535@email.com,3040,Penicillin allergy,Dr. Smith,doctor39@clinic.com,Orthodontist,LIC-578,2025-09-08,09:00,Completed,Braces Installation,9788.46,No,
+Oleksandr Kovalenko,patient302@email.com,8293,Diabetes,Dr. House,doctor4@clinic.com,Therapist,LIC-659,2025-12-17,17:00,Scheduled,Gingivitis,12140.66,No,
+Oleksandr Kovalenko,patient164@email.com,7488,Penicillin allergy,Dr. Frank,doctor42@clinic.com,Surgeon,LIC-370,2025-11-01,10:00,Cancelled,Gingivitis,14472.25,No,
+Viktor Shevchenko,patient729@email.com,3405,None,Dr. Koval,doctor38@clinic.com,Periodontist,LIC-330,2025-09-15,11:00,Completed,Gingivitis,11999.16,No,
+Mariia Boiko,patient148@email.com,7294,Hypertension,Dr. House,doctor39@clinic.com,Periodontist,LIC-720,2026-01-19,16:00,Completed,Healthy,7896.68,Yes,2026-01-19
+Mariia Boiko,patient996@email.com,1973,Penicillin allergy,Dr. Frank,doctor23@clinic.com,Surgeon,LIC-811,2025-10-08,15:00,Completed,Gingivitis,9638.44,No,
+Yana Lysenko,patient259@email.com,3633,Diabetes,Dr. Smith,doctor46@clinic.com,Surgeon,LIC-177,2026-01-17,10:00,Completed,Caries,2056.31,No,
+Ivan Melnyk,patient632@email.com,6987,None,Dr. Koval,doctor35@clinic.com,Surgeon,LIC-194,2026-02-20,17:00,Scheduled,Teeth Cleaning,7929.47,No,
+Viktor Shevchenko,patient259@email.com,1448,Hypertension,Dr. Frank,doctor34@clinic.com,Surgeon,LIC-937,2025-09-10,10:00,Completed,Teeth Cleaning,5478.42,No,
+Yana Lysenko,patient116@email.com,7068,Hypertension,Dr. Smith,doctor42@clinic.com,Surgeon,LIC-203,2025-09-12,15:00,Completed,Caries,7287.77,Yes,2025-09-12
+Oleksandr Kovalenko,patient735@email.com,7521,Diabetes,Dr. House,doctor6@clinic.com,Periodontist,LIC-903,2025-12-27,10:00,Completed,Teeth Cleaning,7596.14,Yes,2025-12-27
+Anna Tkachenko,patient556@email.com,7486,None,Dr. Smith,doctor26@clinic.com,Surgeon,LIC-366,2026-01-23,12:00,Scheduled,Caries,7838.82,Yes,2026-01-23
+Yana Lysenko,patient940@email.com,3225,Penicillin allergy,Dr. House,doctor4@clinic.com,Surgeon,LIC-488,2026-02-09,09:00,Cancelled,Healthy,3296.45,Yes,2026-02-09
+Anna Tkachenko,patient375@email.com,2564,None,Dr. Smith,doctor12@clinic.com,Periodontist,LIC-948,2026-01-05,17:00,Completed,Caries,4931.98,Yes,2026-01-05
+Viktor Shevchenko,patient650@email.com,9657,None,Dr. Koval,doctor1@clinic.com,Therapist,LIC-608,2025-10-23,10:00,Completed,Caries,1876.86,No,
+Oleksandr Kovalenko,patient158@email.com,4517,Hypertension,Dr. Smith,doctor27@clinic.com,Orthodontist,LIC-528,2025-09-16,13:00,Completed,Gingivitis,13151.21,Yes,2025-09-16
+Viktor Shevchenko,patient17@email.com,1562,None,Dr. Frank,doctor32@clinic.com,Orthodontist,LIC-145,2025-10-25,12:00,Completed,Gingivitis,12705.0,Yes,2025-10-25
+Mariia Boiko,patient800@email.com,8845,Penicillin allergy,Dr. House,doctor24@clinic.com,Periodontist,LIC-709,2025-10-15,09:00,Scheduled,Caries,4534.95,No,
+Viktor Shevchenko,patient29@email.com,1370,Penicillin allergy,Dr. House,doctor44@clinic.com,Orthodontist,LIC-703,2025-11-28,16:00,Scheduled,Pulpitis,7111.43,No,
+Yana Lysenko,patient572@email.com,1810,Penicillin allergy,Dr. Koval,doctor32@clinic.com,Periodontist,LIC-706,2026-01-28,11:00,Scheduled,Healthy,2985.93,Yes,2026-01-28
+Anna Tkachenko,patient676@email.com,3715,Penicillin allergy,Dr. Frank,doctor5@clinic.com,Periodontist,LIC-775,2025-10-07,09:00,Scheduled,Gingivitis,14867.08,Yes,2025-10-07
+Viktor Shevchenko,patient502@email.com,5743,Diabetes,Dr. Koval,doctor42@clinic.com,Therapist,LIC-591,2026-01-12,09:00,Scheduled,Teeth Cleaning,4236.28,Yes,2026-01-12
+Yana Lysenko,patient838@email.com,5666,Hypertension,Dr. Smith,doctor46@clinic.com,Surgeon,LIC-523,2025-11-09,12:00,Cancelled,Gingivitis,10958.52,Yes,2025-11-09
+Yana Lysenko,patient941@email.com,3195,Hypertension,Dr. House,doctor12@clinic.com,Therapist,LIC-899,2025-10-26,14:00,Scheduled,Caries,1071.72,No,
+Yana Lysenko,patient845@email.com,9778,Penicillin allergy,Dr. Smith,doctor15@clinic.com,Therapist,LIC-262,2025-12-19,13:00,Scheduled,Caries,1156.08,Yes,2025-12-19
+Mariia Boiko,patient392@email.com,6159,None,Dr. Smith,doctor16@clinic.com,Periodontist,LIC-870,2026-01-16,11:00,Scheduled,Caries,8547.72,No,
+Anna Tkachenko,patient118@email.com,2780,None,Dr. Smith,doctor48@clinic.com,Surgeon,LIC-392,2026-02-17,13:00,Completed,Healthy,6440.99,Yes,2026-02-17
+Viktor Shevchenko,patient986@email.com,7280,Hypertension,Dr. Frank,doctor30@clinic.com,Periodontist,LIC-209,2025-11-12,15:00,Completed,Gingivitis,11520.16,Yes,2025-11-12
+Yana Lysenko,patient368@email.com,4989,Penicillin allergy,Dr. Koval,doctor15@clinic.com,Therapist,LIC-224,2025-10-23,09:00,Scheduled,Caries,5821.8,No,
+Viktor Shevchenko,patient907@email.com,6096,Penicillin allergy,Dr. Frank,doctor37@clinic.com,Orthodontist,LIC-754,2026-02-02,10:00,Completed,Caries,11307.57,Yes,2026-02-02
+Viktor Shevchenko,patient719@email.com,1026,None,Dr. Frank,doctor8@clinic.com,Therapist,LIC-182,2026-02-06,09:00,Scheduled,Gingivitis,10540.11,No,
+Ivan Melnyk,patient72@email.com,4613,Diabetes,Dr. Frank,doctor46@clinic.com,Orthodontist,LIC-904,2026-01-07,13:00,Scheduled,Braces Installation,10010.27,No,
+Viktor Shevchenko,patient287@email.com,7363,Penicillin allergy,Dr. Frank,doctor39@clinic.com,Surgeon,LIC-104,2025-09-15,15:00,Scheduled,Braces Installation,1123.79,No,
+Oleksandr Kovalenko,patient696@email.com,6282,Hypertension,Dr. Frank,doctor37@clinic.com,Periodontist,LIC-754,2026-01-23,13:00,Scheduled,Teeth Cleaning,3590.95,No,
+Oleksandr Kovalenko,patient837@email.com,6916,None,Dr. Smith,doctor37@clinic.com,Surgeon,LIC-345,2025-10-22,10:00,Scheduled,Caries,3137.29,No,
+Mariia Boiko,patient260@email.com,9571,Penicillin allergy,Dr. Smith,doctor25@clinic.com,Orthodontist,LIC-246,2025-09-11,13:00,Cancelled,Healthy,11566.21,Yes,2025-09-11
+Anna Tkachenko,patient279@email.com,5401,None,Dr. Smith,doctor50@clinic.com,Orthodontist,LIC-119,2025-11-07,17:00,Cancelled,Pulpitis,11064.93,No,
+Oleksandr Kovalenko,patient49@email.com,2164,None,Dr. House,doctor24@clinic.com,Periodontist,LIC-161,2025-12-14,16:00,Cancelled,Braces Installation,12923.37,Yes,2025-12-14
+Viktor Shevchenko,patient12@email.com,3671,Penicillin allergy,Dr. Smith,doctor7@clinic.com,Surgeon,LIC-877,2025-09-25,09:00,Scheduled,Teeth Cleaning,11452.11,No,
+Anna Tkachenko,patient1@email.com,3610,None,Dr. Frank,doctor3@clinic.com,Surgeon,LIC-888,2025-10-02,15:00,Scheduled,Pulpitis,4100.5,Yes,2025-10-02
+Mariia Boiko,patient812@email.com,8890,None,Dr. House,doctor45@clinic.com,Orthodontist,LIC-205,2026-01-22,13:00,Scheduled,Braces Installation,14207.14,No,
+Anna Tkachenko,patient583@email.com,2770,None,Dr. House,doctor14@clinic.com,Periodontist,LIC-864,2026-03-01,15:00,Scheduled,Braces Installation,8013.17,Yes,2026-03-01
+Anna Tkachenko,patient307@email.com,9469,None,Dr. Frank,doctor13@clinic.com,Periodontist,LIC-599,2025-10-07,13:00,Completed,Gingivitis,7882.43,No,
+Viktor Shevchenko,patient576@email.com,4463,Hypertension,Dr. Frank,doctor42@clinic.com,Periodontist,LIC-215,2025-09-19,12:00,Scheduled,Caries,9913.79,Yes,2025-09-19
+Viktor Shevchenko,patient93@email.com,8638,Diabetes,Dr. House,doctor45@clinic.com,Periodontist,LIC-642,2025-10-01,10:00,Cancelled,Healthy,14063.4,Yes,2025-10-01
+Ivan Melnyk,patient919@email.com,7127,None,Dr. Smith,doctor29@clinic.com,Therapist,LIC-605,2025-12-28,12:00,Scheduled,Healthy,4050.09,No,
+Viktor Shevchenko,patient512@email.com,9943,None,Dr. Frank,doctor3@clinic.com,Therapist,LIC-520,2025-11-29,10:00,Cancelled,Gingivitis,5185.28,Yes,2025-11-29
+Anna Tkachenko,patient800@email.com,4242,None,Dr. House,doctor49@clinic.com,Periodontist,LIC-725,2025-10-24,10:00,Completed,Gingivitis,3970.11,No,
+Viktor Shevchenko,patient748@email.com,6713,Penicillin allergy,Dr. Koval,doctor14@clinic.com,Orthodontist,LIC-501,2025-11-23,09:00,Completed,Teeth Cleaning,3122.23,No,
+Viktor Shevchenko,patient377@email.com,1943,None,Dr. Frank,doctor40@clinic.com,Orthodontist,LIC-150,2025-10-15,14:00,Cancelled,Caries,6002.02,No,
+Ivan Melnyk,patient422@email.com,7950,Penicillin allergy,Dr. Koval,doctor16@clinic.com,Periodontist,LIC-114,2026-02-09,15:00,Cancelled,Braces Installation,3216.63,Yes,2026-02-09
+Mariia Boiko,patient564@email.com,1372,None,Dr. Smith,doctor50@clinic.com,Therapist,LIC-350,2026-01-09,11:00,Completed,Gingivitis,3385.45,No,
+Yana Lysenko,patient839@email.com,4757,Diabetes,Dr. House,doctor39@clinic.com,Surgeon,LIC-842,2025-12-18,11:00,Scheduled,Braces Installation,14459.59,Yes,2025-12-18
+Oleksandr Kovalenko,patient575@email.com,2468,None,Dr. House,doctor8@clinic.com,Periodontist,LIC-246,2026-02-17,14:00,Cancelled,Braces Installation,4993.98,Yes,2026-02-17
+Oleksandr Kovalenko,patient10@email.com,4639,Diabetes,Dr. Smith,doctor32@clinic.com,Therapist,LIC-514,2025-10-08,09:00,Completed,Healthy,3923.82,Yes,2025-10-08
+Yana Lysenko,patient301@email.com,1230,None,Dr. Frank,doctor3@clinic.com,Surgeon,LIC-111,2025-09-25,14:00,Scheduled,Gingivitis,10873.69,Yes,2025-09-25
+Oleksandr Kovalenko,patient826@email.com,2776,Diabetes,Dr. Koval,doctor23@clinic.com,Orthodontist,LIC-674,2025-11-17,15:00,Completed,Teeth Cleaning,13831.91,Yes,2025-11-17
+Oleksandr Kovalenko,patient292@email.com,4184,Penicillin allergy,Dr. Koval,doctor7@clinic.com,Therapist,LIC-240,2025-12-23,11:00,Scheduled,Caries,1907.9,No,
+Mariia Boiko,patient904@email.com,3326,Diabetes,Dr. House,doctor13@clinic.com,Orthodontist,LIC-888,2025-09-23,10:00,Completed,Pulpitis,9335.05,Yes,2025-09-23
+Oleksandr Kovalenko,patient617@email.com,9392,None,Dr. Koval,doctor17@clinic.com,Therapist,LIC-252,2026-01-18,09:00,Scheduled,Caries,5608.67,No,
+Yana Lysenko,patient441@email.com,9450,None,Dr. Frank,doctor42@clinic.com,Orthodontist,LIC-817,2025-10-10,13:00,Completed,Gingivitis,13250.89,Yes,2025-10-10
+Ivan Melnyk,patient909@email.com,8677,None,Dr. House,doctor22@clinic.com,Surgeon,LIC-329,2025-12-25,11:00,Scheduled,Teeth Cleaning,14479.81,Yes,2025-12-25
+Ivan Melnyk,patient394@email.com,6362,Penicillin allergy,Dr. Koval,doctor44@clinic.com,Surgeon,LIC-943,2025-11-25,09:00,Cancelled,Healthy,2054.12,Yes,2025-11-25
+Viktor Shevchenko,patient779@email.com,9747,Penicillin allergy,Dr. Smith,doctor46@clinic.com,Surgeon,LIC-930,2025-11-22,10:00,Completed,Pulpitis,13479.16,No,
+Anna Tkachenko,patient709@email.com,8708,None,Dr. Smith,doctor7@clinic.com,Periodontist,LIC-538,2025-11-25,17:00,Scheduled,Pulpitis,3598.23,Yes,2025-11-25
+Anna Tkachenko,patient268@email.com,4351,Hypertension,Dr. Koval,doctor26@clinic.com,Surgeon,LIC-550,2025-11-15,13:00,Cancelled,Braces Installation,8934.68,No,
+Viktor Shevchenko,patient182@email.com,7609,Penicillin allergy,Dr. House,doctor38@clinic.com,Periodontist,LIC-975,2025-11-17,13:00,Cancelled,Gingivitis,13343.36,No,
+Viktor Shevchenko,patient935@email.com,1219,None,Dr. Smith,doctor8@clinic.com,Periodontist,LIC-250,2025-12-03,15:00,Cancelled,Healthy,1240.13,Yes,2025-12-03
+Anna Tkachenko,patient376@email.com,4486,Diabetes,Dr. Frank,doctor44@clinic.com,Orthodontist,LIC-371,2026-01-24,15:00,Cancelled,Healthy,7361.48,Yes,2026-01-24
+Mariia Boiko,patient192@email.com,8843,Penicillin allergy,Dr. Frank,doctor20@clinic.com,Therapist,LIC-953,2026-01-07,16:00,Completed,Pulpitis,13195.43,No,
+Ivan Melnyk,patient392@email.com,9414,None,Dr. House,doctor32@clinic.com,Periodontist,LIC-567,2026-01-05,13:00,Cancelled,Gingivitis,10806.9,No,
+Viktor Shevchenko,patient178@email.com,9821,None,Dr. House,doctor25@clinic.com,Orthodontist,LIC-661,2025-10-24,09:00,Cancelled,Caries,6172.47,Yes,2025-10-24
+Viktor Shevchenko,patient296@email.com,1028,None,Dr. Koval,doctor23@clinic.com,Therapist,LIC-157,2025-10-08,17:00,Scheduled,Pulpitis,820.65,No,
+Mariia Boiko,patient795@email.com,4388,Hypertension,Dr. Frank,doctor34@clinic.com,Surgeon,LIC-733,2026-02-22,14:00,Cancelled,Gingivitis,10677.13,No,
+Anna Tkachenko,patient919@email.com,7291,None,Dr. Frank,doctor8@clinic.com,Periodontist,LIC-368,2025-09-30,11:00,Completed,Braces Installation,5705.33,No,
+Anna Tkachenko,patient211@email.com,4981,Penicillin allergy,Dr. Frank,doctor45@clinic.com,Orthodontist,LIC-707,2025-12-31,10:00,Completed,Braces Installation,14756.46,Yes,2025-12-31
+Viktor Shevchenko,patient483@email.com,1974,Diabetes,Dr. Smith,doctor44@clinic.com,Therapist,LIC-559,2026-01-21,17:00,Completed,Braces Installation,6243.33,No,
+Viktor Shevchenko,patient603@email.com,8589,Diabetes,Dr. House,doctor32@clinic.com,Orthodontist,LIC-849,2026-02-03,11:00,Cancelled,Braces Installation,6042.83,No,
+Oleksandr Kovalenko,patient507@email.com,7069,None,Dr. Smith,doctor42@clinic.com,Orthodontist,LIC-302,2026-02-27,15:00,Cancelled,Pulpitis,11462.21,No,
+Mariia Boiko,patient86@email.com,6448,None,Dr. Koval,doctor6@clinic.com,Surgeon,LIC-691,2025-11-09,17:00,Cancelled,Gingivitis,9878.26,Yes,2025-11-09
+Viktor Shevchenko,patient390@email.com,9304,Penicillin allergy,Dr. Smith,doctor25@clinic.com,Periodontist,LIC-777,2025-10-13,09:00,Cancelled,Pulpitis,14158.22,Yes,2025-10-13
+Mariia Boiko,patient647@email.com,6329,Diabetes,Dr. House,doctor6@clinic.com,Surgeon,LIC-915,2025-09-24,17:00,Scheduled,Healthy,13348.25,No,
+Ivan Melnyk,patient538@email.com,5272,Penicillin allergy,Dr. House,doctor4@clinic.com,Therapist,LIC-769,2026-01-06,13:00,Completed,Teeth Cleaning,4489.23,No,
+Anna Tkachenko,patient594@email.com,6541,None,Dr. House,doctor5@clinic.com,Surgeon,LIC-725,2026-01-16,10:00,Completed,Pulpitis,11287.21,Yes,2026-01-16
+Viktor Shevchenko,patient48@email.com,7271,Hypertension,Dr. House,doctor29@clinic.com,Periodontist,LIC-666,2026-02-19,13:00,Cancelled,Teeth Cleaning,1070.72,Yes,2026-02-19
+Anna Tkachenko,patient57@email.com,1332,Diabetes,Dr. Smith,doctor4@clinic.com,Orthodontist,LIC-366,2026-01-27,14:00,Cancelled,Teeth Cleaning,8792.51,No,
+Yana Lysenko,patient101@email.com,3978,Hypertension,Dr. Smith,doctor3@clinic.com,Orthodontist,LIC-878,2026-01-07,15:00,Completed,Braces Installation,13632.12,Yes,2026-01-07
+Viktor Shevchenko,patient620@email.com,7872,Hypertension,Dr. Smith,doctor5@clinic.com,Surgeon,LIC-544,2026-01-27,16:00,Completed,Teeth Cleaning,10453.35,Yes,2026-01-27
+Ivan Melnyk,patient741@email.com,1949,None,Dr. Smith,doctor31@clinic.com,Surgeon,LIC-339,2025-11-24,11:00,Cancelled,Pulpitis,3320.39,No,
+Mariia Boiko,patient664@email.com,7146,None,Dr. Smith,doctor40@clinic.com,Therapist,LIC-335,2026-02-28,09:00,Completed,Caries,4676.22,Yes,2026-02-28
+Oleksandr Kovalenko,patient853@email.com,6481,None,Dr. Smith,doctor42@clinic.com,Therapist,LIC-527,2026-02-15,15:00,Scheduled,Healthy,5908.09,Yes,2026-02-15
+Anna Tkachenko,patient419@email.com,1042,Hypertension,Dr. Smith,doctor23@clinic.com,Surgeon,LIC-785,2026-01-30,16:00,Cancelled,Pulpitis,9761.99,No,
+Viktor Shevchenko,patient64@email.com,1316,Penicillin allergy,Dr. House,doctor40@clinic.com,Orthodontist,LIC-261,2025-10-29,17:00,Scheduled,Braces Installation,14365.74,Yes,2025-10-29
+Mariia Boiko,patient698@email.com,8277,None,Dr. Smith,doctor29@clinic.com,Therapist,LIC-350,2025-12-10,10:00,Completed,Healthy,2651.42,Yes,2025-12-10
+Viktor Shevchenko,patient604@email.com,8878,Diabetes,Dr. Smith,doctor3@clinic.com,Orthodontist,LIC-796,2025-10-01,11:00,Scheduled,Braces Installation,13621.51,Yes,2025-10-01
+Ivan Melnyk,patient432@email.com,2989,None,Dr. Frank,doctor24@clinic.com,Surgeon,LIC-877,2025-10-28,09:00,Completed,Pulpitis,921.89,Yes,2025-10-28
+Anna Tkachenko,patient895@email.com,5770,Hypertension,Dr. Smith,doctor44@clinic.com,Therapist,LIC-113,2026-03-02,15:00,Cancelled,Braces Installation,10434.36,Yes,2026-03-02
+Oleksandr Kovalenko,patient673@email.com,5831,None,Dr. Koval,doctor3@clinic.com,Periodontist,LIC-695,2025-11-11,15:00,Completed,Gingivitis,4464.64,Yes,2025-11-11
+Mariia Boiko,patient655@email.com,9519,Hypertension,Dr. House,doctor35@clinic.com,Orthodontist,LIC-899,2026-02-27,11:00,Scheduled,Gingivitis,12388.75,No,
+Oleksandr Kovalenko,patient783@email.com,3200,Penicillin allergy,Dr. Smith,doctor1@clinic.com,Orthodontist,LIC-231,2025-11-19,17:00,Cancelled,Teeth Cleaning,808.53,Yes,2025-11-19
+Ivan Melnyk,patient870@email.com,4798,Hypertension,Dr. Koval,doctor13@clinic.com,Periodontist,LIC-758,2025-10-18,14:00,Cancelled,Healthy,10598.08,Yes,2025-10-18
+Ivan Melnyk,patient209@email.com,1121,None,Dr. House,doctor43@clinic.com,Surgeon,LIC-760,2025-09-27,12:00,Completed,Pulpitis,1344.9,No,
+Anna Tkachenko,patient919@email.com,2760,None,Dr. Koval,doctor47@clinic.com,Periodontist,LIC-845,2026-03-03,11:00,Completed,Pulpitis,10874.05,Yes,2026-03-03
+Yana Lysenko,patient596@email.com,3315,Penicillin allergy,Dr. Koval,doctor28@clinic.com,Periodontist,LIC-108,2026-02-15,14:00,Completed,Gingivitis,4578.34,Yes,2026-02-15
+Yana Lysenko,patient557@email.com,1964,Diabetes,Dr. Smith,doctor33@clinic.com,Periodontist,LIC-825,2026-01-24,16:00,Completed,Braces Installation,11391.69,Yes,2026-01-24
+Oleksandr Kovalenko,patient439@email.com,9645,None,Dr. Koval,doctor24@clinic.com,Orthodontist,LIC-578,2025-12-27,15:00,Completed,Gingivitis,5801.99,Yes,2025-12-27
+Mariia Boiko,patient673@email.com,2404,None,Dr. Frank,doctor29@clinic.com,Periodontist,LIC-337,2026-02-05,13:00,Scheduled,Pulpitis,12879.93,Yes,2026-02-05
+Oleksandr Kovalenko,patient113@email.com,9505,Hypertension,Dr. Frank,doctor25@clinic.com,Therapist,LIC-371,2026-01-28,13:00,Cancelled,Pulpitis,11744.41,No,
+Ivan Melnyk,patient723@email.com,9668,Penicillin allergy,Dr. Koval,doctor21@clinic.com,Surgeon,LIC-278,2025-11-14,16:00,Scheduled,Caries,3524.87,Yes,2025-11-14
+Anna Tkachenko,patient830@email.com,6049,Hypertension,Dr. Koval,doctor31@clinic.com,Periodontist,LIC-614,2025-10-28,10:00,Completed,Caries,1539.41,Yes,2025-10-28
+Viktor Shevchenko,patient378@email.com,6061,None,Dr. Koval,doctor13@clinic.com,Periodontist,LIC-956,2025-11-02,15:00,Completed,Gingivitis,3057.83,Yes,2025-11-02
+Viktor Shevchenko,patient296@email.com,7385,None,Dr. Koval,doctor1@clinic.com,Orthodontist,LIC-321,2025-11-29,15:00,Completed,Teeth Cleaning,1397.82,Yes,2025-11-29
+Mariia Boiko,patient375@email.com,8149,Penicillin allergy,Dr. House,doctor25@clinic.com,Orthodontist,LIC-410,2025-09-21,14:00,Cancelled,Healthy,14142.4,Yes,2025-09-21
+Anna Tkachenko,patient258@email.com,5105,None,Dr. Smith,doctor5@clinic.com,Orthodontist,LIC-374,2026-01-04,16:00,Cancelled,Healthy,2904.68,Yes,2026-01-04
+Viktor Shevchenko,patient714@email.com,4691,Hypertension,Dr. House,doctor8@clinic.com,Periodontist,LIC-624,2025-10-04,16:00,Cancelled,Gingivitis,4534.32,Yes,2025-10-04
+Ivan Melnyk,patient188@email.com,4440,Diabetes,Dr. House,doctor23@clinic.com,Orthodontist,LIC-407,2026-02-26,13:00,Cancelled,Pulpitis,14550.37,No,
+Yana Lysenko,patient805@email.com,6234,Penicillin allergy,Dr. Frank,doctor24@clinic.com,Periodontist,LIC-312,2026-02-03,14:00,Completed,Gingivitis,3045.3,Yes,2026-02-03
+Yana Lysenko,patient790@email.com,2864,Hypertension,Dr. Koval,doctor41@clinic.com,Periodontist,LIC-218,2025-09-14,16:00,Scheduled,Healthy,910.88,Yes,2025-09-14
+Mariia Boiko,patient465@email.com,9744,None,Dr. House,doctor43@clinic.com,Orthodontist,LIC-433,2025-10-31,10:00,Scheduled,Braces Installation,3208.44,Yes,2025-10-31
+Oleksandr Kovalenko,patient123@email.com,4973,Penicillin allergy,Dr. Koval,doctor14@clinic.com,Orthodontist,LIC-898,2025-10-18,12:00,Completed,Gingivitis,9454.97,Yes,2025-10-18
+Yana Lysenko,patient720@email.com,4312,None,Dr. Smith,doctor32@clinic.com,Therapist,LIC-362,2025-12-24,16:00,Scheduled,Teeth Cleaning,8634.04,No,
+Anna Tkachenko,patient634@email.com,4943,None,Dr. House,doctor35@clinic.com,Periodontist,LIC-204,2025-11-09,10:00,Scheduled,Teeth Cleaning,7268.51,No,
+Yana Lysenko,patient485@email.com,1912,None,Dr. Koval,doctor8@clinic.com,Periodontist,LIC-737,2025-12-05,11:00,Completed,Braces Installation,8336.81,Yes,2025-12-05
+Mariia Boiko,patient530@email.com,5474,Hypertension,Dr. Smith,doctor14@clinic.com,Therapist,LIC-578,2026-02-24,12:00,Cancelled,Healthy,7635.48,Yes,2026-02-24
+Viktor Shevchenko,patient63@email.com,9354,Penicillin allergy,Dr. Smith,doctor20@clinic.com,Orthodontist,LIC-861,2025-12-24,15:00,Scheduled,Teeth Cleaning,3925.79,Yes,2025-12-24
+Ivan Melnyk,patient926@email.com,1361,None,Dr. Smith,doctor7@clinic.com,Orthodontist,LIC-344,2025-09-26,15:00,Scheduled,Braces Installation,1355.4,Yes,2025-09-26
+Oleksandr Kovalenko,patient118@email.com,9800,Hypertension,Dr. Smith,doctor15@clinic.com,Surgeon,LIC-641,2026-02-13,15:00,Scheduled,Caries,8662.52,Yes,2026-02-13
+Ivan Melnyk,patient91@email.com,9795,None,Dr. Frank,doctor45@clinic.com,Therapist,LIC-169,2025-11-05,10:00,Completed,Braces Installation,2458.32,Yes,2025-11-05
+Oleksandr Kovalenko,patient103@email.com,3430,Hypertension,Dr. Koval,doctor28@clinic.com,Orthodontist,LIC-955,2026-01-11,17:00,Scheduled,Teeth Cleaning,579.29,No,
+Mariia Boiko,patient578@email.com,4930,Diabetes,Dr. Smith,doctor46@clinic.com,Periodontist,LIC-830,2026-01-10,11:00,Completed,Caries,1677.98,No,
+Viktor Shevchenko,patient887@email.com,4974,Hypertension,Dr. House,doctor24@clinic.com,Surgeon,LIC-236,2025-12-30,16:00,Completed,Caries,1235.16,No,
+Mariia Boiko,patient884@email.com,4752,Hypertension,Dr. Smith,doctor12@clinic.com,Therapist,LIC-930,2026-02-20,14:00,Completed,Teeth Cleaning,4843.15,Yes,2026-02-20
+Anna Tkachenko,patient711@email.com,4302,None,Dr. Frank,doctor50@clinic.com,Orthodontist,LIC-475,2025-10-07,17:00,Completed,Healthy,6240.88,No,
+Viktor Shevchenko,patient971@email.com,2275,Hypertension,Dr. Smith,doctor22@clinic.com,Therapist,LIC-950,2025-09-12,13:00,Cancelled,Caries,5595.15,No,
+Viktor Shevchenko,patient391@email.com,5633,Penicillin allergy,Dr. Smith,doctor24@clinic.com,Surgeon,LIC-801,2026-02-10,17:00,Scheduled,Gingivitis,5283.21,Yes,2026-02-10
+Ivan Melnyk,patient566@email.com,5438,Diabetes,Dr. Frank,doctor21@clinic.com,Therapist,LIC-853,2026-01-08,15:00,Cancelled,Braces Installation,793.62,Yes,2026-01-08
+Anna Tkachenko,patient599@email.com,5021,Diabetes,Dr. Frank,doctor29@clinic.com,Orthodontist,LIC-529,2026-01-01,10:00,Scheduled,Pulpitis,6986.11,No,
+Oleksandr Kovalenko,patient465@email.com,3978,Penicillin allergy,Dr. Smith,doctor34@clinic.com,Periodontist,LIC-899,2026-02-04,14:00,Cancelled,Pulpitis,8755.18,No,
+Ivan Melnyk,patient814@email.com,3225,Hypertension,Dr. House,doctor12@clinic.com,Orthodontist,LIC-967,2026-01-21,14:00,Scheduled,Braces Installation,2765.8,No,
+Ivan Melnyk,patient444@email.com,1709,None,Dr. Frank,doctor50@clinic.com,Orthodontist,LIC-196,2026-01-21,16:00,Scheduled,Caries,12227.4,Yes,2026-01-21
+Mariia Boiko,patient835@email.com,5577,Penicillin allergy,Dr. Frank,doctor35@clinic.com,Surgeon,LIC-359,2025-12-04,12:00,Completed,Pulpitis,5435.5,No,
+Yana Lysenko,patient269@email.com,3565,None,Dr. House,doctor13@clinic.com,Periodontist,LIC-596,2026-01-25,15:00,Completed,Gingivitis,8076.18,No,
+Yana Lysenko,patient822@email.com,1541,None,Dr. Frank,doctor13@clinic.com,Surgeon,LIC-653,2025-11-29,12:00,Scheduled,Pulpitis,5879.99,Yes,2025-11-29
+Mariia Boiko,patient141@email.com,2886,Penicillin allergy,Dr. Koval,doctor49@clinic.com,Surgeon,LIC-779,2025-11-19,14:00,Cancelled,Braces Installation,1677.94,No,
+Anna Tkachenko,patient660@email.com,5101,Penicillin allergy,Dr. Smith,doctor47@clinic.com,Therapist,LIC-158,2025-09-26,15:00,Cancelled,Braces Installation,921.27,No,
+Anna Tkachenko,patient292@email.com,6949,Hypertension,Dr. House,doctor5@clinic.com,Therapist,LIC-276,2026-01-01,15:00,Cancelled,Teeth Cleaning,8117.93,Yes,2026-01-01
+Viktor Shevchenko,patient901@email.com,6220,Hypertension,Dr. Frank,doctor7@clinic.com,Orthodontist,LIC-591,2026-02-26,16:00,Scheduled,Healthy,14958.68,Yes,2026-02-26
+Anna Tkachenko,patient870@email.com,5500,None,Dr. Koval,doctor17@clinic.com,Periodontist,LIC-189,2026-02-14,16:00,Scheduled,Caries,5210.1,Yes,2026-02-14
+Anna Tkachenko,patient104@email.com,8455,Hypertension,Dr. House,doctor48@clinic.com,Surgeon,LIC-448,2025-11-12,09:00,Cancelled,Pulpitis,9701.93,Yes,2025-11-12
+Anna Tkachenko,patient106@email.com,2512,Diabetes,Dr. House,doctor18@clinic.com,Surgeon,LIC-171,2025-11-14,11:00,Completed,Gingivitis,7914.63,Yes,2025-11-14
+Anna Tkachenko,patient694@email.com,1904,Penicillin allergy,Dr. Koval,doctor8@clinic.com,Periodontist,LIC-527,2025-11-29,14:00,Scheduled,Pulpitis,7049.75,Yes,2025-11-29
+Mariia Boiko,patient137@email.com,6454,Diabetes,Dr. House,doctor43@clinic.com,Surgeon,LIC-275,2025-11-30,09:00,Completed,Caries,12294.8,Yes,2025-11-30
+Viktor Shevchenko,patient442@email.com,4625,Penicillin allergy,Dr. Frank,doctor26@clinic.com,Therapist,LIC-478,2025-10-18,14:00,Cancelled,Teeth Cleaning,14327.6,No,
+Ivan Melnyk,patient358@email.com,4039,None,Dr. House,doctor31@clinic.com,Periodontist,LIC-703,2025-12-17,15:00,Scheduled,Teeth Cleaning,6380.89,Yes,2025-12-17
+Viktor Shevchenko,patient27@email.com,2207,Diabetes,Dr. Frank,doctor34@clinic.com,Orthodontist,LIC-657,2025-10-08,09:00,Scheduled,Braces Installation,11161.65,No,
+Mariia Boiko,patient851@email.com,8898,None,Dr. Frank,doctor1@clinic.com,Surgeon,LIC-966,2026-02-13,12:00,Scheduled,Pulpitis,13688.66,Yes,2026-02-13
+Mariia Boiko,patient525@email.com,8715,Penicillin allergy,Dr. Frank,doctor3@clinic.com,Periodontist,LIC-174,2026-02-24,15:00,Cancelled,Braces Installation,11672.62,No,
+Ivan Melnyk,patient620@email.com,8167,Penicillin allergy,Dr. Smith,doctor22@clinic.com,Orthodontist,LIC-661,2025-09-09,09:00,Scheduled,Braces Installation,11219.21,No,
+Ivan Melnyk,patient814@email.com,1517,None,Dr. Frank,doctor27@clinic.com,Therapist,LIC-602,2026-01-29,16:00,Completed,Gingivitis,5705.05,Yes,2026-01-29
+Yana Lysenko,patient211@email.com,8220,Diabetes,Dr. House,doctor26@clinic.com,Surgeon,LIC-847,2026-03-05,15:00,Cancelled,Healthy,4880.56,Yes,2026-03-05
+Anna Tkachenko,patient486@email.com,5222,Penicillin allergy,Dr. House,doctor37@clinic.com,Orthodontist,LIC-278,2025-12-29,17:00,Completed,Caries,14827.45,No,
+Ivan Melnyk,patient73@email.com,2840,None,Dr. Koval,doctor44@clinic.com,Orthodontist,LIC-359,2026-01-07,09:00,Cancelled,Caries,13687.92,Yes,2026-01-07
+Yana Lysenko,patient699@email.com,3537,Hypertension,Dr. Frank,doctor5@clinic.com,Orthodontist,LIC-505,2025-12-09,17:00,Cancelled,Braces Installation,4137.74,Yes,2025-12-09
+Ivan Melnyk,patient110@email.com,3847,Hypertension,Dr. Koval,doctor7@clinic.com,Periodontist,LIC-963,2025-10-12,10:00,Completed,Teeth Cleaning,10125.52,No,
+Ivan Melnyk,patient419@email.com,8635,None,Dr. Koval,doctor42@clinic.com,Periodontist,LIC-746,2025-11-08,16:00,Cancelled,Caries,14654.31,Yes,2025-11-08
+Viktor Shevchenko,patient135@email.com,6884,None,Dr. Frank,doctor48@clinic.com,Orthodontist,LIC-610,2026-01-22,16:00,Completed,Healthy,12314.57,No,
+Anna Tkachenko,patient379@email.com,4285,None,Dr. Koval,doctor6@clinic.com,Therapist,LIC-505,2025-10-13,10:00,Cancelled,Caries,13825.84,No,
+Anna Tkachenko,patient491@email.com,3531,None,Dr. House,doctor9@clinic.com,Orthodontist,LIC-442,2026-01-29,10:00,Cancelled,Gingivitis,9199.71,No,
+Mariia Boiko,patient321@email.com,5922,None,Dr. Frank,doctor15@clinic.com,Periodontist,LIC-599,2025-11-28,16:00,Completed,Pulpitis,3199.97,No,
+Mariia Boiko,patient196@email.com,5931,None,Dr. Smith,doctor9@clinic.com,Therapist,LIC-880,2026-01-17,10:00,Completed,Healthy,10471.81,Yes,2026-01-17
+Viktor Shevchenko,patient523@email.com,5560,Penicillin allergy,Dr. Frank,doctor47@clinic.com,Orthodontist,LIC-313,2025-10-07,11:00,Scheduled,Healthy,1885.65,Yes,2025-10-07
+Ivan Melnyk,patient214@email.com,3680,None,Dr. House,doctor8@clinic.com,Periodontist,LIC-288,2026-02-11,13:00,Cancelled,Teeth Cleaning,13442.14,No,
+Anna Tkachenko,patient166@email.com,4274,Diabetes,Dr. House,doctor47@clinic.com,Therapist,LIC-886,2026-01-31,10:00,Scheduled,Gingivitis,2048.47,No,
+Viktor Shevchenko,patient372@email.com,8836,Hypertension,Dr. Smith,doctor17@clinic.com,Therapist,LIC-280,2025-10-30,11:00,Cancelled,Pulpitis,7811.79,No,
+Viktor Shevchenko,patient885@email.com,5083,None,Dr. Koval,doctor24@clinic.com,Orthodontist,LIC-514,2025-12-04,13:00,Scheduled,Caries,13883.23,Yes,2025-12-04
+Ivan Melnyk,patient582@email.com,7512,None,Dr. Koval,doctor44@clinic.com,Surgeon,LIC-582,2026-02-19,13:00,Cancelled,Gingivitis,12686.93,Yes,2026-02-19
+Oleksandr Kovalenko,patient530@email.com,7039,None,Dr. Smith,doctor32@clinic.com,Periodontist,LIC-255,2025-10-12,09:00,Scheduled,Caries,8152.75,No,
+Anna Tkachenko,patient853@email.com,6442,Diabetes,Dr. Koval,doctor31@clinic.com,Orthodontist,LIC-178,2026-01-01,09:00,Completed,Caries,4640.17,Yes,2026-01-01
+Oleksandr Kovalenko,patient467@email.com,2235,Diabetes,Dr. Koval,doctor21@clinic.com,Surgeon,LIC-834,2026-01-27,09:00,Cancelled,Gingivitis,6564.08,No,
+Oleksandr Kovalenko,patient177@email.com,1371,Penicillin allergy,Dr. Smith,doctor23@clinic.com,Orthodontist,LIC-520,2025-10-05,11:00,Completed,Gingivitis,11424.31,Yes,2025-10-05
+Viktor Shevchenko,patient304@email.com,7015,Penicillin allergy,Dr. Smith,doctor18@clinic.com,Therapist,LIC-733,2025-10-14,15:00,Cancelled,Healthy,6134.56,Yes,2025-10-14
+Viktor Shevchenko,patient189@email.com,3506,None,Dr. Koval,doctor39@clinic.com,Orthodontist,LIC-249,2025-11-11,16:00,Cancelled,Caries,7046.6,No,
+Ivan Melnyk,patient854@email.com,5627,Hypertension,Dr. Smith,doctor22@clinic.com,Orthodontist,LIC-708,2025-10-13,12:00,Scheduled,Pulpitis,5719.54,Yes,2025-10-13
+Oleksandr Kovalenko,patient138@email.com,8199,Diabetes,Dr. Frank,doctor20@clinic.com,Therapist,LIC-936,2025-12-03,13:00,Completed,Gingivitis,13607.35,Yes,2025-12-03
+Anna Tkachenko,patient499@email.com,3872,Hypertension,Dr. Koval,doctor4@clinic.com,Therapist,LIC-142,2025-12-14,12:00,Scheduled,Gingivitis,3430.3,Yes,2025-12-14
+Oleksandr Kovalenko,patient349@email.com,4717,Penicillin allergy,Dr. Smith,doctor6@clinic.com,Orthodontist,LIC-527,2025-11-25,09:00,Completed,Pulpitis,9173.66,No,
+Ivan Melnyk,patient735@email.com,2839,None,Dr. Frank,doctor27@clinic.com,Therapist,LIC-174,2026-02-16,09:00,Scheduled,Healthy,11318.39,Yes,2026-02-16
+Mariia Boiko,patient195@email.com,4590,Hypertension,Dr. House,doctor18@clinic.com,Periodontist,LIC-973,2025-09-07,11:00,Cancelled,Caries,13787.06,No,
+Ivan Melnyk,patient732@email.com,6003,Diabetes,Dr. House,doctor16@clinic.com,Surgeon,LIC-855,2025-12-30,09:00,Completed,Teeth Cleaning,5959.36,Yes,2025-12-30
+Oleksandr Kovalenko,patient322@email.com,6624,None,Dr. House,doctor8@clinic.com,Surgeon,LIC-776,2025-12-13,12:00,Cancelled,Gingivitis,7641.16,Yes,2025-12-13
+Anna Tkachenko,patient440@email.com,3789,Penicillin allergy,Dr. House,doctor29@clinic.com,Periodontist,LIC-887,2025-11-01,14:00,Cancelled,Braces Installation,13101.32,Yes,2025-11-01
+Anna Tkachenko,patient160@email.com,2525,Diabetes,Dr. Smith,doctor13@clinic.com,Periodontist,LIC-593,2025-12-02,12:00,Completed,Teeth Cleaning,4281.31,Yes,2025-12-02
+Ivan Melnyk,patient885@email.com,1558,None,Dr. Frank,doctor34@clinic.com,Therapist,LIC-827,2026-02-26,16:00,Cancelled,Gingivitis,664.52,Yes,2026-02-26
+Mariia Boiko,patient746@email.com,3336,None,Dr. Smith,doctor9@clinic.com,Periodontist,LIC-300,2025-12-03,11:00,Scheduled,Healthy,6755.35,No,
+Yana Lysenko,patient771@email.com,7403,Hypertension,Dr. Koval,doctor4@clinic.com,Periodontist,LIC-798,2025-10-10,09:00,Cancelled,Gingivitis,6019.94,No,
+Yana Lysenko,patient625@email.com,7800,None,Dr. Koval,doctor46@clinic.com,Surgeon,LIC-537,2026-01-01,16:00,Cancelled,Gingivitis,9257.54,No,
+Viktor Shevchenko,patient651@email.com,7532,Hypertension,Dr. Frank,doctor26@clinic.com,Orthodontist,LIC-604,2025-09-28,12:00,Scheduled,Teeth Cleaning,525.85,No,
+Yana Lysenko,patient689@email.com,9659,Hypertension,Dr. Frank,doctor14@clinic.com,Orthodontist,LIC-673,2025-11-15,11:00,Cancelled,Braces Installation,6031.72,Yes,2025-11-15
+Oleksandr Kovalenko,patient860@email.com,4282,None,Dr. House,doctor47@clinic.com,Therapist,LIC-364,2025-10-23,14:00,Completed,Braces Installation,10616.55,No,
+Mariia Boiko,patient388@email.com,9189,Hypertension,Dr. Frank,doctor47@clinic.com,Periodontist,LIC-807,2026-03-03,16:00,Completed,Braces Installation,5725.55,No,
+Viktor Shevchenko,patient970@email.com,9491,None,Dr. Smith,doctor47@clinic.com,Orthodontist,LIC-312,2025-12-20,09:00,Cancelled,Healthy,7707.17,Yes,2025-12-20
+Viktor Shevchenko,patient173@email.com,1633,Hypertension,Dr. Smith,doctor47@clinic.com,Therapist,LIC-604,2025-10-03,09:00,Cancelled,Teeth Cleaning,8406.3,Yes,2025-10-03
+Viktor Shevchenko,patient736@email.com,3732,Diabetes,Dr. House,doctor39@clinic.com,Therapist,LIC-359,2026-02-05,12:00,Completed,Caries,4217.83,Yes,2026-02-05
+Viktor Shevchenko,patient28@email.com,2756,None,Dr. Smith,doctor31@clinic.com,Orthodontist,LIC-518,2025-09-25,09:00,Scheduled,Caries,614.99,No,
+Ivan Melnyk,patient392@email.com,7585,None,Dr. Smith,doctor36@clinic.com,Orthodontist,LIC-162,2025-11-09,16:00,Completed,Braces Installation,768.12,No,
+Ivan Melnyk,patient575@email.com,5713,Penicillin allergy,Dr. House,doctor22@clinic.com,Periodontist,LIC-654,2026-01-16,17:00,Completed,Braces Installation,7246.49,Yes,2026-01-16
+Oleksandr Kovalenko,patient257@email.com,9665,None,Dr. House,doctor22@clinic.com,Therapist,LIC-749,2025-10-08,14:00,Cancelled,Braces Installation,537.69,No,
+Yana Lysenko,patient502@email.com,7041,Hypertension,Dr. Koval,doctor25@clinic.com,Orthodontist,LIC-808,2025-11-18,14:00,Completed,Pulpitis,9038.43,No,
+Anna Tkachenko,patient407@email.com,7284,None,Dr. Koval,doctor28@clinic.com,Surgeon,LIC-909,2025-10-16,13:00,Completed,Healthy,3123.11,No,
+Anna Tkachenko,patient934@email.com,4272,Hypertension,Dr. Smith,doctor7@clinic.com,Orthodontist,LIC-928,2025-10-24,15:00,Completed,Gingivitis,1383.48,No,
+Anna Tkachenko,patient918@email.com,6755,Penicillin allergy,Dr. House,doctor19@clinic.com,Periodontist,LIC-353,2025-11-24,09:00,Completed,Caries,2473.93,No,
+Oleksandr Kovalenko,patient946@email.com,4293,Diabetes,Dr. Koval,doctor18@clinic.com,Therapist,LIC-523,2026-01-05,16:00,Scheduled,Gingivitis,1323.37,Yes,2026-01-05
+Viktor Shevchenko,patient508@email.com,8254,Penicillin allergy,Dr. Smith,doctor28@clinic.com,Therapist,LIC-886,2026-01-04,15:00,Cancelled,Teeth Cleaning,2638.36,Yes,2026-01-04
+Viktor Shevchenko,patient495@email.com,1275,None,Dr. Frank,doctor19@clinic.com,Orthodontist,LIC-793,2025-12-22,16:00,Completed,Pulpitis,5119.27,Yes,2025-12-22
+Ivan Melnyk,patient432@email.com,8064,None,Dr. Frank,doctor46@clinic.com,Orthodontist,LIC-344,2026-02-28,17:00,Completed,Braces Installation,10025.04,Yes,2026-02-28
+Ivan Melnyk,patient924@email.com,1816,Hypertension,Dr. Frank,doctor5@clinic.com,Orthodontist,LIC-106,2026-02-10,17:00,Scheduled,Healthy,8031.92,Yes,2026-02-10
+Ivan Melnyk,patient197@email.com,4579,None,Dr. Koval,doctor50@clinic.com,Periodontist,LIC-271,2025-11-18,13:00,Completed,Healthy,8106.06,Yes,2025-11-18
+Viktor Shevchenko,patient981@email.com,6134,Diabetes,Dr. Koval,doctor30@clinic.com,Periodontist,LIC-279,2025-09-08,12:00,Cancelled,Gingivitis,6931.92,No,
+Viktor Shevchenko,patient151@email.com,3679,None,Dr. House,doctor6@clinic.com,Orthodontist,LIC-868,2025-11-30,16:00,Scheduled,Gingivitis,8719.86,No,
+Yana Lysenko,patient127@email.com,9157,Penicillin allergy,Dr. Koval,doctor18@clinic.com,Periodontist,LIC-790,2025-09-08,16:00,Completed,Caries,11921.08,No,
+Yana Lysenko,patient164@email.com,5427,None,Dr. House,doctor7@clinic.com,Surgeon,LIC-983,2025-10-31,16:00,Cancelled,Braces Installation,5470.02,Yes,2025-10-31
+Mariia Boiko,patient58@email.com,8682,Penicillin allergy,Dr. House,doctor42@clinic.com,Periodontist,LIC-430,2026-02-09,17:00,Cancelled,Teeth Cleaning,4432.36,Yes,2026-02-09
+Yana Lysenko,patient182@email.com,4991,Diabetes,Dr. Frank,doctor27@clinic.com,Orthodontist,LIC-594,2025-10-02,16:00,Completed,Healthy,9120.05,Yes,2025-10-02
+Ivan Melnyk,patient64@email.com,1317,None,Dr. Smith,doctor3@clinic.com,Therapist,LIC-746,2026-02-14,15:00,Completed,Braces Installation,8931.27,No,
+Yana Lysenko,patient663@email.com,8286,Hypertension,Dr. Koval,doctor12@clinic.com,Periodontist,LIC-571,2025-09-15,13:00,Scheduled,Pulpitis,8505.81,No,
+Oleksandr Kovalenko,patient764@email.com,3730,Hypertension,Dr. Frank,doctor21@clinic.com,Periodontist,LIC-175,2026-01-17,15:00,Cancelled,Gingivitis,5391.79,No,
+Oleksandr Kovalenko,patient199@email.com,8109,Diabetes,Dr. Frank,doctor27@clinic.com,Surgeon,LIC-786,2025-11-01,14:00,Cancelled,Gingivitis,1670.29,Yes,2025-11-01
+Oleksandr Kovalenko,patient196@email.com,6270,Penicillin allergy,Dr. Frank,doctor50@clinic.com,Orthodontist,LIC-957,2025-10-17,10:00,Cancelled,Caries,9995.83,No,
+Yana Lysenko,patient18@email.com,1311,None,Dr. Koval,doctor44@clinic.com,Therapist,LIC-809,2025-09-21,17:00,Completed,Gingivitis,5313.46,No,
+Oleksandr Kovalenko,patient921@email.com,6463,None,Dr. Koval,doctor10@clinic.com,Therapist,LIC-238,2025-12-16,12:00,Cancelled,Caries,10143.92,Yes,2025-12-16
+Anna Tkachenko,patient69@email.com,3222,None,Dr. Koval,doctor20@clinic.com,Orthodontist,LIC-150,2025-10-05,12:00,Cancelled,Healthy,3315.42,No,
+Mariia Boiko,patient13@email.com,3096,Penicillin allergy,Dr. Koval,doctor16@clinic.com,Surgeon,LIC-895,2025-11-18,16:00,Completed,Caries,6515.9,No,
+Anna Tkachenko,patient417@email.com,1658,None,Dr. Koval,doctor42@clinic.com,Orthodontist,LIC-724,2025-10-02,16:00,Cancelled,Healthy,5243.88,No,
+Oleksandr Kovalenko,patient563@email.com,6740,Hypertension,Dr. House,doctor45@clinic.com,Orthodontist,LIC-377,2025-09-07,11:00,Scheduled,Healthy,9748.08,No,
+Viktor Shevchenko,patient49@email.com,5027,Diabetes,Dr. Frank,doctor6@clinic.com,Therapist,LIC-515,2025-11-16,12:00,Cancelled,Healthy,13128.01,No,
+Yana Lysenko,patient872@email.com,9139,None,Dr. Koval,doctor15@clinic.com,Therapist,LIC-120,2025-12-02,14:00,Scheduled,Caries,11196.46,Yes,2025-12-02
+Yana Lysenko,patient492@email.com,6360,Penicillin allergy,Dr. House,doctor41@clinic.com,Therapist,LIC-704,2025-12-13,09:00,Cancelled,Pulpitis,5068.38,No,
+Viktor Shevchenko,patient349@email.com,2286,None,Dr. Frank,doctor3@clinic.com,Therapist,LIC-999,2026-01-23,15:00,Scheduled,Caries,4259.94,Yes,2026-01-23
+Ivan Melnyk,patient102@email.com,4706,None,Dr. Koval,doctor46@clinic.com,Therapist,LIC-289,2025-11-15,16:00,Completed,Braces Installation,12969.29,Yes,2025-11-15
+Anna Tkachenko,patient22@email.com,3684,Penicillin allergy,Dr. House,doctor38@clinic.com,Surgeon,LIC-642,2025-09-12,16:00,Cancelled,Healthy,13193.32,No,
+Yana Lysenko,patient541@email.com,9506,None,Dr. Koval,doctor40@clinic.com,Orthodontist,LIC-742,2026-02-01,16:00,Cancelled,Caries,11124.11,Yes,2026-02-01
+Yana Lysenko,patient200@email.com,6161,None,Dr. Smith,doctor28@clinic.com,Orthodontist,LIC-586,2025-12-27,11:00,Scheduled,Braces Installation,5901.69,No,
+Viktor Shevchenko,patient943@email.com,8626,Hypertension,Dr. Smith,doctor7@clinic.com,Orthodontist,LIC-478,2026-02-23,09:00,Cancelled,Pulpitis,4420.75,No,
+Viktor Shevchenko,patient856@email.com,2442,Diabetes,Dr. Frank,doctor9@clinic.com,Orthodontist,LIC-782,2025-10-09,17:00,Completed,Gingivitis,14757.07,Yes,2025-10-09
+Ivan Melnyk,patient538@email.com,5101,None,Dr. House,doctor13@clinic.com,Periodontist,LIC-523,2026-02-02,14:00,Cancelled,Teeth Cleaning,11810.55,No,
+Yana Lysenko,patient876@email.com,4371,Diabetes,Dr. Koval,doctor50@clinic.com,Surgeon,LIC-601,2026-02-26,15:00,Scheduled,Teeth Cleaning,11611.97,Yes,2026-02-26
+Oleksandr Kovalenko,patient979@email.com,1002,Penicillin allergy,Dr. Smith,doctor29@clinic.com,Periodontist,LIC-858,2026-02-19,12:00,Completed,Caries,9944.06,No,
+Anna Tkachenko,patient719@email.com,1073,Diabetes,Dr. Frank,doctor41@clinic.com,Surgeon,LIC-680,2025-09-12,09:00,Scheduled,Braces Installation,5070.11,Yes,2025-09-12
+Yana Lysenko,patient626@email.com,5530,Diabetes,Dr. House,doctor16@clinic.com,Orthodontist,LIC-224,2025-09-16,11:00,Cancelled,Teeth Cleaning,14383.62,No,
+Oleksandr Kovalenko,patient735@email.com,8276,None,Dr. Smith,doctor32@clinic.com,Orthodontist,LIC-856,2026-02-24,16:00,Cancelled,Caries,12147.32,No,
+Anna Tkachenko,patient70@email.com,4244,Diabetes,Dr. Frank,doctor33@clinic.com,Therapist,LIC-653,2026-02-27,14:00,Completed,Braces Installation,8279.41,Yes,2026-02-27
+Ivan Melnyk,patient546@email.com,1840,None,Dr. Smith,doctor40@clinic.com,Surgeon,LIC-302,2026-02-12,10:00,Cancelled,Caries,5647.63,Yes,2026-02-12
+Yana Lysenko,patient456@email.com,5838,None,Dr. Koval,doctor37@clinic.com,Surgeon,LIC-861,2025-12-13,14:00,Scheduled,Pulpitis,1734.51,No,
+Mariia Boiko,patient2@email.com,3105,Penicillin allergy,Dr. Koval,doctor46@clinic.com,Surgeon,LIC-535,2025-11-12,10:00,Cancelled,Braces Installation,2811.46,Yes,2025-11-12
+Anna Tkachenko,patient538@email.com,7143,None,Dr. Frank,doctor12@clinic.com,Therapist,LIC-779,2025-11-29,15:00,Scheduled,Teeth Cleaning,11526.19,No,
+Anna Tkachenko,patient879@email.com,3461,None,Dr. Koval,doctor35@clinic.com,Surgeon,LIC-670,2025-12-20,17:00,Cancelled,Teeth Cleaning,5449.22,No,
+Yana Lysenko,patient279@email.com,2244,Diabetes,Dr. House,doctor45@clinic.com,Surgeon,LIC-142,2025-10-09,17:00,Completed,Teeth Cleaning,4937.73,No,
+Yana Lysenko,patient105@email.com,9265,Penicillin allergy,Dr. Smith,doctor35@clinic.com,Surgeon,LIC-137,2026-02-02,09:00,Completed,Teeth Cleaning,7366.59,Yes,2026-02-02
+Anna Tkachenko,patient911@email.com,9933,Hypertension,Dr. Frank,doctor6@clinic.com,Periodontist,LIC-583,2026-03-04,09:00,Cancelled,Braces Installation,12116.95,No,
+Anna Tkachenko,patient113@email.com,5745,Penicillin allergy,Dr. Frank,doctor23@clinic.com,Orthodontist,LIC-231,2025-10-12,09:00,Cancelled,Teeth Cleaning,1025.0,No,
+Mariia Boiko,patient725@email.com,1762,Penicillin allergy,Dr. Smith,doctor22@clinic.com,Orthodontist,LIC-579,2025-12-30,10:00,Completed,Teeth Cleaning,13747.22,Yes,2025-12-30
+Yana Lysenko,patient762@email.com,9628,None,Dr. Koval,doctor45@clinic.com,Orthodontist,LIC-495,2025-10-01,17:00,Completed,Pulpitis,7987.11,No,
+Oleksandr Kovalenko,patient885@email.com,8506,Penicillin allergy,Dr. Frank,doctor17@clinic.com,Surgeon,LIC-809,2026-02-19,16:00,Scheduled,Gingivitis,10765.41,No,
+Anna Tkachenko,patient582@email.com,1549,Penicillin allergy,Dr. Smith,doctor12@clinic.com,Therapist,LIC-503,2025-09-12,15:00,Scheduled,Braces Installation,11161.14,Yes,2025-09-12
+Oleksandr Kovalenko,patient747@email.com,9791,Diabetes,Dr. Koval,doctor12@clinic.com,Orthodontist,LIC-226,2026-01-30,12:00,Cancelled,Caries,7508.68,Yes,2026-01-30
+Ivan Melnyk,patient706@email.com,6409,None,Dr. Smith,doctor46@clinic.com,Therapist,LIC-159,2026-01-21,14:00,Completed,Caries,3472.41,No,
+Mariia Boiko,patient348@email.com,9064,Penicillin allergy,Dr. Smith,doctor49@clinic.com,Orthodontist,LIC-992,2026-02-10,16:00,Cancelled,Caries,7008.45,No,
+Ivan Melnyk,patient94@email.com,7508,None,Dr. Frank,doctor23@clinic.com,Orthodontist,LIC-875,2025-11-16,17:00,Cancelled,Gingivitis,9016.58,Yes,2025-11-16
+Ivan Melnyk,patient760@email.com,4237,Penicillin allergy,Dr. House,doctor46@clinic.com,Orthodontist,LIC-978,2026-01-28,10:00,Completed,Pulpitis,6532.7,Yes,2026-01-28
+Viktor Shevchenko,patient286@email.com,4614,Penicillin allergy,Dr. Smith,doctor28@clinic.com,Periodontist,LIC-905,2025-09-24,15:00,Scheduled,Caries,4667.51,Yes,2025-09-24
+Ivan Melnyk,patient937@email.com,1782,Hypertension,Dr. Koval,doctor48@clinic.com,Therapist,LIC-863,2025-10-09,16:00,Completed,Pulpitis,9346.66,Yes,2025-10-09
+Ivan Melnyk,patient218@email.com,9153,None,Dr. Frank,doctor47@clinic.com,Orthodontist,LIC-842,2025-10-01,15:00,Completed,Braces Installation,14656.0,Yes,2025-10-01
+Mariia Boiko,patient246@email.com,8098,Penicillin allergy,Dr. Koval,doctor28@clinic.com,Periodontist,LIC-495,2025-12-26,15:00,Cancelled,Pulpitis,12644.52,Yes,2025-12-26
+Anna Tkachenko,patient618@email.com,3612,None,Dr. Smith,doctor48@clinic.com,Therapist,LIC-420,2025-09-20,09:00,Cancelled,Gingivitis,2228.26,No,
+Yana Lysenko,patient462@email.com,8473,None,Dr. Koval,doctor27@clinic.com,Periodontist,LIC-659,2025-12-06,11:00,Cancelled,Pulpitis,6481.96,No,
+Viktor Shevchenko,patient609@email.com,7554,Diabetes,Dr. Frank,doctor18@clinic.com,Surgeon,LIC-124,2025-12-06,14:00,Scheduled,Gingivitis,6593.24,Yes,2025-12-06
+Viktor Shevchenko,patient920@email.com,7787,None,Dr. Koval,doctor26@clinic.com,Surgeon,LIC-946,2025-09-09,14:00,Scheduled,Teeth Cleaning,3428.16,Yes,2025-09-09
+Anna Tkachenko,patient772@email.com,7034,Hypertension,Dr. Smith,doctor41@clinic.com,Periodontist,LIC-122,2025-12-21,13:00,Completed,Gingivitis,821.19,Yes,2025-12-21
+Ivan Melnyk,patient845@email.com,1797,Diabetes,Dr. House,doctor20@clinic.com,Orthodontist,LIC-985,2025-09-22,16:00,Scheduled,Gingivitis,8828.65,No,
+Ivan Melnyk,patient887@email.com,2599,Penicillin allergy,Dr. Koval,doctor40@clinic.com,Therapist,LIC-889,2025-10-28,15:00,Completed,Gingivitis,5378.88,Yes,2025-10-28
+Mariia Boiko,patient805@email.com,7308,Diabetes,Dr. House,doctor45@clinic.com,Surgeon,LIC-533,2025-09-12,12:00,Completed,Pulpitis,9986.32,No,
+Yana Lysenko,patient171@email.com,1802,None,Dr. Frank,doctor18@clinic.com,Surgeon,LIC-562,2025-11-14,17:00,Cancelled,Healthy,6045.41,Yes,2025-11-14
+Ivan Melnyk,patient947@email.com,2874,Diabetes,Dr. Koval,doctor4@clinic.com,Therapist,LIC-902,2026-02-17,12:00,Completed,Caries,4215.77,No,
+Ivan Melnyk,patient336@email.com,2798,None,Dr. Frank,doctor26@clinic.com,Orthodontist,LIC-834,2026-02-18,10:00,Completed,Braces Installation,4539.33,Yes,2026-02-18
+Oleksandr Kovalenko,patient986@email.com,1086,None,Dr. House,doctor33@clinic.com,Surgeon,LIC-222,2025-11-24,09:00,Cancelled,Teeth Cleaning,11122.24,No,
+Mariia Boiko,patient742@email.com,5493,None,Dr. Koval,doctor11@clinic.com,Orthodontist,LIC-617,2025-12-14,11:00,Scheduled,Healthy,8387.92,Yes,2025-12-14
+Ivan Melnyk,patient529@email.com,7006,None,Dr. Koval,doctor28@clinic.com,Therapist,LIC-417,2026-02-21,09:00,Cancelled,Pulpitis,7265.01,No,
+Anna Tkachenko,patient584@email.com,1531,Penicillin allergy,Dr. House,doctor41@clinic.com,Periodontist,LIC-916,2026-01-11,14:00,Completed,Teeth Cleaning,984.51,Yes,2026-01-11
+Viktor Shevchenko,patient450@email.com,9823,Hypertension,Dr. House,doctor34@clinic.com,Orthodontist,LIC-554,2026-02-21,10:00,Completed,Pulpitis,8995.0,Yes,2026-02-21
+Yana Lysenko,patient974@email.com,3999,None,Dr. Koval,doctor31@clinic.com,Orthodontist,LIC-701,2025-10-07,13:00,Cancelled,Braces Installation,4786.86,Yes,2025-10-07
+Ivan Melnyk,patient96@email.com,9210,None,Dr. House,doctor2@clinic.com,Therapist,LIC-106,2026-01-19,12:00,Scheduled,Pulpitis,9091.11,Yes,2026-01-19
+Yana Lysenko,patient603@email.com,1744,None,Dr. Frank,doctor7@clinic.com,Therapist,LIC-807,2026-01-19,16:00,Scheduled,Braces Installation,10731.85,Yes,2026-01-19
+Ivan Melnyk,patient151@email.com,3447,Penicillin allergy,Dr. Koval,doctor31@clinic.com,Periodontist,LIC-182,2025-12-30,11:00,Completed,Teeth Cleaning,5119.15,No,
+Oleksandr Kovalenko,patient815@email.com,4675,None,Dr. House,doctor25@clinic.com,Orthodontist,LIC-843,2025-09-09,12:00,Cancelled,Teeth Cleaning,5995.91,Yes,2025-09-09
+Mariia Boiko,patient660@email.com,6972,Penicillin allergy,Dr. Smith,doctor15@clinic.com,Therapist,LIC-552,2025-09-24,11:00,Cancelled,Braces Installation,1607.82,Yes,2025-09-24
+Anna Tkachenko,patient742@email.com,3116,Penicillin allergy,Dr. Smith,doctor6@clinic.com,Therapist,LIC-796,2026-01-22,12:00,Scheduled,Gingivitis,2526.54,No,
+Mariia Boiko,patient630@email.com,9667,Penicillin allergy,Dr. Frank,doctor22@clinic.com,Therapist,LIC-569,2026-01-12,15:00,Scheduled,Healthy,2401.6,Yes,2026-01-12
+Anna Tkachenko,patient814@email.com,2731,None,Dr. Koval,doctor35@clinic.com,Periodontist,LIC-406,2025-10-13,09:00,Completed,Caries,11540.42,No,
+Yana Lysenko,patient473@email.com,2513,Penicillin allergy,Dr. Frank,doctor16@clinic.com,Orthodontist,LIC-190,2025-10-15,09:00,Completed,Healthy,12366.36,Yes,2025-10-15
+Oleksandr Kovalenko,patient701@email.com,1721,Penicillin allergy,Dr. Frank,doctor1@clinic.com,Orthodontist,LIC-826,2025-10-22,13:00,Cancelled,Gingivitis,1566.46,No,
+Viktor Shevchenko,patient648@email.com,2192,None,Dr. Smith,doctor20@clinic.com,Periodontist,LIC-489,2026-01-26,15:00,Completed,Caries,8851.4,Yes,2026-01-26
+Oleksandr Kovalenko,patient849@email.com,5921,Hypertension,Dr. Smith,doctor5@clinic.com,Periodontist,LIC-343,2026-02-03,17:00,Completed,Caries,3389.25,No,
+Oleksandr Kovalenko,patient827@email.com,5495,None,Dr. Koval,doctor49@clinic.com,Periodontist,LIC-718,2025-12-08,17:00,Completed,Healthy,7514.01,Yes,2025-12-08
+Viktor Shevchenko,patient409@email.com,3132,Diabetes,Dr. Frank,doctor2@clinic.com,Therapist,LIC-429,2025-12-16,10:00,Completed,Gingivitis,13639.63,Yes,2025-12-16
+Anna Tkachenko,patient81@email.com,7218,Diabetes,Dr. Koval,doctor50@clinic.com,Therapist,LIC-646,2025-11-25,14:00,Cancelled,Caries,7991.61,No,
+Viktor Shevchenko,patient51@email.com,4266,Diabetes,Dr. Koval,doctor14@clinic.com,Orthodontist,LIC-385,2026-01-27,10:00,Completed,Teeth Cleaning,7353.77,No,
+Mariia Boiko,patient948@email.com,5327,None,Dr. Koval,doctor38@clinic.com,Orthodontist,LIC-897,2025-11-11,09:00,Cancelled,Teeth Cleaning,9551.44,Yes,2025-11-11
+Anna Tkachenko,patient362@email.com,2916,None,Dr. House,doctor11@clinic.com,Therapist,LIC-627,2025-12-07,15:00,Scheduled,Teeth Cleaning,8318.33,No,
+Viktor Shevchenko,patient998@email.com,7083,Diabetes,Dr. Frank,doctor12@clinic.com,Therapist,LIC-990,2025-09-15,13:00,Cancelled,Caries,7450.62,Yes,2025-09-15
+Mariia Boiko,patient535@email.com,9249,Hypertension,Dr. House,doctor48@clinic.com,Therapist,LIC-137,2026-02-10,16:00,Cancelled,Pulpitis,1924.34,No,
+Oleksandr Kovalenko,patient182@email.com,8295,Penicillin allergy,Dr. Koval,doctor1@clinic.com,Surgeon,LIC-112,2025-12-02,13:00,Scheduled,Teeth Cleaning,13701.91,Yes,2025-12-02
+Anna Tkachenko,patient159@email.com,3427,None,Dr. Frank,doctor3@clinic.com,Therapist,LIC-702,2025-11-28,10:00,Cancelled,Pulpitis,9376.76,Yes,2025-11-28
+Ivan Melnyk,patient391@email.com,4252,Hypertension,Dr. Frank,doctor46@clinic.com,Orthodontist,LIC-888,2026-01-24,11:00,Completed,Healthy,3879.5,Yes,2026-01-24
+Anna Tkachenko,patient253@email.com,9504,Hypertension,Dr. Frank,doctor34@clinic.com,Therapist,LIC-868,2026-01-14,14:00,Completed,Pulpitis,1326.56,Yes,2026-01-14
+Yana Lysenko,patient900@email.com,1581,None,Dr. House,doctor25@clinic.com,Orthodontist,LIC-134,2026-02-03,16:00,Completed,Teeth Cleaning,13918.27,Yes,2026-02-03
+Oleksandr Kovalenko,patient380@email.com,4739,Hypertension,Dr. House,doctor24@clinic.com,Periodontist,LIC-614,2025-12-03,13:00,Cancelled,Teeth Cleaning,1149.62,Yes,2025-12-03
+Yana Lysenko,patient143@email.com,4548,None,Dr. House,doctor31@clinic.com,Surgeon,LIC-453,2026-01-21,15:00,Completed,Braces Installation,14071.71,Yes,2026-01-21
+Anna Tkachenko,patient480@email.com,5739,None,Dr. Smith,doctor42@clinic.com,Therapist,LIC-125,2026-02-09,11:00,Completed,Teeth Cleaning,1021.51,Yes,2026-02-09
+Anna Tkachenko,patient728@email.com,7790,Penicillin allergy,Dr. Frank,doctor5@clinic.com,Surgeon,LIC-911,2025-12-08,13:00,Cancelled,Healthy,2572.46,Yes,2025-12-08
+Oleksandr Kovalenko,patient788@email.com,7313,None,Dr. Smith,doctor1@clinic.com,Therapist,LIC-301,2026-02-28,16:00,Completed,Caries,6675.13,No,
+Viktor Shevchenko,patient171@email.com,6509,Penicillin allergy,Dr. Smith,doctor24@clinic.com,Therapist,LIC-748,2026-01-25,13:00,Scheduled,Teeth Cleaning,13142.34,Yes,2026-01-25
+Oleksandr Kovalenko,patient960@email.com,5422,Hypertension,Dr. Smith,doctor24@clinic.com,Periodontist,LIC-417,2025-12-03,17:00,Scheduled,Pulpitis,9657.81,Yes,2025-12-03
+Viktor Shevchenko,patient267@email.com,8581,Penicillin allergy,Dr. Frank,doctor26@clinic.com,Surgeon,LIC-254,2025-10-28,13:00,Scheduled,Caries,9561.12,Yes,2025-10-28
+Oleksandr Kovalenko,patient59@email.com,7615,None,Dr. House,doctor22@clinic.com,Surgeon,LIC-784,2026-02-07,11:00,Scheduled,Pulpitis,8347.69,No,
+Oleksandr Kovalenko,patient488@email.com,4790,None,Dr. House,doctor10@clinic.com,Orthodontist,LIC-109,2025-10-31,11:00,Cancelled,Caries,12486.25,No,
+Yana Lysenko,patient657@email.com,4928,Penicillin allergy,Dr. House,doctor10@clinic.com,Therapist,LIC-476,2025-12-20,13:00,Scheduled,Teeth Cleaning,5547.48,No,
+Yana Lysenko,patient370@email.com,9303,Diabetes,Dr. Frank,doctor38@clinic.com,Surgeon,LIC-711,2025-10-22,09:00,Completed,Pulpitis,4165.44,No,
+Anna Tkachenko,patient543@email.com,9722,None,Dr. House,doctor18@clinic.com,Therapist,LIC-637,2025-10-25,09:00,Cancelled,Braces Installation,9415.93,Yes,2025-10-25
+Ivan Melnyk,patient130@email.com,8462,Diabetes,Dr. House,doctor49@clinic.com,Therapist,LIC-484,2025-12-19,11:00,Cancelled,Caries,11539.54,Yes,2025-12-19
+Yana Lysenko,patient707@email.com,3066,Diabetes,Dr. Koval,doctor40@clinic.com,Surgeon,LIC-726,2026-01-20,14:00,Completed,Caries,14661.77,No,
+Mariia Boiko,patient360@email.com,6620,Hypertension,Dr. Koval,doctor14@clinic.com,Orthodontist,LIC-869,2025-12-14,12:00,Cancelled,Gingivitis,2724.98,No,
+Yana Lysenko,patient356@email.com,8025,Hypertension,Dr. Smith,doctor15@clinic.com,Surgeon,LIC-213,2026-02-18,11:00,Scheduled,Teeth Cleaning,4701.12,Yes,2026-02-18
+Oleksandr Kovalenko,patient50@email.com,6099,None,Dr. Smith,doctor29@clinic.com,Periodontist,LIC-621,2025-10-06,13:00,Completed,Caries,8863.35,Yes,2025-10-06
+Mariia Boiko,patient752@email.com,3243,None,Dr. Smith,doctor24@clinic.com,Surgeon,LIC-719,2025-10-01,09:00,Completed,Teeth Cleaning,4132.64,Yes,2025-10-01
+Oleksandr Kovalenko,patient758@email.com,3996,Penicillin allergy,Dr. Koval,doctor15@clinic.com,Therapist,LIC-524,2025-12-26,11:00,Cancelled,Gingivitis,9084.11,Yes,2025-12-26
+Ivan Melnyk,patient296@email.com,5758,Hypertension,Dr. Koval,doctor8@clinic.com,Surgeon,LIC-419,2025-12-26,16:00,Completed,Braces Installation,12870.63,No,
+Yana Lysenko,patient678@email.com,7956,None,Dr. Koval,doctor30@clinic.com,Surgeon,LIC-368,2026-01-10,13:00,Completed,Gingivitis,4443.08,Yes,2026-01-10
+Viktor Shevchenko,patient792@email.com,6778,Penicillin allergy,Dr. House,doctor10@clinic.com,Surgeon,LIC-513,2025-09-23,12:00,Cancelled,Pulpitis,13767.2,No,
+Anna Tkachenko,patient403@email.com,8443,None,Dr. House,doctor26@clinic.com,Periodontist,LIC-143,2025-11-20,17:00,Cancelled,Gingivitis,12902.59,No,
+Yana Lysenko,patient626@email.com,1692,Hypertension,Dr. Koval,doctor34@clinic.com,Orthodontist,LIC-796,2026-02-05,16:00,Completed,Healthy,11115.0,Yes,2026-02-05
+Ivan Melnyk,patient620@email.com,6428,None,Dr. Smith,doctor8@clinic.com,Orthodontist,LIC-773,2025-10-05,17:00,Scheduled,Gingivitis,640.23,Yes,2025-10-05
+Mariia Boiko,patient601@email.com,8376,None,Dr. Koval,doctor10@clinic.com,Surgeon,LIC-945,2025-09-23,12:00,Completed,Caries,13883.84,No,
+Viktor Shevchenko,patient318@email.com,1673,None,Dr. Koval,doctor17@clinic.com,Orthodontist,LIC-366,2025-11-25,11:00,Cancelled,Teeth Cleaning,14810.9,No,
+Oleksandr Kovalenko,patient801@email.com,5942,Penicillin allergy,Dr. Frank,doctor40@clinic.com,Surgeon,LIC-958,2026-02-03,09:00,Completed,Gingivitis,5979.89,No,
+Mariia Boiko,patient315@email.com,8585,Hypertension,Dr. Smith,doctor50@clinic.com,Orthodontist,LIC-362,2025-12-05,15:00,Cancelled,Caries,13261.09,Yes,2025-12-05
+Viktor Shevchenko,patient470@email.com,8473,Diabetes,Dr. Frank,doctor3@clinic.com,Orthodontist,LIC-797,2025-10-07,17:00,Cancelled,Braces Installation,14875.14,No,
+Yana Lysenko,patient58@email.com,5780,Hypertension,Dr. Koval,doctor30@clinic.com,Orthodontist,LIC-196,2025-09-26,14:00,Completed,Caries,11416.63,No,
+Viktor Shevchenko,patient52@email.com,9138,Diabetes,Dr. Koval,doctor29@clinic.com,Orthodontist,LIC-411,2025-09-28,14:00,Scheduled,Healthy,10163.94,Yes,2025-09-28
+Oleksandr Kovalenko,patient111@email.com,2604,None,Dr. Koval,doctor8@clinic.com,Therapist,LIC-751,2026-02-10,09:00,Cancelled,Pulpitis,7488.4,Yes,2026-02-10
+Viktor Shevchenko,patient461@email.com,2522,Diabetes,Dr. Smith,doctor42@clinic.com,Periodontist,LIC-851,2025-12-29,15:00,Cancelled,Teeth Cleaning,14839.91,No,
+Ivan Melnyk,patient983@email.com,7721,None,Dr. Koval,doctor46@clinic.com,Orthodontist,LIC-705,2025-11-08,14:00,Cancelled,Teeth Cleaning,617.34,No,
+Viktor Shevchenko,patient644@email.com,9721,Diabetes,Dr. House,doctor32@clinic.com,Therapist,LIC-161,2025-12-19,14:00,Completed,Healthy,4515.4,Yes,2025-12-19
+Yana Lysenko,patient106@email.com,4150,Penicillin allergy,Dr. Koval,doctor24@clinic.com,Periodontist,LIC-178,2025-11-15,10:00,Scheduled,Caries,6125.45,Yes,2025-11-15
+Mariia Boiko,patient959@email.com,8042,None,Dr. Koval,doctor46@clinic.com,Surgeon,LIC-132,2025-10-29,16:00,Completed,Braces Installation,6119.1,No,
+Anna Tkachenko,patient958@email.com,3996,None,Dr. Smith,doctor20@clinic.com,Orthodontist,LIC-278,2026-01-21,15:00,Completed,Gingivitis,3245.57,Yes,2026-01-21
+Anna Tkachenko,patient548@email.com,8221,Diabetes,Dr. Koval,doctor3@clinic.com,Orthodontist,LIC-741,2025-10-04,12:00,Cancelled,Caries,11835.62,No,
+Mariia Boiko,patient942@email.com,3371,Hypertension,Dr. Frank,doctor34@clinic.com,Orthodontist,LIC-373,2026-01-16,16:00,Cancelled,Pulpitis,757.53,Yes,2026-01-16
+Anna Tkachenko,patient880@email.com,9228,None,Dr. Koval,doctor6@clinic.com,Orthodontist,LIC-837,2025-11-23,16:00,Scheduled,Gingivitis,3492.9,No,
+Anna Tkachenko,patient876@email.com,2587,None,Dr. Smith,doctor28@clinic.com,Surgeon,LIC-671,2025-12-13,11:00,Cancelled,Gingivitis,5721.5,Yes,2025-12-13
+Oleksandr Kovalenko,patient812@email.com,2493,Penicillin allergy,Dr. House,doctor8@clinic.com,Surgeon,LIC-437,2026-01-10,12:00,Scheduled,Healthy,6905.91,Yes,2026-01-10
+Viktor Shevchenko,patient679@email.com,7985,Penicillin allergy,Dr. Frank,doctor3@clinic.com,Periodontist,LIC-159,2025-11-20,11:00,Scheduled,Gingivitis,2056.2,Yes,2025-11-20
+Viktor Shevchenko,patient840@email.com,7598,Hypertension,Dr. Frank,doctor43@clinic.com,Orthodontist,LIC-638,2026-03-06,11:00,Cancelled,Healthy,8270.4,Yes,2026-03-06
+Yana Lysenko,patient243@email.com,7762,Hypertension,Dr. Frank,doctor38@clinic.com,Surgeon,LIC-229,2026-01-27,09:00,Cancelled,Braces Installation,6763.27,Yes,2026-01-27
+Oleksandr Kovalenko,patient498@email.com,6351,Penicillin allergy,Dr. Frank,doctor26@clinic.com,Orthodontist,LIC-148,2025-12-31,09:00,Cancelled,Healthy,4293.26,Yes,2025-12-31
+Yana Lysenko,patient267@email.com,2037,Penicillin allergy,Dr. Frank,doctor50@clinic.com,Periodontist,LIC-217,2025-09-19,11:00,Cancelled,Braces Installation,6289.4,Yes,2025-09-19
+Anna Tkachenko,patient565@email.com,8479,None,Dr. House,doctor22@clinic.com,Surgeon,LIC-909,2026-01-07,15:00,Completed,Gingivitis,9140.01,Yes,2026-01-07
+Yana Lysenko,patient751@email.com,2212,Penicillin allergy,Dr. House,doctor4@clinic.com,Orthodontist,LIC-866,2025-10-10,17:00,Cancelled,Gingivitis,2523.65,No,
+Yana Lysenko,patient744@email.com,7069,Penicillin allergy,Dr. Frank,doctor41@clinic.com,Surgeon,LIC-564,2025-11-09,10:00,Completed,Gingivitis,3987.89,Yes,2025-11-09
+Anna Tkachenko,patient678@email.com,4501,None,Dr. Koval,doctor10@clinic.com,Periodontist,LIC-226,2025-11-10,15:00,Scheduled,Teeth Cleaning,1935.18,No,
+Yana Lysenko,patient820@email.com,2250,None,Dr. House,doctor46@clinic.com,Orthodontist,LIC-296,2026-03-02,14:00,Scheduled,Gingivitis,4912.06,Yes,2026-03-02
+Ivan Melnyk,patient856@email.com,2463,Diabetes,Dr. Frank,doctor1@clinic.com,Orthodontist,LIC-689,2026-02-05,11:00,Cancelled,Caries,12829.21,No,
+Mariia Boiko,patient130@email.com,8783,Diabetes,Dr. Smith,doctor49@clinic.com,Therapist,LIC-729,2026-01-21,16:00,Scheduled,Gingivitis,12460.02,Yes,2026-01-21
+Viktor Shevchenko,patient885@email.com,5773,Hypertension,Dr. Koval,doctor26@clinic.com,Therapist,LIC-516,2026-01-23,15:00,Scheduled,Braces Installation,939.88,No,
+Ivan Melnyk,patient146@email.com,6656,None,Dr. Smith,doctor8@clinic.com,Surgeon,LIC-811,2026-02-27,14:00,Cancelled,Healthy,8840.11,No,
+Oleksandr Kovalenko,patient424@email.com,2250,Diabetes,Dr. Frank,doctor13@clinic.com,Surgeon,LIC-525,2026-02-03,09:00,Scheduled,Caries,12958.54,No,
+Ivan Melnyk,patient653@email.com,7065,Diabetes,Dr. Smith,doctor48@clinic.com,Periodontist,LIC-120,2026-01-01,17:00,Completed,Gingivitis,4187.81,No,
+Ivan Melnyk,patient826@email.com,6533,None,Dr. Smith,doctor26@clinic.com,Orthodontist,LIC-594,2026-01-29,12:00,Cancelled,Caries,8627.03,Yes,2026-01-29
+Ivan Melnyk,patient242@email.com,4124,Penicillin allergy,Dr. Koval,doctor40@clinic.com,Therapist,LIC-413,2025-12-17,16:00,Cancelled,Healthy,2665.29,Yes,2025-12-17
+Anna Tkachenko,patient253@email.com,3660,None,Dr. House,doctor22@clinic.com,Surgeon,LIC-130,2025-12-12,15:00,Scheduled,Pulpitis,10158.7,No,
+Viktor Shevchenko,patient693@email.com,3987,None,Dr. Smith,doctor23@clinic.com,Periodontist,LIC-387,2025-10-17,09:00,Cancelled,Pulpitis,6061.94,No,
+Viktor Shevchenko,patient401@email.com,1759,Penicillin allergy,Dr. House,doctor23@clinic.com,Periodontist,LIC-306,2026-02-28,13:00,Completed,Teeth Cleaning,14205.79,Yes,2026-02-28
+Ivan Melnyk,patient869@email.com,1551,None,Dr. Koval,doctor42@clinic.com,Orthodontist,LIC-309,2025-11-03,11:00,Scheduled,Teeth Cleaning,14288.5,No,
+Ivan Melnyk,patient542@email.com,9886,Diabetes,Dr. Smith,doctor44@clinic.com,Periodontist,LIC-485,2025-12-18,12:00,Cancelled,Teeth Cleaning,5482.26,No,
