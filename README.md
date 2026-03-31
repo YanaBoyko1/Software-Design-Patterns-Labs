@@ -73,33 +73,32 @@ python main.py
 * **SQLite** (Database Engine)
 * **CSV** (Data Source)
 
-Laboratory Work #3: MVC Web Application
-The project has been evolved into a full-stack web application, transitioning from a CLI-based system to a dynamic web interface while strictly adhering to the Model-View-Controller (MVC) design pattern.
+```markdown
+## Laboratory Work #3: MVC Web Application
 
-1. MVC Implementation Details
-Model: Implemented using SQLAlchemy ORM. The models define the domain logic and handle direct interactions with the SQLite database.
+The project has been evolved into a full-stack web application, transitioning from a CLI-based system to a dynamic web interface while strictly adhering to the **Model-View-Controller (MVC)** design pattern.
 
-View: Created using Jinja2 templates. Data is visualized as dynamic HTML pages, allowing users to interact with the system via a web browser.
+### MVC Implementation Details
 
-Controller: Handled by Flask routes. The controllers receive user requests, invoke the necessary business logic from the BLL, and return the appropriate views.
+* **Model:** Implemented using SQLAlchemy ORM. The models define the domain logic and handle direct interactions with the SQLite database.
+* **View:** Created using Jinja2 templates. Data is visualized as dynamic HTML pages, allowing users to interact with the system via a web browser.
+* **Controller:** Handled by Flask routes. The controllers receive user requests, invoke the necessary business logic from the BLL, and return the appropriate views.
 
-2. Core Functional Requirements
-Primary Entity: The system focuses on the Patient as the central entity of the dental practice domain.
+### Core Functional Requirements
 
-CRUD Operations: Full implementation of data management:
+* **Primary Entity:** The system focuses on the Patient as the central entity of the dental practice domain.
+* **CRUD Operations:** Full implementation of data management:
+    * **Create:** Add new patients and link them to dentists.
+    * **Read:** Visualize the patient registry and appointment details in a structured table.
+    * **Update:** Edit existing patient information and reassess assigned doctors.
+    * **Delete:** Remove records from the registry with immediate UI feedback.
+* **Business Logic Integration:** Data retrieval and manipulation are strictly performed through BLL service classes, ensuring that the presentation layer never communicates directly with the database.
 
-Create: Add new patients and link them to dentists.
+---
 
-Read: Visualize the patient registry and appointment details in a structured table.
+### Updated Project Structure
 
-Update: Edit existing patient information and reassess assigned doctors.
-
-Delete: Remove records from the registry with immediate UI feedback.
-
-Business Logic Integration: Data retrieval and manipulation are strictly performed through BLL service classes, ensuring that the presentation layer never communicates directly with the database.
-
-3. Updated Project Structure
-Plaintext
+```text
 .
 ├── bll/                  # Business Logic Layer
 │   └── services.py       # Services for CRUD & validation
@@ -115,29 +114,34 @@ Plaintext
 ├── generator.py          # CSV Data Generator (1000+ rows)
 ├── main.py               # Database initialization script
 └── clinic.db             # Persistent SQLite storage
-4. Updated Setup and Execution
-Generate Dataset:
-Ensure the clinic_data.csv is generated:
+```
 
-Bash
+---
+
+### Updated Setup and Execution
+
+**Generate Dataset:** Ensure the `clinic_data.csv` is generated:
+```bash
 python generator.py
-Initialize Database:
-Run the legacy entry point to create tables and import CSV data:
+```
 
-Bash
+**Initialize Database:** Run the legacy entry point to create tables and import CSV data:
+```bash
 python main.py
-Launch Web Interface:
-Start the Flask server to access the MVC application:
+```
 
-Bash
+**Launch Web Interface:** Start the Flask server to access the MVC application:
+```bash
 python app.py
-Access the application at http://127.0.0.1:5000.
+```
+> **Access the application at:** http://127.0.0.1:5000
 
-5. Technologies (Updated)
-Web Framework: Flask
+---
 
-Templating: Jinja2
+### Technologies (Updated)
 
-Styling: Bootstrap 5 (for UI components and Toast notifications)
-
-ORM: SQLAlchemy
+* **Web Framework:** Flask
+* **Templating:** Jinja2
+* **Styling:** Bootstrap 5 (for UI components and Toast notifications)
+* **ORM:** SQLAlchemy
+```
