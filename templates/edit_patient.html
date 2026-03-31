@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Edit Patient Data</title>
+    <style>
+        body { font-family: 'Inter', sans-serif; background: #f8fafc; display: flex; justify-content: center; padding-top: 60px; margin: 0; }
+        .card { background: white; padding: 40px; border-radius: 20px; box-shadow: 0 20px 25px -5px rgba(0,0,0,0.1); width: 420px; }
+        
+        h1 { font-size: 1.5rem; color: #0f172a; margin-bottom: 25px; text-align: center; }
+        
+        .alert { padding: 12px; margin-bottom: 20px; border-radius: 10px; text-align: center; font-weight: bold; color: white; font-size: 0.9rem; }
+        .alert-danger { background: #ef4444; }
+        
+        label { display: block; margin-bottom: 8px; color: #64748b; font-weight: 600; font-size: 0.85rem; text-transform: uppercase; }
+        
+        input, select { 
+            width: 100%; padding: 14px; margin-bottom: 20px; 
+            border: 2px solid #f1f5f9; border-radius: 12px; box-sizing: border-box; 
+            font-size: 1rem; transition: 0.3s; background: #f8fafc;
+        }
+        input:focus, select:focus { border-color: #2563eb; outline: none; background: white; }
+
+        .btn-save { background: #2563eb; color: white; border: none; padding: 16px; width: 100%; border-radius: 12px; cursor: pointer; font-size: 1rem; font-weight: bold; transition: 0.3s; box-shadow: 0 4px 6px rgba(37, 99, 235, 0.2); }
+        .btn-save:hover { background: #1d4ed8; transform: translateY(-1px); }
+        
+        .back { display: block; text-align: center; margin-top: 25px; color: #94a3b8; text-decoration: none; font-size: 0.9rem; font-weight: 500; }
+        .back:hover { color: #64748b; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        {% with messages = get_flashed_messages(with_categories=true) %}
+          {% if messages %}
+            {% for category, message in messages %}
+              <div class="alert alert-{{ category }} flash-message">{{ message }}</div>
+            {% endfor %}
+          {% endif %}
+        {% endwith %}
+
+        <h1>Edit Patient Info</h1>
+        
+        <form method="POST">
+            <label>Full Name</label>
+            <input type="text" name="name" value="{{ patient.name }}" placeholder="e.g. John Doe" required>
+
+            <label>Email Address</label>
+            <input type="email" name="email" value="{{ patient.email }}" placeholder="example@mail.com" required>
+
+            <label>Assigned Dentist</label>
+            <select name="dentist_id" required>
+                {% for d in dentists %}
+                <option value="{{ d.id }}" 
+                    {% if patient.appointments and patient.appointments[0].dentist_id == d.id %} selected {% endif %}>
+                    Dr. {{ d.name }} ({{ d.specialization }})
+                </option>
+                {% endfor %}
+            </select>
+
+            <label>Medical Card Number</label>
+            <input type="number" name="card_id" value="{{ patient.patientCardID }}" required>
+
+            <input type="hidden" name="history" value="{{ patient.medicalHistory }}">
+
+            <button type="submit" class="btn-save">Save Changes</button>
+        </form>
+        <a href="/" class="back">← Back to Registry</a>
+    </div>
+
+    <script>
+        setTimeout(() => {
+            document.querySelectorAll('.flash-message').forEach(el => {
+                el.style.opacity = '0';
+                setTimeout(() => el.remove(), 500);
+            });
+        }, 3000);
+    </script>
+</body>
+</html>

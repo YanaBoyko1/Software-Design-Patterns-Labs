@@ -1,6 +1,7 @@
 from sqlalchemy import Column, Integer, String, Float, ForeignKey
 from sqlalchemy.orm import declarative_base, relationship
 
+# Base class for all database models
 Base = declarative_base()
 
 
@@ -9,8 +10,11 @@ class User(Base):
     id = Column(Integer, primary_key=True)
     name = Column(String, nullable=False)
     email = Column(String, unique=True)
+
+    # Column to identify if the user is a dentist or a patient
     user_type = Column(String)
 
+    # Setup for Joined Table Inheritance (Polymorphism)
     __mapper_args__ = {"polymorphic_on": user_type, "polymorphic_identity": "user"}
 
     def login(self):
@@ -22,10 +26,13 @@ class User(Base):
 
 class Dentist(User):
     __tablename__ = "dentists"
+
+    # Foreign key links this table to the parent 'users' table
     id = Column(Integer, ForeignKey("users.id"), primary_key=True)
     specialization = Column(String)
     licenseID = Column(String)
 
+    # Virtual list of appointments (1-to-many Association)
     appointments = relationship("Appointment", back_populates="dentist")
 
     __mapper_args__ = {"polymorphic_identity": "dentist"}
@@ -56,7 +63,6 @@ class Patient(User):
     def bookAppointment(self):
         pass
 
-
 class Appointment(Base):
     __tablename__ = "appointments"
     id = Column(Integer, primary_key=True)
@@ -64,16 +70,18 @@ class Appointment(Base):
     time = Column(String)
     status = Column(String)
 
+    # Foreign keys representing Association / Aggregation
     dentist_id = Column(Integer, ForeignKey("dentists.id"))
     patient_id = Column(Integer, ForeignKey("patients.id"))
 
     dentist = relationship("Dentist", back_populates="appointments")
     patient = relationship("Patient", back_populates="appointments")
 
+    # 1-to-1 Relationship (uselist=False means only one plan per appointment)
     treatment_plan = relationship(
         "TreatmentPlan", uselist=False, back_populates="appointment"
     )
-
+    # Cascade deletes X-rays automatically if the appointment is removed
     xray_images = relationship(
         "XRayImage", back_populates="appointment", cascade="all, delete-orphan"
     )
@@ -91,6 +99,7 @@ class TreatmentPlan(Base):
     diagnosis = Column(String)
     estimatedCost = Column(Float)
 
+    # Links this treatment plan to a specific appointment
     appointment_id = Column(Integer, ForeignKey("appointments.id"))
     appointment = relationship("Appointment", back_populates="treatment_plan")
 
@@ -107,6 +116,7 @@ class XRayImage(Base):
     imageID = Column(Integer)
     uploadDate = Column(String)
 
+    # Links this X-ray to a specific appointment
     appointment_id = Column(Integer, ForeignKey("appointments.id"))
     appointment = relationship("Appointment", back_populates="xray_images")
 

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dental Registry</title>
+    <style>
+        :root {
+            --primary: #2563eb;    /* Dental Blue */
+            --secondary: #0f172a;  /* Dark Slate */
+            --success: #10b981;    /* Emerald */
+            --warning: #f59e0b;    /* Amber */
+            --danger: #ef4444;     /* Rose */
+            --bg: #f8fafc;
+        }
+
+        body { font-family: 'Inter', 'Segoe UI', sans-serif; margin: 0; background-color: var(--bg); color: var(--secondary); }
+        
+        /* Header */
+        .header { background-color: var(--secondary); color: white; padding: 1rem 2rem; display: flex; align-items: center; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        .header h2 { margin: 0; font-size: 1.5rem; letter-spacing: 1px; }
+        .header span { color: var(--primary); font-weight: bold; }
+
+        .container { max-width: 1200px; margin: 40px auto; padding: 0 20px; }
+
+        /* Alerts */
+        .alert { padding: 1rem; margin-bottom: 1.5rem; border-radius: 12px; text-align: center; font-weight: 600; color: white; transition: opacity 0.5s ease; animation: slideIn 0.3s ease; }
+        .alert-success { background-color: var(--success); }
+        .alert-danger { background-color: var(--danger); }
+        .alert-info { background-color: var(--primary); }
+
+        @keyframes slideIn { from { transform: translateY(-10px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+
+        /* Section Header */
+        .section-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 2rem; }
+        .section-header h1 { font-size: 1.8rem; margin: 0; color: var(--secondary); }
+        
+        .btn-add { background: var(--success); color: white; padding: 12px 24px; text-decoration: none; border-radius: 10px; font-weight: bold; display: flex; align-items: center; transition: 0.3s; box-shadow: 0 4px 6px rgba(16, 185, 129, 0.2); }
+        .btn-add:hover { transform: translateY(-2px); box-shadow: 0 6px 12px rgba(16, 185, 129, 0.3); }
+
+        /* Table Design */
+        .table-container { background: white; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.05); }
+        table { width: 100%; border-collapse: collapse; }
+        th { background: #f1f5f9; padding: 18px; text-align: left; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1px; color: #64748b; }
+        td { padding: 18px; border-bottom: 1px solid #f1f5f9; font-size: 0.95rem; }
+        tr:last-child td { border: none; }
+        tr:hover { background-color: #f8fafc; }
+
+        /* Buttons */
+        .actions { display: flex; gap: 10px; }
+        .btn-edit { background: var(--warning); color: white; padding: 8px 16px; text-decoration: none; border-radius: 8px; font-size: 0.85rem; font-weight: 600; transition: 0.2s; }
+        .btn-edit:hover { background: #d97706; }
+        
+        .btn-delete { background: var(--danger); color: white; border: none; padding: 8px 16px; cursor: pointer; border-radius: 8px; font-size: 0.85rem; font-weight: 600; transition: 0.2s; }
+        .btn-delete:hover { background: #dc2626; }
+
+    </style>
+</head>
+<body>
+    <header class="header">
+        <h2><span>DENTAL</span> CLINIC</h2>
+    </header>
+    
+    <div class="container">
+        {% with messages = get_flashed_messages(with_categories=true) %}
+          {% if messages %}
+            {% for category, message in messages %}
+              <div class="alert alert-{{ category }} flash-message">{{ message }}</div>
+            {% endfor %}
+          {% endif %}
+        {% endwith %}
+
+        <div class="section-header">
+            <h1>Patient Registry</h1>
+            <a href="/add_patient" class="btn-add">+ Add Patient</a>
+        </div>
+        
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>№</th>
+                        <th>Patient Name</th>
+                        <th>Email Address</th>
+                        <th>Card ID</th>
+                        <th>Dentist</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for appt in appointments %}
+                    <tr>
+                        <td style="color: #94a3b8; font-weight: bold;">{{ loop.index }}</td> 
+                        <td style="font-weight: 600;">{{ appt.patient.name }}</td>
+                        <td style="color: #64748b;">{{ appt.patient.email }}</td>
+                        <td><span style="background: #e2e8f0; padding: 4px 10px; border-radius: 6px; font-size: 0.8rem;">#{{ appt.patient.patientCardID }}</span></td>
+                        <td><strong style="color: var(--primary);">{{ appt.dentist.name }}</strong></td>
+                        <td class="actions">
+                            <a href="/edit_patient/{{ appt.patient.id }}" class="btn-edit">Edit</a>
+                            <form action="/delete_appointment/{{ appt.id }}" method="POST" style="margin:0;">
+                                <button type="submit" class="btn-delete" onclick="return confirm('Delete this record?')">Delete</button>
+                            </form>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        setTimeout(() => {
+            document.querySelectorAll('.flash-message').forEach(el => {
+                el.style.opacity = '0';
+                setTimeout(() => el.remove(), 500);
+            });
+        }, 3000);
+    </script>
+</body>
+</html>
