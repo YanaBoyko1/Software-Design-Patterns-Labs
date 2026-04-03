@@ -1,0 +1,4 @@
+{
+    "output_strategy": "kafka",
+    "output_file_name": "../output/fire_inspections.json"
+}
